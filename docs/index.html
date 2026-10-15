@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hiscores do Servidor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --fundo:#1b1510; --moldura:#3a2c1e; --moldura-borda:#6b5232;
+  --pergaminho:#e9dcbc; --pergaminho-2:#ddcda6; --tinta:#2b2116; --tinta-suave:#6a5a43;
+  --ouro:#c8a24a; --ouro-forte:#e6c068; --destaque:#f4e7c4; --linha:#c9b68c;
+  --ok:#3f6b2a;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --pergaminho:#2a2219; --pergaminho-2:#231c14; --tinta:#efe3c6; --tinta-suave:#b5a27f;
+  --destaque:#3a2e20; --linha:#4a3b29; --ok:#8fc06a;
+}}
+:root[data-theme="dark"]{
+  --pergaminho:#2a2219; --pergaminho-2:#231c14; --tinta:#efe3c6; --tinta-suave:#b5a27f;
+  --destaque:#3a2e20; --linha:#4a3b29; --ok:#8fc06a;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--fundo);color:var(--tinta);font:16px/1.4 "Source Sans 3",system-ui,sans-serif;
+  background-image:radial-gradient(ellipse at top,#2c2117 0%,var(--fundo) 70%);min-height:100vh}
+header{text-align:center;padding:28px 16px 12px}
+h1{font-family:Cinzel,serif;color:var(--ouro-forte);margin:0;font-size:clamp(26px,6vw,40px);letter-spacing:.04em;
+  text-shadow:0 2px 0 #000}
+.sub{color:#b9a47c;margin-top:4px;font-size:14px}
+main{max-width:980px;margin:0 auto;padding:0 16px 40px;display:grid;grid-template-columns:200px 1fr;gap:16px}
+main>*{min-width:0}
+@media (max-width:720px){main{grid-template-columns:1fr}}
+.painel{background:var(--moldura);border:2px solid var(--moldura-borda);border-radius:6px;padding:6px;
+  box-shadow:0 6px 18px rgba(0,0,0,.5)}
+nav button{display:flex;justify-content:space-between;width:100%;text-align:left;background:none;border:0;
+  color:#e9dcbc;padding:7px 10px;border-radius:4px;font:600 15px "Source Sans 3",sans-serif;cursor:pointer}
+nav button:hover{background:rgba(255,255,255,.06)}
+nav button[aria-pressed="true"]{background:var(--ouro);color:#2b2116}
+@media (max-width:720px){nav{display:flex;overflow-x:auto;gap:4px}nav button{width:auto;white-space:nowrap}}
+.conteudo{background:var(--pergaminho);border:2px solid var(--moldura-borda);border-radius:6px;overflow:hidden;
+  box-shadow:0 6px 18px rgba(0,0,0,.5)}
+.barra{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between;padding:12px 14px;
+  background:var(--pergaminho-2);border-bottom:1px solid var(--linha)}
+.barra h2{font-family:Cinzel,serif;margin:0;font-size:20px}
+input[type=search]{flex:0 1 220px;min-width:0;padding:7px 10px;border:1px solid var(--linha);border-radius:4px;
+  background:var(--pergaminho);color:var(--tinta);font:inherit}
+.tabela-wrap{overflow-x:auto}
+table{width:100%;border-collapse:collapse}
+th,td{padding:8px 14px;text-align:left;border-bottom:1px solid var(--linha);white-space:nowrap}
+th{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--tinta-suave)}
+@media (max-width:520px){th,td{padding:8px 7px;font-size:15px}th{font-size:11px}}
+td.n{text-align:right;font-variant-numeric:tabular-nums} th.n{text-align:right}
+tbody tr:hover{background:var(--destaque)}
+tbody tr.marcado{background:var(--destaque);outline:2px solid var(--ouro)}
+.pos1 td:first-child{color:#a77d12;font-weight:700}
+a.nome{color:inherit;font-weight:600;text-decoration:none;border-bottom:1px dotted var(--tinta-suave);cursor:pointer}
+.vazio{padding:28px;text-align:center;color:var(--tinta-suave)}
+.ficha{padding:14px}
+.ficha h3{font-family:Cinzel,serif;margin:0 0 4px}
+.grade{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin-top:12px}
+.cel{background:var(--pergaminho-2);border:1px solid var(--linha);border-radius:4px;padding:8px 10px}
+.cel b{display:block;font-size:13px;color:var(--tinta-suave);font-weight:600}
+.cel span{font-size:22px;font-weight:700}
+.cel small{display:block;color:var(--tinta-suave);font-variant-numeric:tabular-nums}
+footer{text-align:center;color:#8f7d5c;font-size:13px;padding:0 16px 24px}
+button.voltar{background:none;border:1px solid var(--linha);color:var(--tinta);border-radius:4px;padding:4px 10px;cursor:pointer;font:inherit}
+</style>
+</head>
+<body>
+<header>
+  <h1>Hiscores do Servidor</h1>
+  <div class="sub" id="atualizado">carregando…</div>
+</header>
+<main>
+  <div class="painel"><nav id="abas" aria-label="Skills"></nav></div>
+  <section class="conteudo">
+    <div class="barra">
+      <h2 id="titulo">Geral</h2>
+      <input type="search" id="busca" placeholder="Buscar jogador…" aria-label="Buscar jogador">
+    </div>
+    <div id="corpo"><div class="vazio">Carregando ranking…</div></div>
+  </section>
+</main>
+<footer>Ranking feito a partir do registro do próprio servidor: progresso de fora não conta.</footer>
+<script>
+const SKILLS=["Agility","Artisan","Attack","Construction","Cooking","Farming","Fishing","Magic","Mining","Ranged","Runecrafting","Woodcutting"];
+const NOMES_PT={Agility:"Agility",Artisan:"Artisan",Attack:"Attack",Construction:"Construction",Cooking:"Cooking",Farming:"Farming",Fishing:"Fishing",Magic:"Magic",Mining:"Mining",Ranged:"Ranged",Runecrafting:"Runecrafting",Woodcutting:"Woodcutting"};
+let dados={jogadores:[]}, aba="Geral", jogadorAberto=null;
+const fmt=n=>(n??0).toLocaleString("pt-BR");
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const skillDe=(j,nome)=>(j.skills||[]).find(s=>s.nome===nome)||{xp:0,nivel:1};
+
+function listaAtual(){
+  if(aba==="Geral") return dados.jogadores.map(j=>({j,nivel:j.total_nivel,xp:j.total_xp}))
+    .sort((a,b)=>b.nivel-a.nivel||b.xp-a.xp);
+  return dados.jogadores.map(j=>{const s=skillDe(j,aba);return{j,nivel:s.nivel??1,xp:s.xp||0}})
+    .filter(x=>x.xp>0).sort((a,b)=>b.xp-a.xp||b.nivel-a.nivel);
+}
+function desenharAbas(){
+  const el=document.getElementById("abas");
+  el.innerHTML=["Geral",...SKILLS].map(s=>`<button aria-pressed="${s===aba}" data-s="${s}">${NOMES_PT[s]||s}</button>`).join("");
+  el.querySelectorAll("button").forEach(b=>b.onclick=()=>{aba=b.dataset.s;jogadorAberto=null;desenhar()});
+}
+function desenharTabela(){
+  const q=document.getElementById("busca").value.trim().toLowerCase();
+  const lista=listaAtual();
+  if(!lista.length) return `<div class="vazio">Ninguém treinou ${aba==="Geral"?"nada":esc(aba)} ainda.</div>`;
+  const linhas=lista.map((x,i)=>{
+    const marca=q&&x.j.nome.toLowerCase().includes(q);
+    return `<tr class="${i===0?"pos1 ":""}${marca?"marcado":""}"><td>${i+1}</td>
+      <td><a class="nome" data-g="${esc(x.j.guid)}">${esc(x.j.nome)}</a></td>
+      <td class="n">${fmt(x.nivel)}</td><td class="n">${fmt(x.xp)}</td></tr>`}).join("");
+  return `<div class="tabela-wrap"><table><thead><tr><th>#</th><th>Jogador</th><th class="n">${aba==="Geral"?"Nível total":"Nível"}</th><th class="n">XP</th></tr></thead><tbody>${linhas}</tbody></table></div>`;
+}
+function desenharFicha(j){
+  const geral=listaAtualGeral().findIndex(x=>x.j.guid===j.guid)+1;
+  const cels=SKILLS.map(n=>{const s=skillDe(j,n);
+    return `<div class="cel"><b>${NOMES_PT[n]}</b><span>${s.nivel??1}</span><small>${fmt(s.xp)} XP</small></div>`}).join("");
+  return `<div class="ficha"><button class="voltar" id="voltar">← voltar</button>
+    <h3 style="margin-top:10px">${esc(j.nome)}</h3>
+    <div style="color:var(--tinta-suave)">#${geral} geral · nível total ${fmt(j.total_nivel)} · ${fmt(j.total_xp)} XP</div>
+    <div class="grade">${cels}</div></div>`;
+}
+function listaAtualGeral(){const a=aba;aba="Geral";const l=listaAtual();aba=a;return l}
+function desenhar(){
+  desenharAbas();
+  document.getElementById("titulo").textContent=jogadorAberto?"Jogador":(NOMES_PT[aba]||aba);
+  const corpo=document.getElementById("corpo");
+  const j=jogadorAberto&&dados.jogadores.find(x=>x.guid===jogadorAberto);
+  corpo.innerHTML=j?desenharFicha(j):desenharTabela();
+  corpo.querySelectorAll("a.nome").forEach(a=>a.onclick=()=>{jogadorAberto=a.dataset.g;desenhar()});
+  const v=document.getElementById("voltar"); if(v) v.onclick=()=>{jogadorAberto=null;desenhar()};
+}
+document.getElementById("busca").addEventListener("input",()=>{
+  const q=document.getElementById("busca").value.trim().toLowerCase();
+  const achados=q?dados.jogadores.filter(j=>j.nome.toLowerCase().includes(q)):[];
+  if(achados.length===1&&achados[0].nome.toLowerCase()===q){jogadorAberto=achados[0].guid}else{jogadorAberto=null}
+  desenhar();
+});
+fetch("ranking.json?t="+Date.now()).then(r=>r.json()).then(d=>{
+  dados=d;dados.jogadores=dados.jogadores||[];
+  const t=d.atualizado?new Date(d.atualizado):null;
+  document.getElementById("atualizado").textContent=
+    `${dados.jogadores.length} jogador(es)`+(t?` · atualizado em ${t.toLocaleString("pt-BR",{dateStyle:"short",timeStyle:"short"})}`:"");
+  desenhar();
+}).catch(()=>{
+  document.getElementById("atualizado").textContent="não consegui carregar o ranking";
+  document.getElementById("corpo").innerHTML='<div class="vazio">O arquivo ranking.json não foi encontrado.</div>';
+});
+desenharAbas();
+</script>
+</body>
+</html>
