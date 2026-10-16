@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T17:41:34Z",
+ "atualizado": "2026-10-16T17:56:56Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,9 +491,9 @@
   {
    "guid": "054EBCFF4CA7F3293237278D8D26A175",
    "nome": "Zimmerrs",
-   "data": "2026-10-16 17:41:34",
-   "total_nivel": 69,
-   "total_xp": 4533,
+   "data": "2026-10-16 17:56:56",
+   "total_nivel": 70,
+   "total_xp": 4633,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
@@ -516,8 +516,8 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 2252,
-     "nivel": 21
+     "xp": 2352,
+     "nivel": 22
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
@@ -572,7 +572,7 @@
   {
    "guid": "136B6B754E1498BB9627A58435BC58AF",
    "nome": "Malvar_Legolas",
-   "data": "2026-10-16 17:41:34",
+   "data": "2026-10-16 17:51:56",
    "total_nivel": 32,
    "total_xp": 1046,
    "skills": [
