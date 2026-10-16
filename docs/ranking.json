@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T04:56:57Z",
+ "atualizado": "2026-10-16T12:56:23Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -248,243 +248,567 @@
   {
    "guid": "24DF97794DE25B81D61ECFA2F71D85B1",
    "nome": ".DEFF.",
-   "data": "2026-10-16 01:02:28",
-   "total_nivel": 462,
-   "total_xp": 281036,
+   "data": "2026-10-16 05:40:09",
+   "total_nivel": 0,
+   "total_xp": 283252,
    "skills": [
     {
-     "id": "pJggvotwOkuoc98igUn7xA",
-     "nome": "Agility",
-     "xp": 21038,
-     "nivel": 43
-    },
-    {
-     "id": "Wf3i7Ha-B06DH719j1vtBw",
-     "nome": "Artisan",
-     "xp": 28409,
-     "nivel": 46
+     "id": "0hreSMRVXUihq9qjDO2CFA",
+     "nome": "0hreSMRVXUihq9qjDO2CFA",
+     "xp": 1159,
+     "nivel": null
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
-     "nome": "Attack",
+     "nome": "4pefO9k1lUqfA6mvHNi1SA",
      "xp": 19093,
-     "nivel": 42
-    },
-    {
-     "id": "waK-8EyQFQ2xEjCGYmuTRQ",
-     "nome": "Construction",
-     "xp": 44489,
-     "nivel": 50
-    },
-    {
-     "id": "Tn7t6DQyX0-Q0cM5K7B90A",
-     "nome": "Cooking",
-     "xp": 14878,
-     "nivel": 39
-    },
-    {
-     "id": "PyUi-0LU_riFY46AnnFiWg",
-     "nome": "Farming",
-     "xp": 11508,
-     "nivel": 37
-    },
-    {
-     "id": "vwY5IkQJJDwb2PKEfoc8MQ",
-     "nome": "Fishing",
-     "xp": 100,
-     "nivel": 3
-    },
-    {
-     "id": "0hreSMRVXUihq9qjDO2CFA",
-     "nome": "Magic",
-     "xp": 1159,
-     "nivel": 16
-    },
-    {
-     "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
-     "nome": "Mining",
-     "xp": 53732,
-     "nivel": 53
-    },
-    {
-     "id": "heq7u88Q2UuLXFqLGTVwQw",
-     "nome": "Ranged",
-     "xp": 53302,
-     "nivel": 53
-    },
-    {
-     "id": "NOqC-z-2ckqi0El22qMFlw",
-     "nome": "Runecrafting",
-     "xp": 13151,
-     "nivel": 38
+     "nivel": null
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
-     "nome": "Woodcutting",
-     "xp": 20177,
-     "nivel": 42
+     "nome": "4zYUGF5u_0KbMLkWJmmBbQ",
+     "xp": 20549,
+     "nivel": null
+    },
+    {
+     "id": "NOqC-z-2ckqi0El22qMFlw",
+     "nome": "NOqC-z-2ckqi0El22qMFlw",
+     "xp": 13319,
+     "nivel": null
+    },
+    {
+     "id": "PyUi-0LU_riFY46AnnFiWg",
+     "nome": "PyUi-0LU_riFY46AnnFiWg",
+     "xp": 11508,
+     "nivel": null
+    },
+    {
+     "id": "Tn7t6DQyX0-Q0cM5K7B90A",
+     "nome": "Tn7t6DQyX0-Q0cM5K7B90A",
+     "xp": 14878,
+     "nivel": null
+    },
+    {
+     "id": "Wf3i7Ha-B06DH719j1vtBw",
+     "nome": "Wf3i7Ha-B06DH719j1vtBw",
+     "xp": 28417,
+     "nivel": null
+    },
+    {
+     "id": "heq7u88Q2UuLXFqLGTVwQw",
+     "nome": "heq7u88Q2UuLXFqLGTVwQw",
+     "xp": 53377,
+     "nivel": null
+    },
+    {
+     "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
+     "nome": "jqX0Gh6QI0GFFPCDFK_CJQ",
+     "xp": 53732,
+     "nivel": null
+    },
+    {
+     "id": "pJggvotwOkuoc98igUn7xA",
+     "nome": "pJggvotwOkuoc98igUn7xA",
+     "xp": 21400,
+     "nivel": null
+    },
+    {
+     "id": "vwY5IkQJJDwb2PKEfoc8MQ",
+     "nome": "vwY5IkQJJDwb2PKEfoc8MQ",
+     "xp": 100,
+     "nivel": null
+    },
+    {
+     "id": "waK-8EyQFQ2xEjCGYmuTRQ",
+     "nome": "waK-8EyQFQ2xEjCGYmuTRQ",
+     "xp": 45720,
+     "nivel": null
+    }
+   ]
+  },
+  {
+   "guid": "B0F67AB12FFB4B74999D59144A6A6556",
+   "nome": "XDante7X",
+   "data": "2026-10-16 12:55:36",
+   "total_nivel": 0,
+   "total_xp": 237339,
+   "skills": [
+    {
+     "id": "0hreSMRVXUihq9qjDO2CFA",
+     "nome": "0hreSMRVXUihq9qjDO2CFA",
+     "xp": 0,
+     "nivel": null
+    },
+    {
+     "id": "4pefO9k1lUqfA6mvHNi1SA",
+     "nome": "4pefO9k1lUqfA6mvHNi1SA",
+     "xp": 0,
+     "nivel": null
+    },
+    {
+     "id": "4zYUGF5u_0KbMLkWJmmBbQ",
+     "nome": "4zYUGF5u_0KbMLkWJmmBbQ",
+     "xp": 57,
+     "nivel": null
+    },
+    {
+     "id": "NOqC-z-2ckqi0El22qMFlw",
+     "nome": "NOqC-z-2ckqi0El22qMFlw",
+     "xp": 232333,
+     "nivel": null
+    },
+    {
+     "id": "PyUi-0LU_riFY46AnnFiWg",
+     "nome": "PyUi-0LU_riFY46AnnFiWg",
+     "xp": 0,
+     "nivel": null
+    },
+    {
+     "id": "Tn7t6DQyX0-Q0cM5K7B90A",
+     "nome": "Tn7t6DQyX0-Q0cM5K7B90A",
+     "xp": 229,
+     "nivel": null
+    },
+    {
+     "id": "Wf3i7Ha-B06DH719j1vtBw",
+     "nome": "Wf3i7Ha-B06DH719j1vtBw",
+     "xp": 10,
+     "nivel": null
+    },
+    {
+     "id": "heq7u88Q2UuLXFqLGTVwQw",
+     "nome": "heq7u88Q2UuLXFqLGTVwQw",
+     "xp": 482,
+     "nivel": null
+    },
+    {
+     "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
+     "nome": "jqX0Gh6QI0GFFPCDFK_CJQ",
+     "xp": 2844,
+     "nivel": null
+    },
+    {
+     "id": "pJggvotwOkuoc98igUn7xA",
+     "nome": "pJggvotwOkuoc98igUn7xA",
+     "xp": 1367,
+     "nivel": null
+    },
+    {
+     "id": "vwY5IkQJJDwb2PKEfoc8MQ",
+     "nome": "vwY5IkQJJDwb2PKEfoc8MQ",
+     "xp": 0,
+     "nivel": null
+    },
+    {
+     "id": "waK-8EyQFQ2xEjCGYmuTRQ",
+     "nome": "waK-8EyQFQ2xEjCGYmuTRQ",
+     "xp": 17,
+     "nivel": null
     }
    ]
   },
   {
    "guid": "BB0E09D999F44969B3938FAB96CAB239",
    "nome": "FluxoReizinhow",
-   "data": "2026-10-16 04:56:57",
-   "total_nivel": 386,
-   "total_xp": 164587,
+   "data": "2026-10-16 05:23:13",
+   "total_nivel": 0,
+   "total_xp": 166110,
    "skills": [
     {
-     "id": "pJggvotwOkuoc98igUn7xA",
-     "nome": "Agility",
-     "xp": 6136,
-     "nivel": 31
-    },
-    {
-     "id": "Wf3i7Ha-B06DH719j1vtBw",
-     "nome": "Artisan",
-     "xp": 12123,
-     "nivel": 37
+     "id": "0hreSMRVXUihq9qjDO2CFA",
+     "nome": "0hreSMRVXUihq9qjDO2CFA",
+     "xp": 8463,
+     "nivel": null
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
-     "nome": "Attack",
+     "nome": "4pefO9k1lUqfA6mvHNi1SA",
      "xp": 12383,
-     "nivel": 38
-    },
-    {
-     "id": "waK-8EyQFQ2xEjCGYmuTRQ",
-     "nome": "Construction",
-     "xp": 6726,
-     "nivel": 32
-    },
-    {
-     "id": "Tn7t6DQyX0-Q0cM5K7B90A",
-     "nome": "Cooking",
-     "xp": 50030,
-     "nivel": 52
-    },
-    {
-     "id": "PyUi-0LU_riFY46AnnFiWg",
-     "nome": "Farming",
-     "xp": 729,
-     "nivel": 12
-    },
-    {
-     "id": "vwY5IkQJJDwb2PKEfoc8MQ",
-     "nome": "Fishing",
-     "xp": 300,
-     "nivel": 7
-    },
-    {
-     "id": "0hreSMRVXUihq9qjDO2CFA",
-     "nome": "Magic",
-     "xp": 8463,
-     "nivel": 34
-    },
-    {
-     "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
-     "nome": "Mining",
-     "xp": 15340,
-     "nivel": 40
-    },
-    {
-     "id": "heq7u88Q2UuLXFqLGTVwQw",
-     "nome": "Ranged",
-     "xp": 4897,
-     "nivel": 29
-    },
-    {
-     "id": "NOqC-z-2ckqi0El22qMFlw",
-     "nome": "Runecrafting",
-     "xp": 44349,
-     "nivel": 50
+     "nivel": null
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
-     "nome": "Woodcutting",
+     "nome": "4zYUGF5u_0KbMLkWJmmBbQ",
      "xp": 3111,
-     "nivel": 24
+     "nivel": null
+    },
+    {
+     "id": "NOqC-z-2ckqi0El22qMFlw",
+     "nome": "NOqC-z-2ckqi0El22qMFlw",
+     "xp": 44349,
+     "nivel": null
+    },
+    {
+     "id": "PyUi-0LU_riFY46AnnFiWg",
+     "nome": "PyUi-0LU_riFY46AnnFiWg",
+     "xp": 729,
+     "nivel": null
+    },
+    {
+     "id": "Tn7t6DQyX0-Q0cM5K7B90A",
+     "nome": "Tn7t6DQyX0-Q0cM5K7B90A",
+     "xp": 50030,
+     "nivel": null
+    },
+    {
+     "id": "Wf3i7Ha-B06DH719j1vtBw",
+     "nome": "Wf3i7Ha-B06DH719j1vtBw",
+     "xp": 13125,
+     "nivel": null
+    },
+    {
+     "id": "heq7u88Q2UuLXFqLGTVwQw",
+     "nome": "heq7u88Q2UuLXFqLGTVwQw",
+     "xp": 4897,
+     "nivel": null
+    },
+    {
+     "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
+     "nome": "jqX0Gh6QI0GFFPCDFK_CJQ",
+     "xp": 15340,
+     "nivel": null
+    },
+    {
+     "id": "pJggvotwOkuoc98igUn7xA",
+     "nome": "pJggvotwOkuoc98igUn7xA",
+     "xp": 6211,
+     "nivel": null
+    },
+    {
+     "id": "vwY5IkQJJDwb2PKEfoc8MQ",
+     "nome": "vwY5IkQJJDwb2PKEfoc8MQ",
+     "xp": 300,
+     "nivel": null
+    },
+    {
+     "id": "waK-8EyQFQ2xEjCGYmuTRQ",
+     "nome": "waK-8EyQFQ2xEjCGYmuTRQ",
+     "xp": 7172,
+     "nivel": null
+    }
+   ]
+  },
+  {
+   "guid": "6DB74FA546071DA417AB488DB9AE216D",
+   "nome": "G0lira",
+   "data": "2026-10-16 12:50:38",
+   "total_nivel": 0,
+   "total_xp": 97832,
+   "skills": [
+    {
+     "id": "0hreSMRVXUihq9qjDO2CFA",
+     "nome": "0hreSMRVXUihq9qjDO2CFA",
+     "xp": 50,
+     "nivel": null
+    },
+    {
+     "id": "4pefO9k1lUqfA6mvHNi1SA",
+     "nome": "4pefO9k1lUqfA6mvHNi1SA",
+     "xp": 9355,
+     "nivel": null
+    },
+    {
+     "id": "4zYUGF5u_0KbMLkWJmmBbQ",
+     "nome": "4zYUGF5u_0KbMLkWJmmBbQ",
+     "xp": 701,
+     "nivel": null
+    },
+    {
+     "id": "NOqC-z-2ckqi0El22qMFlw",
+     "nome": "NOqC-z-2ckqi0El22qMFlw",
+     "xp": 985,
+     "nivel": null
+    },
+    {
+     "id": "PyUi-0LU_riFY46AnnFiWg",
+     "nome": "PyUi-0LU_riFY46AnnFiWg",
+     "xp": 212,
+     "nivel": null
+    },
+    {
+     "id": "Tn7t6DQyX0-Q0cM5K7B90A",
+     "nome": "Tn7t6DQyX0-Q0cM5K7B90A",
+     "xp": 68873,
+     "nivel": null
+    },
+    {
+     "id": "Wf3i7Ha-B06DH719j1vtBw",
+     "nome": "Wf3i7Ha-B06DH719j1vtBw",
+     "xp": 4969,
+     "nivel": null
+    },
+    {
+     "id": "heq7u88Q2UuLXFqLGTVwQw",
+     "nome": "heq7u88Q2UuLXFqLGTVwQw",
+     "xp": 236,
+     "nivel": null
+    },
+    {
+     "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
+     "nome": "jqX0Gh6QI0GFFPCDFK_CJQ",
+     "xp": 8624,
+     "nivel": null
+    },
+    {
+     "id": "pJggvotwOkuoc98igUn7xA",
+     "nome": "pJggvotwOkuoc98igUn7xA",
+     "xp": 2450,
+     "nivel": null
+    },
+    {
+     "id": "vwY5IkQJJDwb2PKEfoc8MQ",
+     "nome": "vwY5IkQJJDwb2PKEfoc8MQ",
+     "xp": 50,
+     "nivel": null
+    },
+    {
+     "id": "waK-8EyQFQ2xEjCGYmuTRQ",
+     "nome": "waK-8EyQFQ2xEjCGYmuTRQ",
+     "xp": 1327,
+     "nivel": null
     }
    ]
   },
   {
    "guid": "6E8897664DFD3701C7EED0AE3DA9AB16",
    "nome": "Explosiva",
-   "data": "2026-10-16 04:56:47",
-   "total_nivel": 236,
+   "data": "2026-10-16 05:23:16",
+   "total_nivel": 0,
    "total_xp": 33987,
    "skills": [
     {
-     "id": "pJggvotwOkuoc98igUn7xA",
-     "nome": "Agility",
-     "xp": 2964,
-     "nivel": 24
-    },
-    {
-     "id": "Wf3i7Ha-B06DH719j1vtBw",
-     "nome": "Artisan",
-     "xp": 2808,
-     "nivel": 23
+     "id": "0hreSMRVXUihq9qjDO2CFA",
+     "nome": "0hreSMRVXUihq9qjDO2CFA",
+     "xp": 1880,
+     "nivel": null
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
-     "nome": "Attack",
+     "nome": "4pefO9k1lUqfA6mvHNi1SA",
      "xp": 1460,
-     "nivel": 18
-    },
-    {
-     "id": "waK-8EyQFQ2xEjCGYmuTRQ",
-     "nome": "Construction",
-     "xp": 5729,
-     "nivel": 30
-    },
-    {
-     "id": "Tn7t6DQyX0-Q0cM5K7B90A",
-     "nome": "Cooking",
-     "xp": 1242,
-     "nivel": 16
-    },
-    {
-     "id": "PyUi-0LU_riFY46AnnFiWg",
-     "nome": "Farming",
-     "xp": 374,
-     "nivel": 8
-    },
-    {
-     "id": "vwY5IkQJJDwb2PKEfoc8MQ",
-     "nome": "Fishing",
-     "xp": 0,
-     "nivel": 1
-    },
-    {
-     "id": "0hreSMRVXUihq9qjDO2CFA",
-     "nome": "Magic",
-     "xp": 1880,
-     "nivel": 20
-    },
-    {
-     "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
-     "nome": "Mining",
-     "xp": 3894,
-     "nivel": 26
-    },
-    {
-     "id": "heq7u88Q2UuLXFqLGTVwQw",
-     "nome": "Ranged",
-     "xp": 510,
-     "nivel": 10
-    },
-    {
-     "id": "NOqC-z-2ckqi0El22qMFlw",
-     "nome": "Runecrafting",
-     "xp": 9784,
-     "nivel": 35
+     "nivel": null
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
-     "nome": "Woodcutting",
+     "nome": "4zYUGF5u_0KbMLkWJmmBbQ",
      "xp": 3342,
-     "nivel": 25
+     "nivel": null
+    },
+    {
+     "id": "NOqC-z-2ckqi0El22qMFlw",
+     "nome": "NOqC-z-2ckqi0El22qMFlw",
+     "xp": 9784,
+     "nivel": null
+    },
+    {
+     "id": "PyUi-0LU_riFY46AnnFiWg",
+     "nome": "PyUi-0LU_riFY46AnnFiWg",
+     "xp": 374,
+     "nivel": null
+    },
+    {
+     "id": "Tn7t6DQyX0-Q0cM5K7B90A",
+     "nome": "Tn7t6DQyX0-Q0cM5K7B90A",
+     "xp": 1242,
+     "nivel": null
+    },
+    {
+     "id": "Wf3i7Ha-B06DH719j1vtBw",
+     "nome": "Wf3i7Ha-B06DH719j1vtBw",
+     "xp": 2808,
+     "nivel": null
+    },
+    {
+     "id": "heq7u88Q2UuLXFqLGTVwQw",
+     "nome": "heq7u88Q2UuLXFqLGTVwQw",
+     "xp": 510,
+     "nivel": null
+    },
+    {
+     "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
+     "nome": "jqX0Gh6QI0GFFPCDFK_CJQ",
+     "xp": 3894,
+     "nivel": null
+    },
+    {
+     "id": "pJggvotwOkuoc98igUn7xA",
+     "nome": "pJggvotwOkuoc98igUn7xA",
+     "xp": 2964,
+     "nivel": null
+    },
+    {
+     "id": "vwY5IkQJJDwb2PKEfoc8MQ",
+     "nome": "vwY5IkQJJDwb2PKEfoc8MQ",
+     "xp": 0,
+     "nivel": null
+    },
+    {
+     "id": "waK-8EyQFQ2xEjCGYmuTRQ",
+     "nome": "waK-8EyQFQ2xEjCGYmuTRQ",
+     "xp": 5729,
+     "nivel": null
+    }
+   ]
+  },
+  {
+   "guid": "6E07DF4B49641F985F5B11AD1A154E46",
+   "nome": "Ifood",
+   "data": "2026-10-16 06:05:17",
+   "total_nivel": 0,
+   "total_xp": 4677,
+   "skills": [
+    {
+     "id": "0hreSMRVXUihq9qjDO2CFA",
+     "nome": "0hreSMRVXUihq9qjDO2CFA",
+     "xp": 0,
+     "nivel": null
+    },
+    {
+     "id": "4pefO9k1lUqfA6mvHNi1SA",
+     "nome": "4pefO9k1lUqfA6mvHNi1SA",
+     "xp": 2562,
+     "nivel": null
+    },
+    {
+     "id": "4zYUGF5u_0KbMLkWJmmBbQ",
+     "nome": "4zYUGF5u_0KbMLkWJmmBbQ",
+     "xp": 67,
+     "nivel": null
+    },
+    {
+     "id": "NOqC-z-2ckqi0El22qMFlw",
+     "nome": "NOqC-z-2ckqi0El22qMFlw",
+     "xp": 40,
+     "nivel": null
+    },
+    {
+     "id": "PyUi-0LU_riFY46AnnFiWg",
+     "nome": "PyUi-0LU_riFY46AnnFiWg",
+     "xp": 40,
+     "nivel": null
+    },
+    {
+     "id": "Tn7t6DQyX0-Q0cM5K7B90A",
+     "nome": "Tn7t6DQyX0-Q0cM5K7B90A",
+     "xp": 804,
+     "nivel": null
+    },
+    {
+     "id": "Wf3i7Ha-B06DH719j1vtBw",
+     "nome": "Wf3i7Ha-B06DH719j1vtBw",
+     "xp": 60,
+     "nivel": null
+    },
+    {
+     "id": "heq7u88Q2UuLXFqLGTVwQw",
+     "nome": "heq7u88Q2UuLXFqLGTVwQw",
+     "xp": 0,
+     "nivel": null
+    },
+    {
+     "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
+     "nome": "jqX0Gh6QI0GFFPCDFK_CJQ",
+     "xp": 298,
+     "nivel": null
+    },
+    {
+     "id": "pJggvotwOkuoc98igUn7xA",
+     "nome": "pJggvotwOkuoc98igUn7xA",
+     "xp": 773,
+     "nivel": null
+    },
+    {
+     "id": "vwY5IkQJJDwb2PKEfoc8MQ",
+     "nome": "vwY5IkQJJDwb2PKEfoc8MQ",
+     "xp": 0,
+     "nivel": null
+    },
+    {
+     "id": "waK-8EyQFQ2xEjCGYmuTRQ",
+     "nome": "waK-8EyQFQ2xEjCGYmuTRQ",
+     "xp": 33,
+     "nivel": null
+    }
+   ]
+  },
+  {
+   "guid": "136B6B754E1498BB9627A58435BC58AF",
+   "nome": "Malvar_Legolas",
+   "data": "2026-10-16 12:55:39",
+   "total_nivel": 0,
+   "total_xp": 207,
+   "skills": [
+    {
+     "id": "0hreSMRVXUihq9qjDO2CFA",
+     "nome": "0hreSMRVXUihq9qjDO2CFA",
+     "xp": 0,
+     "nivel": null
+    },
+    {
+     "id": "4pefO9k1lUqfA6mvHNi1SA",
+     "nome": "4pefO9k1lUqfA6mvHNi1SA",
+     "xp": 56,
+     "nivel": null
+    },
+    {
+     "id": "4zYUGF5u_0KbMLkWJmmBbQ",
+     "nome": "4zYUGF5u_0KbMLkWJmmBbQ",
+     "xp": 79,
+     "nivel": null
+    },
+    {
+     "id": "NOqC-z-2ckqi0El22qMFlw",
+     "nome": "NOqC-z-2ckqi0El22qMFlw",
+     "xp": 0,
+     "nivel": null
+    },
+    {
+     "id": "PyUi-0LU_riFY46AnnFiWg",
+     "nome": "PyUi-0LU_riFY46AnnFiWg",
+     "xp": 0,
+     "nivel": null
+    },
+    {
+     "id": "Tn7t6DQyX0-Q0cM5K7B90A",
+     "nome": "Tn7t6DQyX0-Q0cM5K7B90A",
+     "xp": 1,
+     "nivel": null
+    },
+    {
+     "id": "Wf3i7Ha-B06DH719j1vtBw",
+     "nome": "Wf3i7Ha-B06DH719j1vtBw",
+     "xp": 40,
+     "nivel": null
+    },
+    {
+     "id": "heq7u88Q2UuLXFqLGTVwQw",
+     "nome": "heq7u88Q2UuLXFqLGTVwQw",
+     "xp": 0,
+     "nivel": null
+    },
+    {
+     "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
+     "nome": "jqX0Gh6QI0GFFPCDFK_CJQ",
+     "xp": 0,
+     "nivel": null
+    },
+    {
+     "id": "pJggvotwOkuoc98igUn7xA",
+     "nome": "pJggvotwOkuoc98igUn7xA",
+     "xp": 25,
+     "nivel": null
+    },
+    {
+     "id": "vwY5IkQJJDwb2PKEfoc8MQ",
+     "nome": "vwY5IkQJJDwb2PKEfoc8MQ",
+     "xp": 0,
+     "nivel": null
+    },
+    {
+     "id": "waK-8EyQFQ2xEjCGYmuTRQ",
+     "nome": "waK-8EyQFQ2xEjCGYmuTRQ",
+     "xp": 6,
+     "nivel": null
     }
    ]
   },
