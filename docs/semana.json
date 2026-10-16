@@ -189,11 +189,11 @@
     "Woodcutting": 456
    },
    "xp": {
-    "Agility": 1298,
+    "Agility": 1373,
     "Artisan": 100,
-    "Attack": 5633,
+    "Attack": 5794,
     "Construction": 647,
-    "Cooking": 1181,
+    "Cooking": 1196,
     "Farming": 76,
     "Fishing": 0,
     "Magic": 0,
@@ -202,12 +202,12 @@
     "Runecrafting": 160,
     "Woodcutting": 456
    },
-   "data": "2026-10-16 19:53:03",
-   "seg": 600,
+   "data": "2026-10-16 20:12:52",
+   "seg": 1789,
    "seg_skill": {
-    "Agility": 600,
-    "Attack": 300,
-    "Cooking": 600
+    "Agility": 1789,
+    "Attack": 1489,
+    "Cooking": 1789
    }
   },
   "3CC9083C4E6019FE54A2DAB277F2E017": {
@@ -295,8 +295,8 @@
     "Woodcutting": 86
    },
    "xp": {
-    "Agility": 290,
-    "Artisan": 460,
+    "Agility": 315,
+    "Artisan": 590,
     "Attack": 120,
     "Construction": 18,
     "Cooking": 10,
@@ -308,11 +308,48 @@
     "Runecrafting": 0,
     "Woodcutting": 86
    },
-   "data": "2026-10-16 19:26:53",
+   "data": "2026-10-16 20:04:33",
+   "seg": 387,
+   "seg_skill": {
+    "Agility": 387,
+    "Artisan": 387
+   }
+  },
+  "22BA8E3F47D4B637A331CAAEF2C621F0": {
+   "nome": "Feijão 3",
+   "base": {
+    "Agility": 0,
+    "Artisan": 0,
+    "Attack": 0,
+    "Construction": 0,
+    "Cooking": 1,
+    "Farming": 0,
+    "Fishing": 0,
+    "Magic": 0,
+    "Mining": 0,
+    "Ranged": 0,
+    "Runecrafting": 0,
+    "Woodcutting": 3
+   },
+   "xp": {
+    "Agility": 0,
+    "Artisan": 0,
+    "Attack": 0,
+    "Construction": 0,
+    "Cooking": 1,
+    "Farming": 0,
+    "Fishing": 0,
+    "Magic": 0,
+    "Mining": 0,
+    "Ranged": 0,
+    "Runecrafting": 0,
+    "Woodcutting": 3
+   },
+   "data": "2026-10-16 20:12:52",
    "seg": 0,
    "seg_skill": {}
   }
  },
- "ref": "2026-10-16T19:58:06Z",
- "atualizado": "2026-10-16T20:00:32Z"
+ "ref": "2026-10-16T20:12:52Z",
+ "atualizado": "2026-10-16T20:15:21Z"
 }
