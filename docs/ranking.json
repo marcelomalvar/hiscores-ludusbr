@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T20:42:52Z",
+ "atualizado": "2026-10-16T21:00:29Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -329,14 +329,14 @@
   {
    "guid": "6E07DF4B49641F985F5B11AD1A154E46",
    "nome": "Ifood",
-   "data": "2026-10-16 20:42:52",
+   "data": "2026-10-16 20:46:50",
    "total_nivel": 123,
-   "total_xp": 11971,
+   "total_xp": 12180,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 1568,
+     "xp": 1593,
      "nivel": 18
     },
     {
@@ -348,7 +348,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 6045,
+     "xp": 6229,
      "nivel": 31
     },
     {
