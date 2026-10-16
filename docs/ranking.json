@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T17:11:56Z",
+ "atualizado": "2026-10-16T17:21:55Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,14 +491,14 @@
   {
    "guid": "054EBCFF4CA7F3293237278D8D26A175",
    "nome": "Zimmerrs",
-   "data": "2026-10-16 12:15:29",
-   "total_nivel": 64,
-   "total_xp": 3801,
+   "data": "2026-10-16 17:21:55",
+   "total_nivel": 67,
+   "total_xp": 3965,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 755,
+     "xp": 780,
      "nivel": 13
     },
     {
@@ -510,13 +510,13 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 527,
-     "nivel": 10
+     "xp": 557,
+     "nivel": 11
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 1910,
+     "xp": 1920,
      "nivel": 20
     },
     {
@@ -564,8 +564,8 @@
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 0,
-     "nivel": 1
+     "xp": 99,
+     "nivel": 3
     }
    ]
   },
