@@ -64,6 +64,13 @@ a.nome{color:inherit;font-weight:600;text-decoration:none;border-bottom:1px dott
 .cel span{font-size:22px;font-weight:700}
 .cel small{display:block;color:var(--tinta-suave);font-variant-numeric:tabular-nums}
 footer{text-align:center;color:#8f7d5c;font-size:13px;padding:0 16px 24px}
+.semana-topo{padding:12px 14px;color:var(--tinta-suave);font-size:14px;border-bottom:1px solid var(--linha)}
+.semana-topo b{color:var(--tinta)}
+h4.secao{font-family:Cinzel,serif;margin:0;padding:12px 14px 4px;font-size:16px}
+td small{color:var(--tinta-suave);font-variant-numeric:tabular-nums}
+td.ganho{color:var(--ok);font-weight:600}
+@media (max-width:520px){td small{display:block}}
+nav button.sep{margin-bottom:6px;border-bottom:1px solid rgba(233,220,188,.15);border-radius:4px 4px 0 0}
 button.voltar{background:none;border:1px solid var(--linha);color:var(--tinta);border-radius:4px;padding:4px 10px;cursor:pointer;font:inherit}
 </style>
 </head>
@@ -86,7 +93,8 @@ button.voltar{background:none;border:1px solid var(--linha);color:var(--tinta);b
 <script>
 const SKILLS=["Agility","Artisan","Attack","Construction","Cooking","Farming","Fishing","Magic","Mining","Ranged","Runecrafting","Woodcutting"];
 const NOMES_PT={Agility:"Agility",Artisan:"Artisan",Attack:"Attack",Construction:"Construction",Cooking:"Cooking",Farming:"Farming",Fishing:"Fishing",Magic:"Magic",Mining:"Mining",Ranged:"Ranged",Runecrafting:"Runecrafting",Woodcutting:"Woodcutting"};
-let dados={jogadores:[]}, aba="Geral", jogadorAberto=null;
+let dados={jogadores:[]}, semana=null, aba="Geral", jogadorAberto=null;
+const MIN_XPH=30*60;
 const fmt=n=>(n??0).toLocaleString("pt-BR");
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const skillDe=(j,nome)=>(j.skills||[]).find(s=>s.nome===nome)||{xp:0,nivel:1};
@@ -99,7 +107,7 @@ function listaAtual(){
 }
 function desenharAbas(){
   const el=document.getElementById("abas");
-  el.innerHTML=["Geral",...SKILLS].map(s=>`<button aria-pressed="${s===aba}" data-s="${s}">${NOMES_PT[s]||s}</button>`).join("");
+  el.innerHTML=["Geral","Semana",...SKILLS].map(s=>`<button class="${s==="Semana"?"sep":""}" aria-pressed="${s===aba}" data-s="${s}">${NOMES_PT[s]||s}</button>`).join("");
   el.querySelectorAll("button").forEach(b=>b.onclick=()=>{aba=b.dataset.s;jogadorAberto=null;desenhar()});
 }
 function desenharTabela(){
@@ -112,6 +120,51 @@ function desenharTabela(){
       <td><a class="nome" data-g="${esc(x.j.guid)}">${esc(x.j.nome)}</a></td>
       <td class="n">${fmt(x.nivel)}</td><td class="n">${fmt(x.xp)}</td></tr>`}).join("");
   return `<div class="tabela-wrap"><table><thead><tr><th>#</th><th>Jogador</th><th class="n">${aba==="Geral"?"Nível total":"Nível"}</th><th class="n">XP</th></tr></thead><tbody>${linhas}</tbody></table></div>`;
+}
+const dataBR=iso=>new Date(iso).toLocaleDateString("pt-BR",{day:"2-digit",month:"2-digit",timeZone:"America/Sao_Paulo"});
+function horas(seg){const m=Math.round((seg||0)/60);return m<60?`${m} min`:`${Math.floor(m/60)}h${String(m%60).padStart(2,"0")}`}
+function contasSemana(){
+  const lista=[],porSkill={};
+  for(const [g,p] of Object.entries(semana?.jogadores||{})){
+    let total=0;
+    for(const [sk,xp] of Object.entries(p.xp||{})){
+      const ganho=xp-((p.base||{})[sk]??xp); if(ganho<=0) continue;
+      total+=ganho;
+      const seg=(p.seg_skill||{})[sk]||0;
+      (porSkill[sk]=porSkill[sk]||[]).push({g,nome:p.nome,ganho,seg,xph:seg>=MIN_XPH?ganho*3600/seg:null});
+    }
+    if(total>0) lista.push({g,nome:p.nome,total,seg:p.seg||0});
+  }
+  lista.sort((a,b)=>b.total-a.total);
+  return {lista,porSkill};
+}
+function linkJogador(g,nome){
+  const existe=dados.jogadores.some(j=>j.guid===g);
+  return existe?`<a class="nome" data-g="${esc(g)}">${esc(nome)}</a>`:esc(nome);
+}
+function desenharSemana(){
+  if(!semana) return `<div class="vazio">Os ganhos da semana começam a ser contados a partir da próxima atualização.</div>`;
+  const q=document.getElementById("busca").value.trim().toLowerCase();
+  const {lista,porSkill}=contasSemana();
+  const fim=new Date(new Date(semana.fim)-1);
+  const topo=`<div class="semana-topo">Semana de <b>${dataBR(semana.inicio)}</b> a <b>${dataBR(fim)}</b> (segunda a domingo).
+    XP/h conta só o tempo em que a skill ganhou XP; precisa de pelo menos 30 min treinando.</div>`;
+  const destaques=SKILLS.map(sk=>{
+    const v=porSkill[sk]||[];
+    const mais=v.slice().sort((a,b)=>b.ganho-a.ganho)[0];
+    const rapido=v.filter(x=>x.xph).sort((a,b)=>b.xph-a.xph)[0];
+    return `<tr><td>${NOMES_PT[sk]}</td>
+      <td>${mais?`${linkJogador(mais.g,mais.nome)} <small>+${fmt(mais.ganho)}</small>`:"—"}</td>
+      <td>${rapido?`${linkJogador(rapido.g,rapido.nome)} <small>${fmt(Math.round(rapido.xph))} XP/h</small>`:"—"}</td></tr>`}).join("");
+  const linhas=lista.map((x,i)=>{
+    const marca=q&&x.nome.toLowerCase().includes(q);
+    return `<tr class="${i===0?"pos1 ":""}${marca?"marcado":""}"><td>${i+1}</td><td>${linkJogador(x.g,x.nome)}</td>
+      <td class="n ganho">+${fmt(x.total)}</td><td class="n">${horas(x.seg)}</td></tr>`}).join("");
+  return topo+`<h4 class="secao">Destaques por skill</h4>
+    <div class="tabela-wrap"><table><thead><tr><th>Skill</th><th>Mais XP</th><th>Melhor XP/h</th></tr></thead><tbody>${destaques}</tbody></table></div>
+    <h4 class="secao">XP ganho na semana</h4>`+
+    (lista.length?`<div class="tabela-wrap"><table><thead><tr><th>#</th><th>Jogador</th><th class="n">XP ganho</th><th class="n">Tempo treinando</th></tr></thead><tbody>${linhas}</tbody></table></div>`
+      :`<div class="vazio">Ninguém ganhou XP nesta semana ainda.</div>`);
 }
 function desenharFicha(j){
   const geral=listaAtualGeral().findIndex(x=>x.j.guid===j.guid)+1;
@@ -128,7 +181,7 @@ function desenhar(){
   document.getElementById("titulo").textContent=jogadorAberto?"Jogador":(NOMES_PT[aba]||aba);
   const corpo=document.getElementById("corpo");
   const j=jogadorAberto&&dados.jogadores.find(x=>x.guid===jogadorAberto);
-  corpo.innerHTML=j?desenharFicha(j):desenharTabela();
+  corpo.innerHTML=j?desenharFicha(j):(aba==="Semana"?desenharSemana():desenharTabela());
   corpo.querySelectorAll("a.nome").forEach(a=>a.onclick=()=>{jogadorAberto=a.dataset.g;desenhar()});
   const v=document.getElementById("voltar"); if(v) v.onclick=()=>{jogadorAberto=null;desenhar()};
 }
@@ -138,6 +191,7 @@ document.getElementById("busca").addEventListener("input",()=>{
   if(achados.length===1&&achados[0].nome.toLowerCase()===q){jogadorAberto=achados[0].guid}else{jogadorAberto=null}
   desenhar();
 });
+fetch("semana.json?t="+Date.now()).then(r=>r.ok?r.json():null).then(d=>{semana=d;if(aba==="Semana")desenhar()}).catch(()=>{});
 fetch("ranking.json?t="+Date.now()).then(r=>r.json()).then(d=>{
   dados=d;dados.jogadores=dados.jogadores||[];
   const t=d.atualizado?new Date(d.atualizado):null;
