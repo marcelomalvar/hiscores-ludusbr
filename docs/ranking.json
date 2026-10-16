@@ -1,18 +1,18 @@
 {
- "atualizado": "2026-10-16T02:09:45Z",
+ "atualizado": "2026-10-16T02:24:45Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
    "guid": "310C59C7425D648E42B6F783690445A3",
    "nome": "HimuraS4",
-   "data": "2026-10-16 02:09:45",
+   "data": "2026-10-16 02:24:45",
    "total_nivel": 791,
-   "total_xp": 3174119,
+   "total_xp": 3174219,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 93363,
+     "xp": 93463,
      "nivel": 61
     },
     {
@@ -86,7 +86,7 @@
   {
    "guid": "97AA4FCF49572AAE63CFC3A861823B8E",
    "nome": "Malvar",
-   "data": "2026-10-16 02:09:45",
+   "data": "2026-10-16 02:24:45",
    "total_nivel": 621,
    "total_xp": 1209369,
    "skills": [
@@ -167,26 +167,26 @@
   {
    "guid": "9B81068F4B6ECE6ADDF88488429BFFB0",
    "nome": "Greed",
-   "data": "2026-10-16 02:09:45",
+   "data": "2026-10-16 02:24:45",
    "total_nivel": 611,
-   "total_xp": 1320423,
+   "total_xp": 1321498,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 45730,
+     "xp": 46290,
      "nivel": 51
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 47847,
+     "xp": 47856,
      "nivel": 51
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 768311,
+     "xp": 768529,
      "nivel": 97
     },
     {
@@ -198,7 +198,7 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 39241,
+     "xp": 39519,
      "nivel": 49
     },
     {
@@ -222,7 +222,7 @@
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 92210,
+     "xp": 92220,
      "nivel": 60
     },
     {
@@ -329,20 +329,20 @@
   {
    "guid": "BB0E09D999F44969B3938FAB96CAB239",
    "nome": "FluxoReizinhow",
-   "data": "2026-10-16 02:09:45",
-   "total_nivel": 374,
-   "total_xp": 128472,
+   "data": "2026-10-16 02:24:45",
+   "total_nivel": 376,
+   "total_xp": 131134,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 5611,
+     "xp": 5686,
      "nivel": 30
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 11211,
+     "xp": 11219,
      "nivel": 37
     },
     {
@@ -360,8 +360,8 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 17674,
-     "nivel": 41
+     "xp": 20237,
+     "nivel": 43
     },
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
@@ -390,7 +390,7 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 4881,
+     "xp": 4897,
      "nivel": 29
     },
     {
