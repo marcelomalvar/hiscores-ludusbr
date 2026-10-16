@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T22:59:13Z",
+ "atualizado": "2026-10-16T23:12:43Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,15 +491,15 @@
   {
    "guid": "054EBCFF4CA7F3293237278D8D26A175",
    "nome": "Zimmerrs",
-   "data": "2026-10-16 22:59:13",
-   "total_nivel": 73,
-   "total_xp": 5296,
+   "data": "2026-10-16 23:12:43",
+   "total_nivel": 81,
+   "total_xp": 6189,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 1005,
-     "nivel": 15
+     "xp": 1110,
+     "nivel": 16
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -510,8 +510,8 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 623,
-     "nivel": 11
+     "xp": 1377,
+     "nivel": 17
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
@@ -552,8 +552,8 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 9,
-     "nivel": 1
+     "xp": 43,
+     "nivel": 2
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
