@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T23:12:43Z",
+ "atualizado": "2026-10-16T23:27:43Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,27 +491,27 @@
   {
    "guid": "054EBCFF4CA7F3293237278D8D26A175",
    "nome": "Zimmerrs",
-   "data": "2026-10-16 23:12:43",
-   "total_nivel": 81,
-   "total_xp": 6189,
+   "data": "2026-10-16 23:27:43",
+   "total_nivel": 87,
+   "total_xp": 6664,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 1110,
+     "xp": 1235,
      "nivel": 16
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 540,
-     "nivel": 10
+     "xp": 560,
+     "nivel": 11
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 1377,
-     "nivel": 17
+     "xp": 1503,
+     "nivel": 18
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
@@ -546,20 +546,20 @@
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 77,
-     "nivel": 3
+     "xp": 205,
+     "nivel": 5
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 43,
-     "nivel": 2
+     "xp": 75,
+     "nivel": 3
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 50,
-     "nivel": 2
+     "xp": 94,
+     "nivel": 3
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
