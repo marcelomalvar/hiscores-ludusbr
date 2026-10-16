@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T19:14:38Z",
+ "atualizado": "2026-10-16T19:26:53Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -410,15 +410,15 @@
   {
    "guid": "6E07DF4B49641F985F5B11AD1A154E46",
    "nome": "Ifood",
-   "data": "2026-10-16 19:14:38",
-   "total_nivel": 107,
-   "total_xp": 9256,
+   "data": "2026-10-16 19:26:53",
+   "total_nivel": 109,
+   "total_xp": 9512,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 1048,
-     "nivel": 15
+     "xp": 1173,
+     "nivel": 16
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -429,13 +429,13 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 4864,
+     "xp": 4967,
      "nivel": 29
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 551,
+     "xp": 557,
      "nivel": 11
     },
     {
@@ -477,13 +477,13 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 140,
-     "nivel": 4
+     "xp": 160,
+     "nivel": 5
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 454,
+     "xp": 456,
      "nivel": 9
     }
    ]
@@ -572,15 +572,15 @@
   {
    "guid": "136B6B754E1498BB9627A58435BC58AF",
    "nome": "Malvar_Legolas",
-   "data": "2026-10-16 18:59:23",
-   "total_nivel": 39,
-   "total_xp": 1390,
+   "data": "2026-10-16 19:26:53",
+   "total_nivel": 40,
+   "total_xp": 1504,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 240,
-     "nivel": 6
+     "xp": 290,
+     "nivel": 7
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -591,7 +591,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 112,
+     "xp": 120,
      "nivel": 4
     },
     {
@@ -603,7 +603,7 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 3,
+     "xp": 10,
      "nivel": 1
     },
     {
@@ -633,7 +633,7 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 472,
+     "xp": 520,
      "nivel": 10
     },
     {
@@ -645,7 +645,7 @@
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 85,
+     "xp": 86,
      "nivel": 3
     }
    ]
