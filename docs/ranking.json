@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T15:26:55Z",
+ "atualizado": "2026-10-16T15:27:37Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -410,9 +410,9 @@
   {
    "guid": "6E07DF4B49641F985F5B11AD1A154E46",
    "nome": "Ifood",
-   "data": "2026-10-16 15:26:55",
-   "total_nivel": 105,
-   "total_xp": 9160,
+   "data": "2026-10-16 15:27:37",
+   "total_nivel": 106,
+   "total_xp": 9173,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
@@ -435,8 +435,8 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 538,
-     "nivel": 10
+     "xp": 551,
+     "nivel": 11
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
