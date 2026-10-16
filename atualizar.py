@@ -13,11 +13,19 @@ Variaveis (segredos do GitHub):
 excluir.txt (opcional, na raiz do repositorio): contas que NAO aparecem no ranking.
   Um GUID por linha; o que vem depois de # e comentario. Editar pelo site do GitHub
   ja vale na proxima execucao. O registro no servidor continua intacto.
+
+docs/semana.json: ganhos da semana (segunda 00:00 de Brasilia ate a segunda seguinte).
+  A cada execucao compara o XP de cada skill com o da execucao anterior. O tempo de jogo
+  sai do campo "data" do registro (o servidor regrava a cada ~5 min enquanto o jogador
+  esta online): o intervalo entre duas gravacoes vistas conta como tempo jogado e vale
+  para cada skill que ganhou XP nele. Se o jogador estava offline na execucao anterior,
+  conta so a partir dela (nao a pausa); e nunca mais de 45 min por intervalo. Na virada da semana o resultado vai para docs/semanas/<data>.json.
 """
 import json
 import os
 import sys
 import urllib.request
+from datetime import datetime, timedelta, timezone
 
 import paramiko
 
@@ -25,6 +33,11 @@ AQUI = os.path.dirname(os.path.abspath(__file__))
 PUBLICO = os.path.join(AQUI, "docs", "ranking.json")
 ESTADO = os.path.join(AQUI, "estado.json")
 EXCLUIR = os.path.join(AQUI, "excluir.txt")
+SEMANA = os.path.join(AQUI, "docs", "semana.json")
+SEMANAS = os.path.join(AQUI, "docs", "semanas")
+BRASILIA = timezone(timedelta(hours=-3))
+PAUSA_MAX = 45 * 60      # segundos: intervalo maior que isso entre gravacoes nao conta inteiro
+MIN_XPH = 30 * 60        # segundos treinando a skill para aparecer no XP/h
 
 
 def env(nome, padrao=None):
@@ -122,11 +135,118 @@ def ler_excluidos():
     return {l.split("#", 1)[0].strip().upper() for l in linhas} - {""}
 
 
+def agora_utc():
+    return datetime.now(timezone.utc)
+
+
+def inicio_semana(t):
+    """Segunda-feira 00:00 de Brasilia da semana de t, em UTC."""
+    local = t.astimezone(BRASILIA)
+    seg = (local - timedelta(days=local.weekday())).replace(hour=0, minute=0, second=0, microsecond=0)
+    return seg.astimezone(timezone.utc)
+
+
+def iso(t):
+    return t.strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def ler_data(texto):
+    for f in ("%Y-%m-%d %H:%M:%S", "%Y-%m-%dT%H:%M:%SZ"):
+        try:
+            return datetime.strptime(texto, f).replace(tzinfo=timezone.utc)
+        except (TypeError, ValueError):
+            pass
+    return None
+
+
+def xp_por_skill(j):
+    return {s["nome"]: int(s.get("xp") or 0) for s in j.get("skills", []) if s.get("nome")}
+
+
+def resumo_semana(sem):
+    """Para cada skill: quem mais ganhou XP e quem teve o melhor XP/h. Mais o top de XP total."""
+    total, lideres = [], {}
+    for g, p in sem.get("jogadores", {}).items():
+        ganho_total = 0
+        for sk, xp in p.get("xp", {}).items():
+            ganho = xp - p.get("base", {}).get(sk, xp)
+            if ganho <= 0:
+                continue
+            ganho_total += ganho
+            seg = p.get("seg_skill", {}).get(sk, 0)
+            l = lideres.setdefault(sk, {"ganho": None, "xph": None})
+            if l["ganho"] is None or ganho > l["ganho"][1]:
+                l["ganho"] = (p["nome"], ganho)
+            if seg >= MIN_XPH:
+                xph = ganho * 3600 / seg
+                if l["xph"] is None or xph > l["xph"][1]:
+                    l["xph"] = (p["nome"], xph, ganho)
+        if ganho_total > 0:
+            total.append((p["nome"], ganho_total, p.get("seg", 0)))
+    total.sort(key=lambda x: -x[1])
+    return total, lideres
+
+
+def atualizar_semana(jogadores, agora, atualizado=None):
+    """Atualiza docs/semana.json com o ranking (ja filtrado). Devolve True se mudou."""
+    ini = inicio_semana(agora)
+    antes = ler_json(SEMANA, None)
+    sem = json.loads(json.dumps(antes)) if antes else None
+    virou = sem is not None and sem.get("inicio") != iso(ini)
+    if virou:
+        os.makedirs(SEMANAS, exist_ok=True)
+        sem["final"] = True
+        nome = datetime.strptime(sem["inicio"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+        gravar_json(os.path.join(SEMANAS, nome.astimezone(BRASILIA).strftime("%Y-%m-%d") + ".json"), sem)
+        total, _ = resumo_semana(sem)
+        print(f"Semana {sem['inicio']} encerrada; campeao: {total[0][0] if total else '-'}")
+    if sem is None or virou:
+        sem = {"inicio": iso(ini), "fim": iso(ini + timedelta(days=7)), "jogadores": {}}
+    js = sem["jogadores"]
+    ref = ler_data(sem.get("ref"))   # momento da ultima gravacao vista na execucao anterior
+    for j in jogadores:
+        g = str(j.get("guid", "")).upper()
+        xp = xp_por_skill(j)
+        p = js.get(g)
+        if p is None:
+            # primeira vez nesta semana: o XP de agora e o ponto de partida
+            js[g] = {"nome": j["nome"], "base": xp, "xp": xp, "data": j.get("data"), "seg": 0, "seg_skill": {}}
+            continue
+        p["nome"] = j["nome"]
+        if j.get("data") == p.get("data"):
+            continue
+        t1, t0 = ler_data(j.get("data")), ler_data(p.get("data"))
+        dt = 0
+        if t1 and t0:
+            if ref and t0 < ref - timedelta(minutes=6):
+                t0 = max(t0, ref)    # estava offline na execucao anterior: a pausa nao conta
+            dt = int(min(max((t1 - t0).total_seconds(), 0), PAUSA_MAX))
+        ganhou = [sk for sk, v in xp.items() if v > p["xp"].get(sk, v)]
+        if ganhou:
+            p["seg"] += dt
+            for sk in ganhou:
+                p["seg_skill"][sk] = p["seg_skill"].get(sk, 0) + dt
+        for sk, v in xp.items():
+            p["base"].setdefault(sk, v)
+        p["xp"], p["data"] = xp, j.get("data")
+    if atualizado:
+        sem["ref"] = atualizado
+    if sem == antes:
+        return False
+    sem["atualizado"] = iso(agora)
+    gravar_json(SEMANA, sem)
+    return True
+
+
 def nivel_xp(s):
     return (s.get("nivel") or 0, s.get("xp") or 0)
 
 
-def mensagem_discord(r):
+def num(n):
+    return f"{int(round(n)):,}".replace(",", ".")
+
+
+def mensagem_discord(r, sem=None):
     js = r.get("jogadores", [])
     linhas = ["```", f"{'#':>2}  {'Jogador':<16} {'Nível':>5} {'XP':>11}"]
     for i, j in enumerate(js[:10], 1):
@@ -140,6 +260,15 @@ def mensagem_discord(r):
                 lideres[s["nome"]] = (j["nome"], s)
     lid = [f"**{k}** — {v[0]} ({v[1].get('nivel')})" for k, v in sorted(lideres.items())]
     campos = [{"name": "Líder de cada skill", "value": "\n".join(lid)[:1024]}] if lid else []
+    if sem:
+        total, lideres = resumo_semana(sem)
+        if total:
+            campos.append({"name": "Mais XP na semana",
+                           "value": "\n".join(f"{i}. {n} — +{num(x)} XP" for i, (n, x, _) in enumerate(total[:3], 1))})
+        xph = [f"**{sk}** — {l['xph'][0]} · {num(l['xph'][1])} XP/h"
+               for sk, l in sorted(lideres.items()) if l["xph"]]
+        if xph:
+            campos.append({"name": "Melhor XP/h da semana", "value": "\n".join(xph)[:1024]})
     site = env("SITE_URL", "-")
     embed = {
         "title": "Hiscores do servidor",
@@ -183,17 +312,22 @@ def main():
         antes = len(novo["jogadores"])
         novo["jogadores"] = [j for j in novo["jogadores"] if str(j.get("guid", "")).upper() not in fora]
         print(f"excluir.txt: {antes - len(novo['jogadores'])} conta(s) fora do ranking")
+    mudou_semana = atualizar_semana(novo["jogadores"], agora_utc(), novo.get("atualizado"))
     antigo = ler_json(PUBLICO, {})
-    if antigo == novo:
+    if antigo == novo and not mudou_semana:
         print("Ranking sem mudança")
         return
-    gravar_json(PUBLICO, novo)
-    print(f"Ranking publicado: {len(novo['jogadores'])} jogador(es), {novo.get('atualizado')}")
+    if antigo != novo:
+        gravar_json(PUBLICO, novo)
+        print(f"Ranking publicado: {len(novo['jogadores'])} jogador(es), {novo.get('atualizado')}")
+    if mudou_semana:
+        print("Semana atualizada")
 
     url = env("DISCORD_WEBHOOK", "-")
     if url != "-":
         estado = ler_json(ESTADO, {})
-        estado["discord_msg_id"] = discord(url, mensagem_discord(novo), estado.get("discord_msg_id"))
+        corpo = mensagem_discord(novo, ler_json(SEMANA, None))
+        estado["discord_msg_id"] = discord(url, corpo, estado.get("discord_msg_id"))
         gravar_json(ESTADO, estado)
         print("Discord atualizado")
 
