@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T17:56:56Z",
+ "atualizado": "2026-10-16T18:11:56Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,14 +491,14 @@
   {
    "guid": "054EBCFF4CA7F3293237278D8D26A175",
    "nome": "Zimmerrs",
-   "data": "2026-10-16 17:56:56",
-   "total_nivel": 70,
-   "total_xp": 4633,
+   "data": "2026-10-16 18:11:56",
+   "total_nivel": 71,
+   "total_xp": 4858,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 880,
+     "xp": 905,
      "nivel": 14
     },
     {
@@ -516,8 +516,8 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 2352,
-     "nivel": 22
+     "xp": 2552,
+     "nivel": 23
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
