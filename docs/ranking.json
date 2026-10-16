@@ -1,7 +1,331 @@
 {
- "atualizado": "2026-10-16T15:27:37Z",
+ "atualizado": "2026-10-16T17:11:56Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
+  {
+   "guid": "310C59C7425D648E42B6F783690445A3",
+   "nome": "HimuraS4",
+   "data": "2026-10-16 04:22:06",
+   "total_nivel": 794,
+   "total_xp": 3181595,
+   "skills": [
+    {
+     "id": "pJggvotwOkuoc98igUn7xA",
+     "nome": "Agility",
+     "xp": 94368,
+     "nivel": 61
+    },
+    {
+     "id": "Wf3i7Ha-B06DH719j1vtBw",
+     "nome": "Artisan",
+     "xp": 330654,
+     "nivel": 91
+    },
+    {
+     "id": "4pefO9k1lUqfA6mvHNi1SA",
+     "nome": "Attack",
+     "xp": 1052985,
+     "nivel": 99
+    },
+    {
+     "id": "waK-8EyQFQ2xEjCGYmuTRQ",
+     "nome": "Construction",
+     "xp": 29104,
+     "nivel": 46
+    },
+    {
+     "id": "Tn7t6DQyX0-Q0cM5K7B90A",
+     "nome": "Cooking",
+     "xp": 43832,
+     "nivel": 50
+    },
+    {
+     "id": "PyUi-0LU_riFY46AnnFiWg",
+     "nome": "Farming",
+     "xp": 27310,
+     "nivel": 46
+    },
+    {
+     "id": "vwY5IkQJJDwb2PKEfoc8MQ",
+     "nome": "Fishing",
+     "xp": 8211,
+     "nivel": 34
+    },
+    {
+     "id": "0hreSMRVXUihq9qjDO2CFA",
+     "nome": "Magic",
+     "xp": 203275,
+     "nivel": 77
+    },
+    {
+     "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
+     "nome": "Mining",
+     "xp": 1000025,
+     "nivel": 99
+    },
+    {
+     "id": "heq7u88Q2UuLXFqLGTVwQw",
+     "nome": "Ranged",
+     "xp": 284552,
+     "nivel": 87
+    },
+    {
+     "id": "NOqC-z-2ckqi0El22qMFlw",
+     "nome": "Runecrafting",
+     "xp": 76256,
+     "nivel": 57
+    },
+    {
+     "id": "4zYUGF5u_0KbMLkWJmmBbQ",
+     "nome": "Woodcutting",
+     "xp": 31023,
+     "nivel": 47
+    }
+   ]
+  },
+  {
+   "guid": "97AA4FCF49572AAE63CFC3A861823B8E",
+   "nome": "Malvar",
+   "data": "2026-10-16 02:57:10",
+   "total_nivel": 621,
+   "total_xp": 1209369,
+   "skills": [
+    {
+     "id": "pJggvotwOkuoc98igUn7xA",
+     "nome": "Agility",
+     "xp": 51623,
+     "nivel": 52
+    },
+    {
+     "id": "Wf3i7Ha-B06DH719j1vtBw",
+     "nome": "Artisan",
+     "xp": 85916,
+     "nivel": 59
+    },
+    {
+     "id": "4pefO9k1lUqfA6mvHNi1SA",
+     "nome": "Attack",
+     "xp": 1572,
+     "nivel": 18
+    },
+    {
+     "id": "waK-8EyQFQ2xEjCGYmuTRQ",
+     "nome": "Construction",
+     "xp": 9941,
+     "nivel": 35
+    },
+    {
+     "id": "Tn7t6DQyX0-Q0cM5K7B90A",
+     "nome": "Cooking",
+     "xp": 58242,
+     "nivel": 54
+    },
+    {
+     "id": "PyUi-0LU_riFY46AnnFiWg",
+     "nome": "Farming",
+     "xp": 43608,
+     "nivel": 50
+    },
+    {
+     "id": "vwY5IkQJJDwb2PKEfoc8MQ",
+     "nome": "Fishing",
+     "xp": 4611,
+     "nivel": 28
+    },
+    {
+     "id": "0hreSMRVXUihq9qjDO2CFA",
+     "nome": "Magic",
+     "xp": 18012,
+     "nivel": 41
+    },
+    {
+     "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
+     "nome": "Mining",
+     "xp": 172580,
+     "nivel": 73
+    },
+    {
+     "id": "heq7u88Q2UuLXFqLGTVwQw",
+     "nome": "Ranged",
+     "xp": 606704,
+     "nivel": 96
+    },
+    {
+     "id": "NOqC-z-2ckqi0El22qMFlw",
+     "nome": "Runecrafting",
+     "xp": 85507,
+     "nivel": 59
+    },
+    {
+     "id": "4zYUGF5u_0KbMLkWJmmBbQ",
+     "nome": "Woodcutting",
+     "xp": 71053,
+     "nivel": 56
+    }
+   ]
+  },
+  {
+   "guid": "9B81068F4B6ECE6ADDF88488429BFFB0",
+   "nome": "Greed",
+   "data": "2026-10-16 03:41:22",
+   "total_nivel": 611,
+   "total_xp": 1324668,
+   "skills": [
+    {
+     "id": "pJggvotwOkuoc98igUn7xA",
+     "nome": "Agility",
+     "xp": 47775,
+     "nivel": 51
+    },
+    {
+     "id": "Wf3i7Ha-B06DH719j1vtBw",
+     "nome": "Artisan",
+     "xp": 47856,
+     "nivel": 51
+    },
+    {
+     "id": "4pefO9k1lUqfA6mvHNi1SA",
+     "nome": "Attack",
+     "xp": 770111,
+     "nivel": 97
+    },
+    {
+     "id": "waK-8EyQFQ2xEjCGYmuTRQ",
+     "nome": "Construction",
+     "xp": 44474,
+     "nivel": 50
+    },
+    {
+     "id": "Tn7t6DQyX0-Q0cM5K7B90A",
+     "nome": "Cooking",
+     "xp": 39534,
+     "nivel": 49
+    },
+    {
+     "id": "PyUi-0LU_riFY46AnnFiWg",
+     "nome": "Farming",
+     "xp": 144537,
+     "nivel": 69
+    },
+    {
+     "id": "vwY5IkQJJDwb2PKEfoc8MQ",
+     "nome": "Fishing",
+     "xp": 3150,
+     "nivel": 24
+    },
+    {
+     "id": "0hreSMRVXUihq9qjDO2CFA",
+     "nome": "Magic",
+     "xp": 1825,
+     "nivel": 20
+    },
+    {
+     "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
+     "nome": "Mining",
+     "xp": 92220,
+     "nivel": 60
+    },
+    {
+     "id": "heq7u88Q2UuLXFqLGTVwQw",
+     "nome": "Ranged",
+     "xp": 7786,
+     "nivel": 33
+    },
+    {
+     "id": "NOqC-z-2ckqi0El22qMFlw",
+     "nome": "Runecrafting",
+     "xp": 97285,
+     "nivel": 61
+    },
+    {
+     "id": "4zYUGF5u_0KbMLkWJmmBbQ",
+     "nome": "Woodcutting",
+     "xp": 28115,
+     "nivel": 46
+    }
+   ]
+  },
+  {
+   "guid": "24DF97794DE25B81D61ECFA2F71D85B1",
+   "nome": ".DEFF.",
+   "data": "2026-10-16 05:40:09",
+   "total_nivel": 464,
+   "total_xp": 283252,
+   "skills": [
+    {
+     "id": "pJggvotwOkuoc98igUn7xA",
+     "nome": "Agility",
+     "xp": 21400,
+     "nivel": 43
+    },
+    {
+     "id": "Wf3i7Ha-B06DH719j1vtBw",
+     "nome": "Artisan",
+     "xp": 28417,
+     "nivel": 46
+    },
+    {
+     "id": "4pefO9k1lUqfA6mvHNi1SA",
+     "nome": "Attack",
+     "xp": 19093,
+     "nivel": 42
+    },
+    {
+     "id": "waK-8EyQFQ2xEjCGYmuTRQ",
+     "nome": "Construction",
+     "xp": 45720,
+     "nivel": 51
+    },
+    {
+     "id": "Tn7t6DQyX0-Q0cM5K7B90A",
+     "nome": "Cooking",
+     "xp": 14878,
+     "nivel": 39
+    },
+    {
+     "id": "PyUi-0LU_riFY46AnnFiWg",
+     "nome": "Farming",
+     "xp": 11508,
+     "nivel": 37
+    },
+    {
+     "id": "vwY5IkQJJDwb2PKEfoc8MQ",
+     "nome": "Fishing",
+     "xp": 100,
+     "nivel": 3
+    },
+    {
+     "id": "0hreSMRVXUihq9qjDO2CFA",
+     "nome": "Magic",
+     "xp": 1159,
+     "nivel": 16
+    },
+    {
+     "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
+     "nome": "Mining",
+     "xp": 53732,
+     "nivel": 53
+    },
+    {
+     "id": "heq7u88Q2UuLXFqLGTVwQw",
+     "nome": "Ranged",
+     "xp": 53377,
+     "nivel": 53
+    },
+    {
+     "id": "NOqC-z-2ckqi0El22qMFlw",
+     "nome": "Runecrafting",
+     "xp": 13319,
+     "nivel": 38
+    },
+    {
+     "id": "4zYUGF5u_0KbMLkWJmmBbQ",
+     "nome": "Woodcutting",
+     "xp": 20549,
+     "nivel": 43
+    }
+   ]
+  },
   {
    "guid": "BB0E09D999F44969B3938FAB96CAB239",
    "nome": "FluxoReizinhow",
@@ -572,14 +896,14 @@
   {
    "guid": "136B6B754E1498BB9627A58435BC58AF",
    "nome": "Malvar_Legolas",
-   "data": "2026-10-16 13:51:55",
-   "total_nivel": 22,
-   "total_xp": 482,
+   "data": "2026-10-16 17:11:56",
+   "total_nivel": 23,
+   "total_xp": 525,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 75,
+     "xp": 100,
      "nivel": 3
     },
     {
@@ -633,8 +957,8 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 27,
-     "nivel": 1
+     "xp": 41,
+     "nivel": 2
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
@@ -645,7 +969,7 @@
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 79,
+     "xp": 83,
      "nivel": 3
     }
    ]
