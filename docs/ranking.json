@@ -1,18 +1,18 @@
 {
- "atualizado": "2026-10-16T01:24:45Z",
+ "atualizado": "2026-10-16T02:04:45Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
    "guid": "310C59C7425D648E42B6F783690445A3",
    "nome": "HimuraS4",
-   "data": "2026-10-16 01:24:45",
+   "data": "2026-10-16 02:04:45",
    "total_nivel": 791,
-   "total_xp": 3174019,
+   "total_xp": 3174119,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 93263,
+     "xp": 93363,
      "nivel": 61
     },
     {
@@ -86,7 +86,7 @@
   {
    "guid": "97AA4FCF49572AAE63CFC3A861823B8E",
    "nome": "Malvar",
-   "data": "2026-10-16 01:24:44",
+   "data": "2026-10-16 02:04:45",
    "total_nivel": 621,
    "total_xp": 1209369,
    "skills": [
@@ -167,14 +167,14 @@
   {
    "guid": "9B81068F4B6ECE6ADDF88488429BFFB0",
    "nome": "Greed",
-   "data": "2026-10-16 01:24:45",
+   "data": "2026-10-16 02:04:45",
    "total_nivel": 611,
-   "total_xp": 1319733,
+   "total_xp": 1320153,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 45194,
+     "xp": 45614,
      "nivel": 51
     },
     {
@@ -329,14 +329,14 @@
   {
    "guid": "BB0E09D999F44969B3938FAB96CAB239",
    "nome": "FluxoReizinhow",
-   "data": "2026-10-16 01:24:44",
+   "data": "2026-10-16 02:04:45",
    "total_nivel": 374,
-   "total_xp": 128372,
+   "total_xp": 128447,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 5511,
+     "xp": 5586,
      "nivel": 30
     },
     {
