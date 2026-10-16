@@ -189,11 +189,11 @@
     "Woodcutting": 456
    },
    "xp": {
-    "Agility": 1223,
+    "Agility": 1273,
     "Artisan": 100,
-    "Attack": 5512,
+    "Attack": 5633,
     "Construction": 647,
-    "Cooking": 1103,
+    "Cooking": 1142,
     "Farming": 76,
     "Fishing": 0,
     "Magic": 0,
@@ -202,9 +202,13 @@
     "Runecrafting": 160,
     "Woodcutting": 456
    },
-   "data": "2026-10-16 19:43:03",
-   "seg": 0,
-   "seg_skill": {}
+   "data": "2026-10-16 19:48:03",
+   "seg": 300,
+   "seg_skill": {
+    "Agility": 300,
+    "Attack": 300,
+    "Cooking": 300
+   }
   },
   "3CC9083C4E6019FE54A2DAB277F2E017": {
    "nome": "Deff do youtube",
@@ -309,6 +313,6 @@
    "seg_skill": {}
   }
  },
- "ref": "2026-10-16T19:43:03Z",
- "atualizado": "2026-10-16T19:43:15Z"
+ "ref": "2026-10-16T19:48:03Z",
+ "atualizado": "2026-10-16T19:51:38Z"
 }
