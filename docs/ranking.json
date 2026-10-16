@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T18:26:56Z",
+ "atualizado": "2026-10-16T18:31:56Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,15 +491,15 @@
   {
    "guid": "054EBCFF4CA7F3293237278D8D26A175",
    "nome": "Zimmerrs",
-   "data": "2026-10-16 18:26:56",
-   "total_nivel": 71,
-   "total_xp": 5088,
+   "data": "2026-10-16 18:31:56",
+   "total_nivel": 73,
+   "total_xp": 5271,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 955,
-     "nivel": 14
+     "xp": 980,
+     "nivel": 15
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -516,8 +516,8 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 2732,
-     "nivel": 23
+     "xp": 2890,
+     "nivel": 24
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
@@ -572,14 +572,14 @@
   {
    "guid": "136B6B754E1498BB9627A58435BC58AF",
    "nome": "Malvar_Legolas",
-   "data": "2026-10-16 18:26:56",
-   "total_nivel": 34,
-   "total_xp": 1130,
+   "data": "2026-10-16 18:31:56",
+   "total_nivel": 36,
+   "total_xp": 1308,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 175,
+     "xp": 200,
      "nivel": 5
     },
     {
@@ -633,8 +633,8 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 309,
-     "nivel": 7
+     "xp": 462,
+     "nivel": 9
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
