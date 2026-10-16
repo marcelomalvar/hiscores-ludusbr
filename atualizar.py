@@ -9,6 +9,10 @@ Variaveis (segredos do GitHub):
   RANKING_PATH     caminho do ranking.json a partir da raiz do SFTP
   DISCORD_WEBHOOK  (opcional) URL do webhook do canal #hiscores
   SITE_URL         (opcional) endereco da pagina, para o link no Discord
+
+excluir.txt (opcional, na raiz do repositorio): contas que NAO aparecem no ranking.
+  Um GUID por linha; o que vem depois de # e comentario. Editar pelo site do GitHub
+  ja vale na proxima execucao. O registro no servidor continua intacto.
 """
 import json
 import os
@@ -20,6 +24,7 @@ import paramiko
 AQUI = os.path.dirname(os.path.abspath(__file__))
 PUBLICO = os.path.join(AQUI, "docs", "ranking.json")
 ESTADO = os.path.join(AQUI, "estado.json")
+EXCLUIR = os.path.join(AQUI, "excluir.txt")
 
 
 def env(nome, padrao=None):
@@ -107,6 +112,16 @@ def gravar_json(caminho, dado):
         f.write("\n")
 
 
+def ler_excluidos():
+    """GUIDs de excluir.txt (maiusculas). Linhas vazias e comentarios (#) sao ignorados."""
+    try:
+        with open(EXCLUIR, encoding="utf-8") as f:
+            linhas = f.read().splitlines()
+    except OSError:
+        return set()
+    return {l.split("#", 1)[0].strip().upper() for l in linhas} - {""}
+
+
 def nivel_xp(s):
     return (s.get("nivel") or 0, s.get("xp") or 0)
 
@@ -163,6 +178,11 @@ def main():
     novo = json.loads(bruto)
     if not isinstance(novo.get("jogadores"), list):
         sys.exit("ranking.json sem a lista 'jogadores'; nada publicado")
+    fora = ler_excluidos()
+    if fora:
+        antes = len(novo["jogadores"])
+        novo["jogadores"] = [j for j in novo["jogadores"] if str(j.get("guid", "")).upper() not in fora]
+        print(f"excluir.txt: {antes - len(novo['jogadores'])} conta(s) fora do ranking")
     antigo = ler_json(PUBLICO, {})
     if antigo == novo:
         print("Ranking sem mudança")
