@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T22:25:42Z",
+ "atualizado": "2026-10-16T22:59:13Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,14 +491,14 @@
   {
    "guid": "054EBCFF4CA7F3293237278D8D26A175",
    "nome": "Zimmerrs",
-   "data": "2026-10-16 18:31:56",
+   "data": "2026-10-16 22:59:13",
    "total_nivel": 73,
-   "total_xp": 5271,
+   "total_xp": 5296,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 980,
+     "xp": 1005,
      "nivel": 15
     },
     {

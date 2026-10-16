@@ -266,7 +266,7 @@
     "Woodcutting": 99
    },
    "xp": {
-    "Agility": 980,
+    "Agility": 1005,
     "Artisan": 540,
     "Attack": 623,
     "Construction": 2890,
@@ -279,9 +279,11 @@
     "Runecrafting": 50,
     "Woodcutting": 99
    },
-   "data": "2026-10-16 18:31:56",
-   "seg": 0,
-   "seg_skill": {}
+   "data": "2026-10-16 22:59:13",
+   "seg": 2011,
+   "seg_skill": {
+    "Agility": 2011
+   }
   },
   "136B6B754E1498BB9627A58435BC58AF": {
    "nome": "Malvar_Legolas",
@@ -355,6 +357,6 @@
    "seg_skill": {}
   }
  },
- "ref": "2026-10-16T22:25:42Z",
- "atualizado": "2026-10-16T22:30:25Z"
+ "ref": "2026-10-16T22:59:13Z",
+ "atualizado": "2026-10-16T23:00:33Z"
 }
