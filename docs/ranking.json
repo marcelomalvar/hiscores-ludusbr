@@ -1,24 +1,24 @@
 {
- "atualizado": "2026-10-17T03:44:39Z",
+ "atualizado": "2026-10-17T03:59:39Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
    "guid": "310C59C7425D648E42B6F783690445A3",
    "nome": "HimuraS4",
-   "data": "2026-10-17 03:44:39",
-   "total_nivel": 801,
-   "total_xp": 3324060,
+   "data": "2026-10-17 03:59:39",
+   "total_nivel": 803,
+   "total_xp": 3328735,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 97815,
-     "nivel": 61
+     "xp": 98045,
+     "nivel": 62
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 408536,
+     "xp": 408578,
      "nivel": 94
     },
     {
@@ -30,7 +30,7 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 29262,
+     "xp": 29386,
      "nivel": 46
     },
     {
@@ -54,8 +54,8 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 228452,
-     "nivel": 80
+     "xp": 232731,
+     "nivel": 81
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
