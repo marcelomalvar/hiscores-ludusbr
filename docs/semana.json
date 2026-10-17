@@ -124,7 +124,7 @@
    }
   },
   "6E8897664DFD3701C7EED0AE3DA9AB16": {
-   "nome": "Explosiva",
+   "nome": "Leprechely",
    "base": {
     "Agility": 2964,
     "Artisan": 2808,
@@ -140,22 +140,31 @@
     "Woodcutting": 3342
    },
    "xp": {
-    "Agility": 2964,
-    "Artisan": 2808,
+    "Agility": 3837,
+    "Artisan": 3368,
     "Attack": 1460,
-    "Construction": 5729,
-    "Cooking": 1242,
+    "Construction": 7494,
+    "Cooking": 1372,
     "Farming": 374,
     "Fishing": 0,
-    "Magic": 1880,
-    "Mining": 3894,
+    "Magic": 3822,
+    "Mining": 7096,
     "Ranged": 510,
-    "Runecrafting": 9784,
-    "Woodcutting": 3342
+    "Runecrafting": 186877,
+    "Woodcutting": 3667
    },
-   "data": "2026-10-16 05:23:16",
-   "seg": 0,
-   "seg_skill": {}
+   "data": "2026-10-17 05:10:46",
+   "seg": 667,
+   "seg_skill": {
+    "Agility": 667,
+    "Artisan": 667,
+    "Construction": 667,
+    "Cooking": 667,
+    "Magic": 667,
+    "Mining": 667,
+    "Runecrafting": 667,
+    "Woodcutting": 667
+   }
   },
   "B0F67AB12FFB4B74999D59144A6A6556": {
    "nome": "XDante7X",
@@ -420,10 +429,10 @@
     "Woodcutting": 31024
    },
    "xp": {
-    "Agility": 98705,
-    "Artisan": 1037721,
+    "Agility": 98905,
+    "Artisan": 1038771,
     "Attack": 1061034,
-    "Construction": 29846,
+    "Construction": 29908,
     "Cooking": 45755,
     "Farming": 27616,
     "Fishing": 8211,
@@ -433,17 +442,17 @@
     "Runecrafting": 76522,
     "Woodcutting": 31024
    },
-   "data": "2026-10-17 04:59:39",
-   "seg": 7090,
+   "data": "2026-10-17 05:10:46",
+   "seg": 7757,
    "seg_skill": {
-    "Artisan": 7090,
-    "Agility": 5559,
+    "Artisan": 7757,
+    "Agility": 6226,
     "Attack": 1059,
     "Farming": 1959,
     "Magic": 1959,
     "Mining": 1959,
     "Ranged": 1059,
-    "Construction": 1800,
+    "Construction": 2467,
     "Cooking": 900
    }
   },
@@ -550,6 +559,6 @@
    "seg_skill": {}
   }
  },
- "ref": "2026-10-17T04:59:39Z",
- "atualizado": "2026-10-17T05:00:27Z"
+ "ref": "2026-10-17T05:10:46Z",
+ "atualizado": "2026-10-17T05:15:21Z"
 }
