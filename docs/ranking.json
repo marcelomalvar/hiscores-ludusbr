@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T17:27:45Z",
+ "atualizado": "2026-10-17T17:44:34Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -572,14 +572,14 @@
   {
    "guid": "6E8897664DFD3701C7EED0AE3DA9AB16",
    "nome": "Leprechely",
-   "data": "2026-10-17 17:27:45",
-   "total_nivel": 337,
-   "total_xp": 358495,
+   "data": "2026-10-17 17:44:34",
+   "total_nivel": 338,
+   "total_xp": 366560,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 5522,
+     "xp": 5572,
      "nivel": 30
     },
     {
@@ -597,13 +597,13 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 7749,
+     "xp": 7803,
      "nivel": 33
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 1674,
+     "xp": 1679,
      "nivel": 19
     },
     {
@@ -639,8 +639,8 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 308557,
-     "nivel": 89
+     "xp": 316513,
+     "nivel": 90
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
@@ -1220,15 +1220,15 @@
   {
    "guid": "E8F963FCC23C41AEB8B79CBB1A88E14D",
    "nome": "zRedfield",
-   "data": "2026-10-17 17:27:45",
-   "total_nivel": 22,
-   "total_xp": 503,
+   "data": "2026-10-17 17:32:45",
+   "total_nivel": 23,
+   "total_xp": 553,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 250,
-     "nivel": 6
+     "xp": 300,
+     "nivel": 7
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
