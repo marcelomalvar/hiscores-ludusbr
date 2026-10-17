@@ -140,30 +140,31 @@
     "Woodcutting": 3342
    },
    "xp": {
-    "Agility": 5072,
-    "Artisan": 4622,
-    "Attack": 1460,
-    "Construction": 7693,
-    "Cooking": 1644,
+    "Agility": 5222,
+    "Artisan": 5222,
+    "Attack": 1514,
+    "Construction": 7725,
+    "Cooking": 1674,
     "Farming": 374,
     "Fishing": 0,
-    "Magic": 6295,
-    "Mining": 15701,
+    "Magic": 6343,
+    "Mining": 16194,
     "Ranged": 510,
-    "Runecrafting": 268743,
+    "Runecrafting": 270466,
     "Woodcutting": 3924
    },
-   "data": "2026-10-17 16:42:29",
-   "seg": 19582,
+   "data": "2026-10-17 16:57:45",
+   "seg": 20498,
    "seg_skill": {
-    "Agility": 13852,
-    "Artisan": 5128,
-    "Construction": 5882,
-    "Cooking": 6863,
-    "Magic": 7162,
-    "Mining": 10228,
-    "Runecrafting": 9058,
-    "Woodcutting": 2660
+    "Agility": 14768,
+    "Artisan": 6044,
+    "Construction": 6798,
+    "Cooking": 7779,
+    "Magic": 8078,
+    "Mining": 11144,
+    "Runecrafting": 9974,
+    "Woodcutting": 2660,
+    "Attack": 916
    }
   },
   "B0F67AB12FFB4B74999D59144A6A6556": {
@@ -295,10 +296,10 @@
     "Woodcutting": 99
    },
    "xp": {
-    "Agility": 2460,
+    "Agility": 2570,
     "Artisan": 1581,
     "Attack": 2596,
-    "Construction": 5090,
+    "Construction": 5202,
     "Cooking": 857,
     "Farming": 58,
     "Fishing": 0,
@@ -308,17 +309,17 @@
     "Runecrafting": 762,
     "Woodcutting": 2089
    },
-   "data": "2026-10-17 16:42:29",
-   "seg": 17427,
+   "data": "2026-10-17 16:57:45",
+   "seg": 18343,
    "seg_skill": {
-    "Agility": 17427,
+    "Agility": 18343,
     "Attack": 6993,
     "Ranged": 2785,
     "Artisan": 3308,
     "Mining": 5283,
     "Runecrafting": 4375,
     "Cooking": 1801,
-    "Construction": 8607,
+    "Construction": 9523,
     "Woodcutting": 4523,
     "Farming": 1824
    }
@@ -593,6 +594,6 @@
    "seg_skill": {}
   }
  },
- "ref": "2026-10-17T16:42:29Z",
- "atualizado": "2026-10-17T16:45:24Z"
+ "ref": "2026-10-17T16:57:45Z",
+ "atualizado": "2026-10-17T17:00:28Z"
 }

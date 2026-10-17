@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T16:42:29Z",
+ "atualizado": "2026-10-17T16:57:45Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -572,38 +572,38 @@
   {
    "guid": "6E8897664DFD3701C7EED0AE3DA9AB16",
    "nome": "Leprechely",
-   "data": "2026-10-17 16:42:29",
-   "total_nivel": 329,
-   "total_xp": 316038,
+   "data": "2026-10-17 16:57:45",
+   "total_nivel": 330,
+   "total_xp": 319168,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 5072,
+     "xp": 5222,
      "nivel": 29
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 4622,
-     "nivel": 28
+     "xp": 5222,
+     "nivel": 29
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 1460,
+     "xp": 1514,
      "nivel": 18
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 7693,
+     "xp": 7725,
      "nivel": 33
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 1644,
+     "xp": 1674,
      "nivel": 19
     },
     {
@@ -621,13 +621,13 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 6295,
+     "xp": 6343,
      "nivel": 31
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 15701,
+     "xp": 16194,
      "nivel": 40
     },
     {
@@ -639,7 +639,7 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 268743,
+     "xp": 270466,
      "nivel": 85
     },
     {
@@ -815,15 +815,15 @@
   {
    "guid": "054EBCFF4CA7F3293237278D8D26A175",
    "nome": "Zimmerrs",
-   "data": "2026-10-17 16:42:29",
-   "total_nivel": 169,
-   "total_xp": 17383,
+   "data": "2026-10-17 16:57:45",
+   "total_nivel": 170,
+   "total_xp": 17605,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 2460,
-     "nivel": 22
+     "xp": 2570,
+     "nivel": 23
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -840,7 +840,7 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 5090,
+     "xp": 5202,
      "nivel": 29
     },
     {
