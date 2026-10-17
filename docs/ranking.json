@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T16:12:29Z",
+ "atualizado": "2026-10-17T16:27:29Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -572,9 +572,9 @@
   {
    "guid": "6E8897664DFD3701C7EED0AE3DA9AB16",
    "nome": "Leprechely",
-   "data": "2026-10-17 16:12:28",
-   "total_nivel": 325,
-   "total_xp": 297193,
+   "data": "2026-10-17 16:27:29",
+   "total_nivel": 327,
+   "total_xp": 314965,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
@@ -639,8 +639,8 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 250971,
-     "nivel": 83
+     "xp": 268743,
+     "nivel": 85
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
@@ -815,14 +815,14 @@
   {
    "guid": "054EBCFF4CA7F3293237278D8D26A175",
    "nome": "Zimmerrs",
-   "data": "2026-10-17 16:12:29",
+   "data": "2026-10-17 16:27:29",
    "total_nivel": 168,
-   "total_xp": 16641,
+   "total_xp": 17007,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 2305,
+     "xp": 2405,
      "nivel": 22
     },
     {
@@ -840,7 +840,7 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 4503,
+     "xp": 4769,
      "nivel": 28
     },
     {
