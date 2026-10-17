@@ -1,11 +1,11 @@
 {
- "atualizado": "2026-10-17T05:25:48Z",
+ "atualizado": "2026-10-17T05:44:01Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
    "guid": "310C59C7425D648E42B6F783690445A3",
    "nome": "HimuraS4",
-   "data": "2026-10-17 05:25:48",
+   "data": "2026-10-17 05:34:51",
    "total_nivel": 808,
    "total_xp": 3961563,
    "skills": [
@@ -491,14 +491,14 @@
   {
    "guid": "6E8897664DFD3701C7EED0AE3DA9AB16",
    "nome": "Leprechely",
-   "data": "2026-10-17 05:25:48",
-   "total_nivel": 301,
-   "total_xp": 221287,
+   "data": "2026-10-17 05:44:01",
+   "total_nivel": 304,
+   "total_xp": 223406,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 3937,
+     "xp": 4087,
      "nivel": 27
     },
     {
@@ -522,8 +522,8 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 1377,
-     "nivel": 17
+     "xp": 1450,
+     "nivel": 18
     },
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
@@ -540,14 +540,14 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 3921,
-     "nivel": 27
+     "xp": 4751,
+     "nivel": 28
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 8222,
-     "nivel": 34
+     "xp": 9206,
+     "nivel": 35
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
@@ -558,13 +558,13 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 186917,
+     "xp": 186997,
      "nivel": 75
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 3667,
+     "xp": 3669,
      "nivel": 26
     }
    ]
