@@ -150,11 +150,11 @@
     "Magic": 6654,
     "Mining": 16795,
     "Ranged": 510,
-    "Runecrafting": 316513,
+    "Runecrafting": 357965,
     "Woodcutting": 3924
    },
-   "data": "2026-10-17 17:44:34",
-   "seg": 23307,
+   "data": "2026-10-17 17:59:34",
+   "seg": 24207,
    "seg_skill": {
     "Agility": 17577,
     "Artisan": 6044,
@@ -162,7 +162,7 @@
     "Cooking": 8788,
     "Magic": 8678,
     "Mining": 12644,
-    "Runecrafting": 11883,
+    "Runecrafting": 12783,
     "Woodcutting": 2660,
     "Attack": 916
    }
@@ -194,12 +194,14 @@
     "Magic": 0,
     "Mining": 2844,
     "Ranged": 482,
-    "Runecrafting": 232333,
+    "Runecrafting": 235793,
     "Woodcutting": 57
    },
-   "data": "2026-10-16 12:55:36",
-   "seg": 0,
-   "seg_skill": {}
+   "data": "2026-10-17 17:59:34",
+   "seg": 900,
+   "seg_skill": {
+    "Runecrafting": 900
+   }
   },
   "6E07DF4B49641F985F5B11AD1A154E46": {
    "nome": "Ifood",
@@ -631,6 +633,6 @@
    }
   }
  },
- "ref": "2026-10-17T17:44:34Z",
- "atualizado": "2026-10-17T17:45:22Z"
+ "ref": "2026-10-17T17:59:34Z",
+ "atualizado": "2026-10-17T18:00:36Z"
 }
