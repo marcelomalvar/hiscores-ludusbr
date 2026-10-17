@@ -150,11 +150,11 @@
     "Magic": 7527,
     "Mining": 20972,
     "Ranged": 510,
-    "Runecrafting": 578008,
+    "Runecrafting": 605044,
     "Woodcutting": 3924
    },
-   "data": "2026-10-17 20:41:14",
-   "seg": 33907,
+   "data": "2026-10-17 20:48:55",
+   "seg": 34368,
    "seg_skill": {
     "Agility": 23878,
     "Artisan": 11145,
@@ -162,7 +162,7 @@
     "Cooking": 12157,
     "Magic": 12879,
     "Mining": 15345,
-    "Runecrafting": 21583,
+    "Runecrafting": 22044,
     "Woodcutting": 2660,
     "Attack": 916
    }
@@ -194,13 +194,13 @@
     "Magic": 0,
     "Mining": 2844,
     "Ranged": 482,
-    "Runecrafting": 381865,
+    "Runecrafting": 395536,
     "Woodcutting": 57
    },
-   "data": "2026-10-17 20:41:14",
-   "seg": 10600,
+   "data": "2026-10-17 20:51:03",
+   "seg": 11189,
    "seg_skill": {
-    "Runecrafting": 10600,
+    "Runecrafting": 11189,
     "Agility": 901
    }
   },
@@ -234,7 +234,7 @@
     "Runecrafting": 1134,
     "Woodcutting": 2022
    },
-   "data": "2026-10-17 20:20:42",
+   "data": "2026-10-17 20:59:19",
    "seg": 24318,
    "seg_skill": {
     "Agility": 23418,
@@ -446,7 +446,7 @@
     "Runecrafting": 76522,
     "Woodcutting": 31024
    },
-   "data": "2026-10-17 20:20:58",
+   "data": "2026-10-17 20:58:13",
    "seg": 26500,
    "seg_skill": {
     "Artisan": 13312,
@@ -691,30 +691,32 @@
     "Woodcutting": 0
    },
    "xp": {
-    "Agility": 50,
-    "Artisan": 80,
-    "Attack": 0,
-    "Construction": 0,
-    "Cooking": 18,
+    "Agility": 260,
+    "Artisan": 160,
+    "Attack": 693,
+    "Construction": 115,
+    "Cooking": 148,
     "Farming": 0,
     "Fishing": 0,
     "Magic": 0,
-    "Mining": 221,
+    "Mining": 255,
     "Ranged": 0,
-    "Runecrafting": 225,
+    "Runecrafting": 325,
     "Woodcutting": 0
    },
-   "data": "2026-10-17 20:41:14",
-   "seg": 900,
+   "data": "2026-10-17 20:59:07",
+   "seg": 1973,
    "seg_skill": {
-    "Agility": 900,
-    "Artisan": 900,
-    "Cooking": 900,
-    "Mining": 900,
-    "Runecrafting": 900
+    "Agility": 1973,
+    "Artisan": 1973,
+    "Cooking": 1973,
+    "Mining": 1973,
+    "Runecrafting": 1973,
+    "Attack": 1073,
+    "Construction": 1073
    }
   }
  },
- "ref": "2026-10-17T20:41:14Z",
- "atualizado": "2026-10-17T20:45:22Z"
+ "ref": "2026-10-17T20:59:19Z",
+ "atualizado": "2026-10-17T21:00:30Z"
 }
