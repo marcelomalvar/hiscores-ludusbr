@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T00:12:50Z",
+ "atualizado": "2026-10-17T00:27:51Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -329,15 +329,15 @@
   {
    "guid": "6E07DF4B49641F985F5B11AD1A154E46",
    "nome": "Ifood",
-   "data": "2026-10-17 00:12:50",
-   "total_nivel": 133,
-   "total_xp": 13126,
+   "data": "2026-10-17 00:27:51",
+   "total_nivel": 136,
+   "total_xp": 13465,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 1743,
-     "nivel": 19
+     "xp": 1798,
+     "nivel": 20
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -348,13 +348,13 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 6415,
+     "xp": 6581,
      "nivel": 31
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 769,
+     "xp": 775,
      "nivel": 13
     },
     {
@@ -372,8 +372,8 @@
     {
      "id": "vwY5IkQJJDwb2PKEfoc8MQ",
      "nome": "Fishing",
-     "xp": 84,
-     "nivel": 3
+     "xp": 196,
+     "nivel": 5
     },
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
@@ -410,44 +410,44 @@
   {
    "guid": "054EBCFF4CA7F3293237278D8D26A175",
    "nome": "Zimmerrs",
-   "data": "2026-10-17 00:12:50",
+   "data": "2026-10-17 00:27:51",
    "total_nivel": 129,
-   "total_xp": 10620,
+   "total_xp": 10834,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 1485,
+     "xp": 1585,
      "nivel": 18
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 1561,
+     "xp": 1581,
      "nivel": 18
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 2031,
+     "xp": 2077,
      "nivel": 21
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 3179,
+     "xp": 3195,
      "nivel": 25
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 854,
+     "xp": 857,
      "nivel": 14
     },
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 0,
+     "xp": 18,
      "nivel": 1
     },
     {
@@ -465,7 +465,7 @@
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 856,
+     "xp": 867,
      "nivel": 14
     },
     {
