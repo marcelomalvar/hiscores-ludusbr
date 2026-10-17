@@ -340,31 +340,31 @@
     "Woodcutting": 86
    },
    "xp": {
-    "Agility": 1275,
+    "Agility": 1535,
     "Artisan": 2720,
     "Attack": 282,
     "Construction": 128,
-    "Cooking": 23,
+    "Cooking": 38,
     "Farming": 1176,
     "Fishing": 0,
     "Magic": 0,
     "Mining": 0,
-    "Ranged": 935,
-    "Runecrafting": 80,
+    "Ranged": 2589,
+    "Runecrafting": 120,
     "Woodcutting": 223
    },
-   "data": "2026-10-17 12:10:41",
-   "seg": 7962,
+   "data": "2026-10-17 12:25:51",
+   "seg": 8872,
    "seg_skill": {
-    "Agility": 7662,
+    "Agility": 8572,
     "Artisan": 5255,
-    "Ranged": 1833,
+    "Ranged": 2743,
     "Construction": 3644,
     "Woodcutting": 4291,
     "Farming": 4970,
-    "Cooking": 3039,
+    "Cooking": 3949,
     "Attack": 1707,
-    "Runecrafting": 1809
+    "Runecrafting": 2719
    }
   },
   "22BA8E3F47D4B637A331CAAEF2C621F0": {
@@ -557,8 +557,42 @@
    "data": "2026-10-16 05:40:09",
    "seg": 0,
    "seg_skill": {}
+  },
+  "11D1D3D14E80DA194007B2B6E5003AFA": {
+   "nome": "HimuraS",
+   "base": {
+    "Agility": 5817,
+    "Artisan": 78500,
+    "Attack": 13515,
+    "Construction": 8512,
+    "Cooking": 10685,
+    "Farming": 5623,
+    "Fishing": 0,
+    "Magic": 10887,
+    "Mining": 26061,
+    "Ranged": 5777,
+    "Runecrafting": 7419,
+    "Woodcutting": 8923
+   },
+   "xp": {
+    "Agility": 5817,
+    "Artisan": 78500,
+    "Attack": 13515,
+    "Construction": 8512,
+    "Cooking": 10685,
+    "Farming": 5623,
+    "Fishing": 0,
+    "Magic": 10887,
+    "Mining": 26061,
+    "Ranged": 5777,
+    "Runecrafting": 7419,
+    "Woodcutting": 8923
+   },
+   "data": "2026-10-17 12:26:32",
+   "seg": 0,
+   "seg_skill": {}
   }
  },
- "ref": "2026-10-17T12:10:41Z",
- "atualizado": "2026-10-17T12:15:25Z"
+ "ref": "2026-10-17T12:26:32Z",
+ "atualizado": "2026-10-17T12:30:25Z"
 }
