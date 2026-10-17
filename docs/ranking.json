@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T16:27:29Z",
+ "atualizado": "2026-10-17T16:42:29Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -572,21 +572,21 @@
   {
    "guid": "6E8897664DFD3701C7EED0AE3DA9AB16",
    "nome": "Leprechely",
-   "data": "2026-10-17 16:27:29",
-   "total_nivel": 327,
-   "total_xp": 314965,
+   "data": "2026-10-17 16:42:29",
+   "total_nivel": 329,
+   "total_xp": 316038,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 4922,
+     "xp": 5072,
      "nivel": 29
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 4322,
-     "nivel": 27
+     "xp": 4622,
+     "nivel": 28
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
@@ -597,13 +597,13 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 7596,
+     "xp": 7693,
      "nivel": 33
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 1629,
+     "xp": 1644,
      "nivel": 19
     },
     {
@@ -621,7 +621,7 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 6039,
+     "xp": 6295,
      "nivel": 31
     },
     {
@@ -645,8 +645,8 @@
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 3669,
-     "nivel": 26
+     "xp": 3924,
+     "nivel": 27
     }
    ]
   },
@@ -815,14 +815,14 @@
   {
    "guid": "054EBCFF4CA7F3293237278D8D26A175",
    "nome": "Zimmerrs",
-   "data": "2026-10-17 16:27:29",
-   "total_nivel": 168,
-   "total_xp": 17007,
+   "data": "2026-10-17 16:42:29",
+   "total_nivel": 169,
+   "total_xp": 17383,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 2405,
+     "xp": 2460,
      "nivel": 22
     },
     {
@@ -840,8 +840,8 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 4769,
-     "nivel": 28
+     "xp": 5090,
+     "nivel": 29
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
