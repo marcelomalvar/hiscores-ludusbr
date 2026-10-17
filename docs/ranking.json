@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T05:44:01Z",
+ "atualizado": "2026-10-17T07:22:58Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,14 +491,14 @@
   {
    "guid": "6E8897664DFD3701C7EED0AE3DA9AB16",
    "nome": "Leprechely",
-   "data": "2026-10-17 05:44:01",
+   "data": "2026-10-17 07:22:58",
    "total_nivel": 304,
-   "total_xp": 223406,
+   "total_xp": 223456,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 4087,
+     "xp": 4137,
      "nivel": 27
     },
     {
