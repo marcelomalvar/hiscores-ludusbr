@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T11:55:32Z",
+ "atualizado": "2026-10-17T12:10:41Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -1058,21 +1058,21 @@
   {
    "guid": "136B6B754E1498BB9627A58435BC58AF",
    "nome": "Malvar_Legolas",
-   "data": "2026-10-17 11:37:54",
-   "total_nivel": 83,
-   "total_xp": 5232,
+   "data": "2026-10-17 12:10:41",
+   "total_nivel": 94,
+   "total_xp": 6842,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 1125,
-     "nivel": 16
+     "xp": 1275,
+     "nivel": 17
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 1780,
-     "nivel": 19
+     "xp": 2720,
+     "nivel": 23
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
@@ -1083,20 +1083,20 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 102,
-     "nivel": 3
+     "xp": 128,
+     "nivel": 4
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 21,
+     "xp": 23,
      "nivel": 1
     },
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 1046,
-     "nivel": 15
+     "xp": 1176,
+     "nivel": 16
     },
     {
      "id": "vwY5IkQJJDwb2PKEfoc8MQ",
@@ -1119,14 +1119,14 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 613,
-     "nivel": 11
+     "xp": 935,
+     "nivel": 14
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 40,
-     "nivel": 2
+     "xp": 80,
+     "nivel": 3
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
