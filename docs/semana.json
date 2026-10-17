@@ -140,29 +140,29 @@
     "Woodcutting": 3342
    },
    "xp": {
-    "Agility": 5222,
+    "Agility": 5272,
     "Artisan": 5222,
     "Attack": 1514,
-    "Construction": 7725,
+    "Construction": 7749,
     "Cooking": 1674,
     "Farming": 374,
     "Fishing": 0,
     "Magic": 6343,
-    "Mining": 16194,
+    "Mining": 16326,
     "Ranged": 510,
-    "Runecrafting": 270466,
+    "Runecrafting": 308557,
     "Woodcutting": 3924
    },
-   "data": "2026-10-17 16:57:45",
-   "seg": 20498,
+   "data": "2026-10-17 17:12:45",
+   "seg": 21398,
    "seg_skill": {
-    "Agility": 14768,
+    "Agility": 15668,
     "Artisan": 6044,
-    "Construction": 6798,
+    "Construction": 7698,
     "Cooking": 7779,
     "Magic": 8078,
-    "Mining": 11144,
-    "Runecrafting": 9974,
+    "Mining": 12044,
+    "Runecrafting": 10874,
     "Woodcutting": 2660,
     "Attack": 916
    }
@@ -592,8 +592,42 @@
    "data": "2026-10-17 12:26:32",
    "seg": 0,
    "seg_skill": {}
+  },
+  "E8F963FCC23C41AEB8B79CBB1A88E14D": {
+   "nome": "zRedfield",
+   "base": {
+    "Agility": 0,
+    "Artisan": 0,
+    "Attack": 0,
+    "Construction": 0,
+    "Cooking": 0,
+    "Farming": 0,
+    "Fishing": 0,
+    "Magic": 0,
+    "Mining": 0,
+    "Ranged": 0,
+    "Runecrafting": 0,
+    "Woodcutting": 0
+   },
+   "xp": {
+    "Agility": 0,
+    "Artisan": 0,
+    "Attack": 0,
+    "Construction": 0,
+    "Cooking": 0,
+    "Farming": 0,
+    "Fishing": 0,
+    "Magic": 0,
+    "Mining": 0,
+    "Ranged": 0,
+    "Runecrafting": 0,
+    "Woodcutting": 0
+   },
+   "data": "2026-10-17 17:12:45",
+   "seg": 0,
+   "seg_skill": {}
   }
  },
- "ref": "2026-10-17T16:57:45Z",
- "atualizado": "2026-10-17T17:00:28Z"
+ "ref": "2026-10-17T17:12:45Z",
+ "atualizado": "2026-10-17T17:15:20Z"
 }
