@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T00:27:51Z",
+ "atualizado": "2026-10-17T00:42:51Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -329,14 +329,14 @@
   {
    "guid": "6E07DF4B49641F985F5B11AD1A154E46",
    "nome": "Ifood",
-   "data": "2026-10-17 00:27:51",
-   "total_nivel": 136,
-   "total_xp": 13465,
+   "data": "2026-10-17 00:42:51",
+   "total_nivel": 137,
+   "total_xp": 13951,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 1798,
+     "xp": 1848,
      "nivel": 20
     },
     {
@@ -348,8 +348,8 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 6581,
-     "nivel": 31
+     "xp": 7017,
+     "nivel": 32
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
@@ -410,15 +410,15 @@
   {
    "guid": "054EBCFF4CA7F3293237278D8D26A175",
    "nome": "Zimmerrs",
-   "data": "2026-10-17 00:27:51",
-   "total_nivel": 129,
-   "total_xp": 10834,
+   "data": "2026-10-17 00:42:51",
+   "total_nivel": 133,
+   "total_xp": 11242,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 1585,
-     "nivel": 18
+     "xp": 1715,
+     "nivel": 19
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -465,8 +465,8 @@
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 867,
-     "nivel": 14
+     "xp": 1105,
+     "nivel": 16
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
@@ -477,8 +477,8 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 248,
-     "nivel": 6
+     "xp": 288,
+     "nivel": 7
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
