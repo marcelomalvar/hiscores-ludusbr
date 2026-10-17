@@ -1,24 +1,24 @@
 {
- "atualizado": "2026-10-17T21:42:41Z",
+ "atualizado": "2026-10-17T21:57:41Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
    "guid": "310C59C7425D648E42B6F783690445A3",
    "nome": "HimuraS4",
-   "data": "2026-10-17 21:42:41",
+   "data": "2026-10-17 21:57:41",
    "total_nivel": 853,
-   "total_xp": 4412927,
+   "total_xp": 4413436,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 101785,
+     "xp": 101985,
      "nivel": 62
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 1039871,
+     "xp": 1040180,
      "nivel": 99
     },
     {
@@ -572,14 +572,14 @@
   {
    "guid": "6E8897664DFD3701C7EED0AE3DA9AB16",
    "nome": "Leprechely",
-   "data": "2026-10-17 21:42:41",
+   "data": "2026-10-17 21:57:41",
    "total_nivel": 363,
-   "total_xp": 704724,
+   "total_xp": 711276,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 6122,
+     "xp": 6172,
      "nivel": 31
     },
     {
@@ -621,13 +621,13 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 7527,
+     "xp": 7824,
      "nivel": 33
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 20972,
+     "xp": 22007,
      "nivel": 43
     },
     {
@@ -639,7 +639,7 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 631040,
+     "xp": 636210,
      "nivel": 96
     },
     {
@@ -896,9 +896,9 @@
   {
    "guid": "B0F67AB12FFB4B74999D59144A6A6556",
    "nome": "XDante7X",
-   "data": "2026-10-17 20:51:03",
+   "data": "2026-10-17 21:57:41",
    "total_nivel": 160,
-   "total_xp": 400592,
+   "total_xp": 412416,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
@@ -963,7 +963,7 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 395536,
+     "xp": 407360,
      "nivel": 94
     },
     {
@@ -1058,20 +1058,20 @@
   {
    "guid": "136B6B754E1498BB9627A58435BC58AF",
    "nome": "Malvar_Legolas",
-   "data": "2026-10-17 21:42:41",
-   "total_nivel": 113,
-   "total_xp": 11074,
+   "data": "2026-10-17 21:57:41",
+   "total_nivel": 114,
+   "total_xp": 11215,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 1735,
+     "xp": 1785,
      "nivel": 19
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 4240,
+     "xp": 4280,
      "nivel": 27
     },
     {
@@ -1113,13 +1113,13 @@
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 0,
-     "nivel": 1
+     "xp": 34,
+     "nivel": 2
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 2917,
+     "xp": 2932,
      "nivel": 24
     },
     {
@@ -1131,7 +1131,7 @@
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 225,
+     "xp": 227,
      "nivel": 6
     }
    ]
@@ -1301,15 +1301,15 @@
   {
    "guid": "EED4EE05496C86CD464218A3DC4CFC72",
    "nome": "SHEP",
-   "data": "2026-10-17 21:42:41",
-   "total_nivel": 69,
-   "total_xp": 3723,
+   "data": "2026-10-17 21:57:41",
+   "total_nivel": 81,
+   "total_xp": 4595,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 1170,
-     "nivel": 16
+     "xp": 1270,
+     "nivel": 17
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -1320,7 +1320,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 1219,
+     "xp": 1246,
      "nivel": 16
     },
     {
@@ -1332,8 +1332,8 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 371,
-     "nivel": 8
+     "xp": 467,
+     "nivel": 10
     },
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
@@ -1356,8 +1356,8 @@
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 311,
-     "nivel": 7
+     "xp": 676,
+     "nivel": 12
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
@@ -1368,8 +1368,8 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 365,
-     "nivel": 8
+     "xp": 649,
+     "nivel": 12
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
