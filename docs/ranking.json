@@ -1,18 +1,18 @@
 {
- "atualizado": "2026-10-17T02:10:34Z",
+ "atualizado": "2026-10-17T02:20:34Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
    "guid": "BB0E09D999F44969B3938FAB96CAB239",
    "nome": "Chef Tetinha",
-   "data": "2026-10-17 02:10:34",
+   "data": "2026-10-17 02:20:34",
    "total_nivel": 411,
-   "total_xp": 222936,
+   "total_xp": 222986,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 7491,
+     "xp": 7541,
      "nivel": 33
     },
     {
@@ -491,14 +491,14 @@
   {
    "guid": "22BA8E3F47D4B637A331CAAEF2C621F0",
    "nome": "Feijão O Retorno",
-   "data": "2026-10-17 02:10:33",
-   "total_nivel": 129,
-   "total_xp": 35474,
+   "data": "2026-10-17 02:20:33",
+   "total_nivel": 130,
+   "total_xp": 37937,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 6889,
+     "xp": 6949,
      "nivel": 32
     },
     {
@@ -510,13 +510,13 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 26065,
-     "nivel": 45
+     "xp": 28456,
+     "nivel": 46
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 121,
+     "xp": 133,
      "nivel": 4
     },
     {
@@ -653,15 +653,15 @@
   {
    "guid": "136B6B754E1498BB9627A58435BC58AF",
    "nome": "Malvar_Legolas",
-   "data": "2026-10-17 02:10:33",
-   "total_nivel": 54,
-   "total_xp": 2685,
+   "data": "2026-10-17 02:20:33",
+   "total_nivel": 63,
+   "total_xp": 3276,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 525,
-     "nivel": 10
+     "xp": 625,
+     "nivel": 11
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -684,14 +684,14 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 10,
+     "xp": 14,
      "nivel": 1
     },
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 36,
-     "nivel": 2
+     "xp": 521,
+     "nivel": 10
     },
     {
      "id": "vwY5IkQJJDwb2PKEfoc8MQ",
@@ -726,7 +726,7 @@
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 89,
+     "xp": 91,
      "nivel": 3
     }
    ]
