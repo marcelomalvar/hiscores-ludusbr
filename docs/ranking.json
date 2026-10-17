@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T17:12:45Z",
+ "atualizado": "2026-10-17T17:22:45Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -572,15 +572,15 @@
   {
    "guid": "6E8897664DFD3701C7EED0AE3DA9AB16",
    "nome": "Leprechely",
-   "data": "2026-10-17 17:12:45",
-   "total_nivel": 334,
-   "total_xp": 357465,
+   "data": "2026-10-17 17:22:45",
+   "total_nivel": 337,
+   "total_xp": 358395,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 5272,
-     "nivel": 29
+     "xp": 5422,
+     "nivel": 30
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -621,14 +621,14 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 6343,
-     "nivel": 31
+     "xp": 6654,
+     "nivel": 32
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 16326,
-     "nivel": 40
+     "xp": 16795,
+     "nivel": 41
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
@@ -1220,15 +1220,15 @@
   {
    "guid": "E8F963FCC23C41AEB8B79CBB1A88E14D",
    "nome": "zRedfield",
-   "data": "2026-10-17 17:12:45",
-   "total_nivel": 12,
-   "total_xp": 0,
+   "data": "2026-10-17 17:22:45",
+   "total_nivel": 20,
+   "total_xp": 403,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 0,
-     "nivel": 1
+     "xp": 150,
+     "nivel": 4
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -1239,8 +1239,8 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 0,
-     "nivel": 1
+     "xp": 253,
+     "nivel": 6
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
