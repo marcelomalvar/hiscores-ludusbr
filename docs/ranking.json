@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T17:22:45Z",
+ "atualizado": "2026-10-17T17:27:45Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -572,14 +572,14 @@
   {
    "guid": "6E8897664DFD3701C7EED0AE3DA9AB16",
    "nome": "Leprechely",
-   "data": "2026-10-17 17:22:45",
+   "data": "2026-10-17 17:27:45",
    "total_nivel": 337,
-   "total_xp": 358395,
+   "total_xp": 358495,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 5422,
+     "xp": 5522,
      "nivel": 30
     },
     {
@@ -1220,15 +1220,15 @@
   {
    "guid": "E8F963FCC23C41AEB8B79CBB1A88E14D",
    "nome": "zRedfield",
-   "data": "2026-10-17 17:22:45",
-   "total_nivel": 20,
-   "total_xp": 403,
+   "data": "2026-10-17 17:27:45",
+   "total_nivel": 22,
+   "total_xp": 503,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 150,
-     "nivel": 4
+     "xp": 250,
+     "nivel": 6
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
