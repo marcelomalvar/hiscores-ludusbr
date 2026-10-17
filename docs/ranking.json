@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T23:52:51Z",
+ "atualizado": "2026-10-16T23:57:50Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -329,21 +329,21 @@
   {
    "guid": "6E07DF4B49641F985F5B11AD1A154E46",
    "nome": "Ifood",
-   "data": "2026-10-16 23:52:51",
-   "total_nivel": 124,
-   "total_xp": 12391,
+   "data": "2026-10-16 23:57:50",
+   "total_nivel": 130,
+   "total_xp": 12736,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 1618,
+     "xp": 1643,
      "nivel": 19
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 260,
-     "nivel": 6
+     "xp": 560,
+     "nivel": 11
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
@@ -354,8 +354,8 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 725,
-     "nivel": 12
+     "xp": 745,
+     "nivel": 13
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
@@ -410,15 +410,15 @@
   {
    "guid": "054EBCFF4CA7F3293237278D8D26A175",
    "nome": "Zimmerrs",
-   "data": "2026-10-16 23:52:50",
-   "total_nivel": 111,
-   "total_xp": 8824,
+   "data": "2026-10-16 23:57:50",
+   "total_nivel": 117,
+   "total_xp": 9254,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 1390,
-     "nivel": 17
+     "xp": 1435,
+     "nivel": 18
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -429,8 +429,8 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 1792,
-     "nivel": 19
+     "xp": 2031,
+     "nivel": 21
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
@@ -465,14 +465,14 @@
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 836,
-     "nivel": 13
+     "xp": 856,
+     "nivel": 14
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 75,
-     "nivel": 3
+     "xp": 201,
+     "nivel": 5
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
