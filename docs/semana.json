@@ -150,11 +150,11 @@
     "Magic": 4939,
     "Mining": 12708,
     "Ranged": 510,
-    "Runecrafting": 244093,
+    "Runecrafting": 248709,
     "Woodcutting": 3669
    },
-   "data": "2026-10-17 14:57:13",
-   "seg": 13266,
+   "data": "2026-10-17 15:05:17",
+   "seg": 13750,
    "seg_skill": {
     "Agility": 8921,
     "Artisan": 3328,
@@ -162,7 +162,7 @@
     "Cooking": 5063,
     "Magic": 4462,
     "Mining": 6197,
-    "Runecrafting": 6773,
+    "Runecrafting": 7257,
     "Woodcutting": 1760
    }
   },
@@ -217,28 +217,28 @@
     "Woodcutting": 456
    },
    "xp": {
-    "Agility": 2898,
+    "Agility": 2948,
     "Artisan": 565,
     "Attack": 10144,
     "Construction": 3393,
     "Cooking": 2510,
     "Farming": 76,
-    "Fishing": 236,
+    "Fishing": 529,
     "Magic": 0,
     "Mining": 3167,
     "Ranged": 47,
     "Runecrafting": 718,
     "Woodcutting": 2020
    },
-   "data": "2026-10-17 14:57:13",
-   "seg": 16592,
+   "data": "2026-10-17 15:05:27",
+   "seg": 17086,
    "seg_skill": {
-    "Agility": 16592,
+    "Agility": 17086,
     "Attack": 10911,
     "Cooking": 10557,
     "Artisan": 1974,
     "Construction": 8723,
-    "Fishing": 2701,
+    "Fishing": 3195,
     "Mining": 8058,
     "Runecrafting": 7824,
     "Woodcutting": 3499
@@ -429,11 +429,11 @@
     "Woodcutting": 31024
    },
    "xp": {
-    "Agility": 100165,
+    "Agility": 100365,
     "Artisan": 1039829,
     "Attack": 1061784,
     "Construction": 31000,
-    "Cooking": 271046,
+    "Cooking": 307474,
     "Farming": 27679,
     "Fishing": 8211,
     "Magic": 233881,
@@ -442,18 +442,18 @@
     "Runecrafting": 76522,
     "Woodcutting": 31024
    },
-   "data": "2026-10-17 14:57:13",
-   "seg": 17700,
+   "data": "2026-10-17 15:07:29",
+   "seg": 18316,
    "seg_skill": {
     "Artisan": 12412,
-    "Agility": 11700,
+    "Agility": 12316,
     "Attack": 1959,
     "Farming": 2859,
     "Magic": 2859,
     "Mining": 2859,
     "Ranged": 1959,
     "Construction": 5167,
-    "Cooking": 7158
+    "Cooking": 7774
    }
   },
   "97AA4FCF49572AAE63CFC3A861823B8E": {
@@ -593,6 +593,6 @@
    "seg_skill": {}
   }
  },
- "ref": "2026-10-17T14:57:13Z",
- "atualizado": "2026-10-17T15:00:30Z"
+ "ref": "2026-10-17T15:07:29Z",
+ "atualizado": "2026-10-17T15:15:31Z"
 }

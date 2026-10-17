@@ -1,18 +1,18 @@
 {
- "atualizado": "2026-10-17T14:57:13Z",
+ "atualizado": "2026-10-17T15:07:29Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
    "guid": "310C59C7425D648E42B6F783690445A3",
    "nome": "HimuraS4",
-   "data": "2026-10-17 14:57:13",
-   "total_nivel": 843,
-   "total_xp": 4193177,
+   "data": "2026-10-17 15:07:29",
+   "total_nivel": 847,
+   "total_xp": 4229805,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 100165,
+     "xp": 100365,
      "nivel": 62
     },
     {
@@ -36,8 +36,8 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 271046,
-     "nivel": 85
+     "xp": 307474,
+     "nivel": 89
     },
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
@@ -572,9 +572,9 @@
   {
    "guid": "6E8897664DFD3701C7EED0AE3DA9AB16",
    "nome": "Leprechely",
-   "data": "2026-10-17 14:57:13",
-   "total_nivel": 318,
-   "total_xp": 285751,
+   "data": "2026-10-17 15:05:17",
+   "total_nivel": 319,
+   "total_xp": 290367,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
@@ -639,8 +639,8 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 244093,
-     "nivel": 82
+     "xp": 248709,
+     "nivel": 83
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
@@ -734,14 +734,14 @@
   {
    "guid": "6E07DF4B49641F985F5B11AD1A154E46",
    "nome": "Ifood",
-   "data": "2026-10-17 14:57:13",
-   "total_nivel": 188,
-   "total_xp": 25774,
+   "data": "2026-10-17 15:05:27",
+   "total_nivel": 192,
+   "total_xp": 26117,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 2898,
+     "xp": 2948,
      "nivel": 24
     },
     {
@@ -777,8 +777,8 @@
     {
      "id": "vwY5IkQJJDwb2PKEfoc8MQ",
      "nome": "Fishing",
-     "xp": 236,
-     "nivel": 6
+     "xp": 529,
+     "nivel": 10
     },
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
