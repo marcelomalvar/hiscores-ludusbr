@@ -150,11 +150,11 @@
     "Magic": 4939,
     "Mining": 12708,
     "Ranged": 510,
-    "Runecrafting": 210596,
+    "Runecrafting": 244093,
     "Woodcutting": 3669
    },
-   "data": "2026-10-17 14:42:13",
-   "seg": 12366,
+   "data": "2026-10-17 14:57:13",
+   "seg": 13266,
    "seg_skill": {
     "Agility": 8921,
     "Artisan": 3328,
@@ -162,7 +162,7 @@
     "Cooking": 5063,
     "Magic": 4462,
     "Mining": 6197,
-    "Runecrafting": 5873,
+    "Runecrafting": 6773,
     "Woodcutting": 1760
    }
   },
@@ -217,30 +217,30 @@
     "Woodcutting": 456
    },
    "xp": {
-    "Agility": 2848,
+    "Agility": 2898,
     "Artisan": 565,
-    "Attack": 9696,
-    "Construction": 3313,
-    "Cooking": 2495,
+    "Attack": 10144,
+    "Construction": 3393,
+    "Cooking": 2510,
     "Farming": 76,
-    "Fishing": 196,
+    "Fishing": 236,
     "Magic": 0,
     "Mining": 3167,
     "Ranged": 47,
-    "Runecrafting": 678,
+    "Runecrafting": 718,
     "Woodcutting": 2020
    },
-   "data": "2026-10-17 14:42:13",
-   "seg": 15692,
+   "data": "2026-10-17 14:57:13",
+   "seg": 16592,
    "seg_skill": {
-    "Agility": 15692,
-    "Attack": 10011,
-    "Cooking": 9657,
+    "Agility": 16592,
+    "Attack": 10911,
+    "Cooking": 10557,
     "Artisan": 1974,
-    "Construction": 7823,
-    "Fishing": 1801,
+    "Construction": 8723,
+    "Fishing": 2701,
     "Mining": 8058,
-    "Runecrafting": 6924,
+    "Runecrafting": 7824,
     "Woodcutting": 3499
    }
   },
@@ -433,7 +433,7 @@
     "Artisan": 1039829,
     "Attack": 1061784,
     "Construction": 31000,
-    "Cooking": 222418,
+    "Cooking": 271046,
     "Farming": 27679,
     "Fishing": 8211,
     "Magic": 233881,
@@ -442,8 +442,8 @@
     "Runecrafting": 76522,
     "Woodcutting": 31024
    },
-   "data": "2026-10-17 14:42:13",
-   "seg": 16800,
+   "data": "2026-10-17 14:57:13",
+   "seg": 17700,
    "seg_skill": {
     "Artisan": 12412,
     "Agility": 11700,
@@ -453,7 +453,7 @@
     "Mining": 2859,
     "Ranged": 1959,
     "Construction": 5167,
-    "Cooking": 6258
+    "Cooking": 7158
    }
   },
   "97AA4FCF49572AAE63CFC3A861823B8E": {
@@ -593,6 +593,6 @@
    "seg_skill": {}
   }
  },
- "ref": "2026-10-17T14:42:13Z",
- "atualizado": "2026-10-17T14:45:25Z"
+ "ref": "2026-10-17T14:57:13Z",
+ "atualizado": "2026-10-17T15:00:30Z"
 }
