@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T08:11:52Z",
+ "atualizado": "2026-10-17T08:26:52Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,9 +491,9 @@
   {
    "guid": "6E8897664DFD3701C7EED0AE3DA9AB16",
    "nome": "Leprechely",
-   "data": "2026-10-17 08:11:52",
-   "total_nivel": 307,
-   "total_xp": 239089,
+   "data": "2026-10-17 08:26:52",
+   "total_nivel": 308,
+   "total_xp": 247166,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
@@ -558,8 +558,8 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 201826,
-     "nivel": 77
+     "xp": 209903,
+     "nivel": 78
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
