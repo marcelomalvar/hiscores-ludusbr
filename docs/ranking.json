@@ -1,13 +1,13 @@
 {
- "atualizado": "2026-10-17T04:29:39Z",
+ "atualizado": "2026-10-17T04:44:39Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
    "guid": "310C59C7425D648E42B6F783690445A3",
    "nome": "HimuraS4",
-   "data": "2026-10-17 04:29:39",
-   "total_nivel": 806,
-   "total_xp": 3596535,
+   "data": "2026-10-17 04:44:39",
+   "total_nivel": 807,
+   "total_xp": 3776791,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
@@ -18,8 +18,8 @@
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 675405,
-     "nivel": 97
+     "xp": 855661,
+     "nivel": 98
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
