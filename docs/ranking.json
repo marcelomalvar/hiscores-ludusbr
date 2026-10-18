@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T18:56:50Z",
+ "atualizado": "2026-10-18T19:11:28Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -572,9 +572,9 @@
   {
    "guid": "6E8897664DFD3701C7EED0AE3DA9AB16",
    "nome": "Leprechely",
-   "data": "2026-10-18 18:56:50",
+   "data": "2026-10-18 19:06:19",
    "total_nivel": 385,
-   "total_xp": 763803,
+   "total_xp": 763821,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
@@ -597,7 +597,7 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 8943,
+     "xp": 8961,
      "nivel": 34
     },
     {
@@ -653,21 +653,21 @@
   {
    "guid": "EED4EE05496C86CD464218A3DC4CFC72",
    "nome": "SHEP",
-   "data": "2026-10-18 18:56:50",
-   "total_nivel": 290,
-   "total_xp": 62571,
+   "data": "2026-10-18 19:11:28",
+   "total_nivel": 294,
+   "total_xp": 64471,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 5820,
+     "xp": 5870,
      "nivel": 30
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 3271,
-     "nivel": 25
+     "xp": 5034,
+     "nivel": 29
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
@@ -678,7 +678,7 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 3180,
+     "xp": 3267,
      "nivel": 25
     },
     {
@@ -977,7 +977,7 @@
   {
    "guid": "B0F67AB12FFB4B74999D59144A6A6556",
    "nome": "XDante7X",
-   "data": "2026-10-18 18:56:50",
+   "data": "2026-10-18 19:06:28",
    "total_nivel": 220,
    "total_xp": 750534,
    "skills": [
