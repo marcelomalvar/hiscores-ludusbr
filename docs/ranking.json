@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T17:10:46Z",
+ "atualizado": "2026-10-18T17:26:13Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -410,14 +410,14 @@
   {
    "guid": "BB0E09D999F44969B3938FAB96CAB239",
    "nome": "Chef Tetinha",
-   "data": "2026-10-18 17:10:46",
+   "data": "2026-10-18 17:15:46",
    "total_nivel": 425,
-   "total_xp": 236537,
+   "total_xp": 236587,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 8451,
+     "xp": 8501,
      "nivel": 34
     },
     {
@@ -734,14 +734,14 @@
   {
    "guid": "EED4EE05496C86CD464218A3DC4CFC72",
    "nome": "SHEP",
-   "data": "2026-10-18 05:34:27",
+   "data": "2026-10-18 17:26:13",
    "total_nivel": 269,
-   "total_xp": 49687,
+   "total_xp": 49849,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 5090,
+     "xp": 5140,
      "nivel": 29
     },
     {
@@ -759,7 +759,7 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 2206,
+     "xp": 2258,
      "nivel": 21
     },
     {
@@ -771,7 +771,7 @@
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 2070,
+     "xp": 2130,
      "nivel": 21
     },
     {
