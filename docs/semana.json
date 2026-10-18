@@ -144,24 +144,24 @@
     "Artisan": 27492,
     "Attack": 2274,
     "Construction": 8837,
-    "Cooking": 1730,
+    "Cooking": 1736,
     "Farming": 374,
     "Fishing": 0,
     "Magic": 12886,
-    "Mining": 24069,
+    "Mining": 24187,
     "Ranged": 1260,
     "Runecrafting": 673423,
     "Woodcutting": 3988
    },
-   "data": "2026-10-18 07:59:28",
-   "seg": 54233,
+   "data": "2026-10-18 08:00:28",
+   "seg": 54293,
    "seg_skill": {
     "Agility": 35152,
     "Artisan": 13122,
     "Construction": 20359,
-    "Cooking": 15277,
+    "Cooking": 15337,
     "Magic": 19484,
-    "Mining": 20922,
+    "Mining": 20982,
     "Runecrafting": 33888,
     "Woodcutting": 4637,
     "Attack": 2114,
@@ -305,10 +305,10 @@
     "Woodcutting": 99
    },
    "xp": {
-    "Agility": 2570,
+    "Agility": 2620,
     "Artisan": 1581,
     "Attack": 2596,
-    "Construction": 5202,
+    "Construction": 5548,
     "Cooking": 857,
     "Farming": 58,
     "Fishing": 0,
@@ -318,17 +318,17 @@
     "Runecrafting": 762,
     "Woodcutting": 2089
    },
-   "data": "2026-10-17 16:57:45",
-   "seg": 18343,
+   "data": "2026-10-18 08:10:28",
+   "seg": 19003,
    "seg_skill": {
-    "Agility": 18343,
+    "Agility": 19003,
     "Attack": 6993,
     "Ranged": 2785,
     "Artisan": 3308,
     "Mining": 5283,
     "Runecrafting": 4375,
     "Cooking": 1801,
-    "Construction": 9523,
+    "Construction": 10183,
     "Woodcutting": 4523,
     "Farming": 1824
    }
@@ -732,6 +732,6 @@
    }
   }
  },
- "ref": "2026-10-18T07:59:28Z",
- "atualizado": "2026-10-18T08:00:29Z"
+ "ref": "2026-10-18T08:10:28Z",
+ "atualizado": "2026-10-18T08:15:24Z"
 }
