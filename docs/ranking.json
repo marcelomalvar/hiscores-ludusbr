@@ -1,30 +1,30 @@
 {
- "atualizado": "2026-10-18T21:40:38Z",
+ "atualizado": "2026-10-18T21:50:38Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
    "guid": "310C59C7425D648E42B6F783690445A3",
    "nome": "HimuraS4",
-   "data": "2026-10-18 21:40:38",
+   "data": "2026-10-18 21:50:38",
    "total_nivel": 888,
-   "total_xp": 4683451,
+   "total_xp": 4687845,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 104465,
+     "xp": 104865,
      "nivel": 63
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 1044748,
+     "xp": 1044763,
      "nivel": 99
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 1065378,
+     "xp": 1066339,
      "nivel": 99
     },
     {
@@ -36,7 +36,7 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 490023,
+     "xp": 490030,
      "nivel": 95
     },
     {
@@ -60,7 +60,7 @@
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 1051458,
+     "xp": 1054469,
      "nivel": 99
     },
     {
