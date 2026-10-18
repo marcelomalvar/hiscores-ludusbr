@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T17:26:13Z",
+ "atualizado": "2026-10-18T17:31:13Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -734,14 +734,14 @@
   {
    "guid": "EED4EE05496C86CD464218A3DC4CFC72",
    "nome": "SHEP",
-   "data": "2026-10-18 17:26:13",
-   "total_nivel": 269,
-   "total_xp": 49849,
+   "data": "2026-10-18 17:31:13",
+   "total_nivel": 271,
+   "total_xp": 53198,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 5140,
+     "xp": 5190,
      "nivel": 29
     },
     {
@@ -765,7 +765,7 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 5463,
+     "xp": 5465,
      "nivel": 30
     },
     {
@@ -789,8 +789,8 @@
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 21366,
-     "nivel": 43
+     "xp": 24504,
+     "nivel": 44
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
@@ -801,14 +801,14 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 2392,
+     "xp": 2432,
      "nivel": 22
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 1737,
-     "nivel": 19
+     "xp": 1856,
+     "nivel": 20
     }
    ]
   },
@@ -1058,7 +1058,7 @@
   {
    "guid": "136B6B754E1498BB9627A58435BC58AF",
    "nome": "Malvar_Legolas",
-   "data": "2026-10-18 12:42:17",
+   "data": "2026-10-18 17:31:13",
    "total_nivel": 180,
    "total_xp": 28278,
    "skills": [
