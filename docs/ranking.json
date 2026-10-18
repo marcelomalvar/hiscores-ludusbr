@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T12:42:17Z",
+ "atualizado": "2026-10-18T12:56:33Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -653,15 +653,15 @@
   {
    "guid": "054EBCFF4CA7F3293237278D8D26A175",
    "nome": "Zimmerrs",
-   "data": "2026-10-18 12:42:17",
-   "total_nivel": 284,
-   "total_xp": 71422,
+   "data": "2026-10-18 12:56:33",
+   "total_nivel": 289,
+   "total_xp": 73837,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 5943,
-     "nivel": 30
+     "xp": 6200,
+     "nivel": 31
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -714,13 +714,13 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 3199,
-     "nivel": 25
+     "xp": 5342,
+     "nivel": 29
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 2850,
+     "xp": 2865,
      "nivel": 24
     },
     {
