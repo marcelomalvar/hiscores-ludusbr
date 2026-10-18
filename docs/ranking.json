@@ -1,18 +1,18 @@
 {
- "atualizado": "2026-10-18T21:55:38Z",
+ "atualizado": "2026-10-18T22:10:38Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
    "guid": "310C59C7425D648E42B6F783690445A3",
    "nome": "HimuraS4",
-   "data": "2026-10-18 21:55:38",
+   "data": "2026-10-18 22:10:38",
    "total_nivel": 888,
-   "total_xp": 4692153,
+   "total_xp": 4697823,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 104865,
+     "xp": 105065,
      "nivel": 63
     },
     {
@@ -24,13 +24,13 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 1066339,
+     "xp": 1066343,
      "nivel": 99
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 31140,
+     "xp": 31220,
      "nivel": 47
     },
     {
@@ -42,7 +42,7 @@
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 28211,
+     "xp": 28279,
      "nivel": 46
     },
     {
@@ -60,7 +60,7 @@
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 1058777,
+     "xp": 1064095,
      "nivel": 99
     },
     {
