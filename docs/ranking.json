@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T02:00:03Z",
+ "atualizado": "2026-10-18T02:14:08Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -572,14 +572,14 @@
   {
    "guid": "6E8897664DFD3701C7EED0AE3DA9AB16",
    "nome": "Leprechely",
-   "data": "2026-10-18 01:25:30",
+   "data": "2026-10-18 02:14:08",
    "total_nivel": 368,
-   "total_xp": 752608,
+   "total_xp": 752967,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 6742,
+     "xp": 6892,
      "nivel": 32
     },
     {
@@ -597,13 +597,13 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 8826,
+     "xp": 8837,
      "nivel": 34
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 1718,
+     "xp": 1722,
      "nivel": 19
     },
     {
@@ -621,7 +621,7 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 8350,
+     "xp": 8544,
      "nivel": 34
     },
     {
@@ -734,14 +734,14 @@
   {
    "guid": "6E07DF4B49641F985F5B11AD1A154E46",
    "nome": "Ifood",
-   "data": "2026-10-18 02:00:03",
-   "total_nivel": 239,
-   "total_xp": 48403,
+   "data": "2026-10-18 02:14:08",
+   "total_nivel": 240,
+   "total_xp": 49916,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 5188,
+     "xp": 5288,
      "nivel": 29
     },
     {
@@ -753,8 +753,8 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 21184,
-     "nivel": 43
+     "xp": 22597,
+     "nivel": 44
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
@@ -815,44 +815,44 @@
   {
    "guid": "EED4EE05496C86CD464218A3DC4CFC72",
    "nome": "SHEP",
-   "data": "2026-10-18 02:00:03",
-   "total_nivel": 227,
-   "total_xp": 33005,
+   "data": "2026-10-18 02:14:08",
+   "total_nivel": 233,
+   "total_xp": 35143,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 3730,
-     "nivel": 26
+     "xp": 3940,
+     "nivel": 27
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 1370,
-     "nivel": 17
+     "xp": 1570,
+     "nivel": 18
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 2864,
-     "nivel": 24
+     "xp": 3301,
+     "nivel": 25
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 1698,
+     "xp": 1710,
      "nivel": 19
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 2777,
-     "nivel": 23
+     "xp": 2947,
+     "nivel": 24
     },
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 900,
+     "xp": 920,
      "nivel": 14
     },
     {
@@ -864,14 +864,14 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 1312,
+     "xp": 1355,
      "nivel": 17
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 14732,
-     "nivel": 39
+     "xp": 15698,
+     "nivel": 40
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
@@ -882,8 +882,8 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 1960,
-     "nivel": 20
+     "xp": 2040,
+     "nivel": 21
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
@@ -977,14 +977,14 @@
   {
    "guid": "B0F67AB12FFB4B74999D59144A6A6556",
    "nome": "XDante7X",
-   "data": "2026-10-18 02:00:03",
+   "data": "2026-10-18 02:14:08",
    "total_nivel": 168,
-   "total_xp": 685048,
+   "total_xp": 687950,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 1627,
+     "xp": 1677,
      "nivel": 19
     },
     {
@@ -1044,7 +1044,7 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 679484,
+     "xp": 682336,
      "nivel": 97
     },
     {
@@ -1058,21 +1058,21 @@
   {
    "guid": "136B6B754E1498BB9627A58435BC58AF",
    "nome": "Malvar_Legolas",
-   "data": "2026-10-18 02:00:03",
-   "total_nivel": 146,
-   "total_xp": 19963,
+   "data": "2026-10-18 02:14:08",
+   "total_nivel": 148,
+   "total_xp": 21809,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 2555,
+     "xp": 2605,
      "nivel": 23
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 7120,
-     "nivel": 32
+     "xp": 8840,
+     "nivel": 34
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
@@ -1095,7 +1095,7 @@
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 1430,
+     "xp": 1433,
      "nivel": 18
     },
     {
@@ -1119,7 +1119,7 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 6787,
+     "xp": 6860,
      "nivel": 32
     },
     {
