@@ -148,20 +148,20 @@
     "Farming": 374,
     "Fishing": 0,
     "Magic": 12886,
-    "Mining": 23969,
+    "Mining": 24069,
     "Ranged": 1260,
     "Runecrafting": 673423,
     "Woodcutting": 3988
    },
-   "data": "2026-10-18 02:47:11",
-   "seg": 51533,
+   "data": "2026-10-18 07:59:28",
+   "seg": 54233,
    "seg_skill": {
     "Agility": 35152,
     "Artisan": 13122,
     "Construction": 20359,
     "Cooking": 15277,
     "Magic": 19484,
-    "Mining": 18222,
+    "Mining": 20922,
     "Runecrafting": 33888,
     "Woodcutting": 4637,
     "Attack": 2114,
@@ -732,6 +732,6 @@
    }
   }
  },
- "ref": "2026-10-18T05:34:27Z",
- "atualizado": "2026-10-18T05:45:20Z"
+ "ref": "2026-10-18T07:59:28Z",
+ "atualizado": "2026-10-18T08:00:29Z"
 }
