@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T19:56:28Z",
+ "atualizado": "2026-10-18T20:11:28Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -653,15 +653,15 @@
   {
    "guid": "EED4EE05496C86CD464218A3DC4CFC72",
    "nome": "SHEP",
-   "data": "2026-10-18 19:56:28",
-   "total_nivel": 304,
-   "total_xp": 75152,
+   "data": "2026-10-18 20:11:28",
+   "total_nivel": 306,
+   "total_xp": 76952,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 6480,
-     "nivel": 31
+     "xp": 6650,
+     "nivel": 32
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -672,13 +672,13 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 8092,
-     "nivel": 33
+     "xp": 8437,
+     "nivel": 34
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 3319,
+     "xp": 3340,
      "nivel": 25
     },
     {
@@ -708,7 +708,7 @@
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 35023,
+     "xp": 36245,
      "nivel": 48
     },
     {
@@ -720,13 +720,13 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 3192,
+     "xp": 3232,
      "nivel": 25
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 3545,
+     "xp": 3547,
      "nivel": 26
     }
    ]
