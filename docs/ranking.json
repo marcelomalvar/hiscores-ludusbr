@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T03:13:39Z",
+ "atualizado": "2026-10-18T03:28:39Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -815,14 +815,14 @@
   {
    "guid": "EED4EE05496C86CD464218A3DC4CFC72",
    "nome": "SHEP",
-   "data": "2026-10-18 03:13:39",
-   "total_nivel": 236,
-   "total_xp": 36703,
+   "data": "2026-10-18 03:28:39",
+   "total_nivel": 238,
+   "total_xp": 37127,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 4220,
+     "xp": 4270,
      "nivel": 27
     },
     {
@@ -852,8 +852,8 @@
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 920,
-     "nivel": 14
+     "xp": 1220,
+     "nivel": 16
     },
     {
      "id": "vwY5IkQJJDwb2PKEfoc8MQ",
@@ -888,7 +888,7 @@
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 1163,
+     "xp": 1237,
      "nivel": 16
     }
    ]
@@ -896,14 +896,14 @@
   {
    "guid": "B0F67AB12FFB4B74999D59144A6A6556",
    "nome": "XDante7X",
-   "data": "2026-10-18 03:13:39",
-   "total_nivel": 214,
-   "total_xp": 694586,
+   "data": "2026-10-18 03:28:39",
+   "total_nivel": 216,
+   "total_xp": 716493,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 2187,
+     "xp": 2237,
      "nivel": 21
     },
     {
@@ -921,8 +921,8 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 301,
-     "nivel": 7
+     "xp": 445,
+     "nivel": 9
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
@@ -963,7 +963,7 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 684022,
+     "xp": 705735,
      "nivel": 97
     },
     {
@@ -977,21 +977,21 @@
   {
    "guid": "136B6B754E1498BB9627A58435BC58AF",
    "nome": "Malvar_Legolas",
-   "data": "2026-10-18 03:13:39",
-   "total_nivel": 173,
-   "total_xp": 26442,
+   "data": "2026-10-18 03:28:39",
+   "total_nivel": 174,
+   "total_xp": 27131,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 3335,
+     "xp": 3435,
      "nivel": 25
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 8840,
-     "nivel": 34
+     "xp": 9115,
+     "nivel": 35
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
@@ -1038,7 +1038,7 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 9263,
+     "xp": 9577,
      "nivel": 35
     },
     {
