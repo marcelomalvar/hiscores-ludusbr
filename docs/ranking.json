@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T02:57:11Z",
+ "atualizado": "2026-10-18T03:13:39Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -734,7 +734,7 @@
   {
    "guid": "6E07DF4B49641F985F5B11AD1A154E46",
    "nome": "Ifood",
-   "data": "2026-10-18 02:57:11",
+   "data": "2026-10-18 03:00:32",
    "total_nivel": 245,
    "total_xp": 56068,
    "skills": [
@@ -815,7 +815,7 @@
   {
    "guid": "EED4EE05496C86CD464218A3DC4CFC72",
    "nome": "SHEP",
-   "data": "2026-10-18 02:57:11",
+   "data": "2026-10-18 03:13:39",
    "total_nivel": 236,
    "total_xp": 36703,
    "skills": [
@@ -896,14 +896,14 @@
   {
    "guid": "B0F67AB12FFB4B74999D59144A6A6556",
    "nome": "XDante7X",
-   "data": "2026-10-18 02:57:11",
-   "total_nivel": 211,
-   "total_xp": 694302,
+   "data": "2026-10-18 03:13:39",
+   "total_nivel": 214,
+   "total_xp": 694586,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 2087,
+     "xp": 2187,
      "nivel": 21
     },
     {
@@ -921,8 +921,8 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 117,
-     "nivel": 4
+     "xp": 301,
+     "nivel": 7
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
@@ -977,15 +977,15 @@
   {
    "guid": "136B6B754E1498BB9627A58435BC58AF",
    "nome": "Malvar_Legolas",
-   "data": "2026-10-18 02:57:11",
-   "total_nivel": 171,
-   "total_xp": 25452,
+   "data": "2026-10-18 03:13:39",
+   "total_nivel": 173,
+   "total_xp": 26442,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 2985,
-     "nivel": 24
+     "xp": 3335,
+     "nivel": 25
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -1038,8 +1038,8 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 8623,
-     "nivel": 34
+     "xp": 9263,
+     "nivel": 35
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
