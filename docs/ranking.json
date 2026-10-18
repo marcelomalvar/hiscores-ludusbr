@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T04:58:26Z",
+ "atualizado": "2026-10-18T05:14:14Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -734,15 +734,15 @@
   {
    "guid": "EED4EE05496C86CD464218A3DC4CFC72",
    "nome": "SHEP",
-   "data": "2026-10-18 04:58:26",
-   "total_nivel": 259,
-   "total_xp": 46032,
+   "data": "2026-10-18 05:14:14",
+   "total_nivel": 263,
+   "total_xp": 48078,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 4830,
-     "nivel": 28
+     "xp": 4990,
+     "nivel": 29
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -753,8 +753,8 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 4638,
-     "nivel": 28
+     "xp": 4894,
+     "nivel": 29
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
@@ -789,19 +789,19 @@
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 19826,
-     "nivel": 42
+     "xp": 21366,
+     "nivel": 43
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 193,
-     "nivel": 5
+     "xp": 243,
+     "nivel": 6
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 2352,
+     "xp": 2392,
      "nivel": 22
     },
     {
