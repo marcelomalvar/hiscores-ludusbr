@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T08:55:28Z",
+ "atualizado": "2026-10-18T09:10:28Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -977,20 +977,20 @@
   {
    "guid": "054EBCFF4CA7F3293237278D8D26A175",
    "nome": "Zimmerrs",
-   "data": "2026-10-18 08:55:28",
-   "total_nivel": 192,
-   "total_xp": 24448,
+   "data": "2026-10-18 09:10:28",
+   "total_nivel": 194,
+   "total_xp": 25049,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 3090,
-     "nivel": 24
+     "xp": 3200,
+     "nivel": 25
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 3206,
+     "xp": 3486,
      "nivel": 25
     },
     {
@@ -1002,7 +1002,7 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 7480,
+     "xp": 7544,
      "nivel": 33
     },
     {
@@ -1014,8 +1014,8 @@
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 58,
-     "nivel": 2
+     "xp": 83,
+     "nivel": 3
     },
     {
      "id": "vwY5IkQJJDwb2PKEfoc8MQ",
@@ -1032,7 +1032,7 @@
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 3968,
+     "xp": 3990,
      "nivel": 27
     },
     {
@@ -1050,7 +1050,7 @@
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 2089,
+     "xp": 2189,
      "nivel": 21
     }
    ]
