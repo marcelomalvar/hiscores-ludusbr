@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T17:44:23Z",
+ "atualizado": "2026-10-18T17:57:22Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -734,15 +734,15 @@
   {
    "guid": "EED4EE05496C86CD464218A3DC4CFC72",
    "nome": "SHEP",
-   "data": "2026-10-18 17:44:23",
-   "total_nivel": 276,
-   "total_xp": 58222,
+   "data": "2026-10-18 17:56:26",
+   "total_nivel": 282,
+   "total_xp": 59283,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 5350,
-     "nivel": 29
+     "xp": 5510,
+     "nivel": 30
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -753,8 +753,8 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 5300,
-     "nivel": 29
+     "xp": 5684,
+     "nivel": 30
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
@@ -765,7 +765,7 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 5465,
+     "xp": 5489,
      "nivel": 30
     },
     {
@@ -783,7 +783,7 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 1608,
+     "xp": 1689,
      "nivel": 19
     },
     {
@@ -795,20 +795,20 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 257,
-     "nivel": 6
+     "xp": 276,
+     "nivel": 7
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 2792,
-     "nivel": 23
+     "xp": 2832,
+     "nivel": 24
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 1915,
-     "nivel": 20
+     "xp": 2268,
+     "nivel": 22
     }
    ]
   },
