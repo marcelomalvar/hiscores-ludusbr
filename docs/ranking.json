@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T18:26:48Z",
+ "atualizado": "2026-10-18T18:41:48Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -734,21 +734,21 @@
   {
    "guid": "EED4EE05496C86CD464218A3DC4CFC72",
    "nome": "SHEP",
-   "data": "2026-10-18 18:26:48",
-   "total_nivel": 286,
-   "total_xp": 61457,
+   "data": "2026-10-18 18:41:48",
+   "total_nivel": 288,
+   "total_xp": 62057,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 5720,
+     "xp": 5770,
      "nivel": 30
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 3071,
-     "nivel": 24
+     "xp": 3271,
+     "nivel": 25
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
@@ -759,8 +759,8 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 2370,
-     "nivel": 22
+     "xp": 2720,
+     "nivel": 23
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
@@ -977,14 +977,14 @@
   {
    "guid": "B0F67AB12FFB4B74999D59144A6A6556",
    "nome": "XDante7X",
-   "data": "2026-10-18 18:26:48",
-   "total_nivel": 219,
-   "total_xp": 745316,
+   "data": "2026-10-18 18:41:48",
+   "total_nivel": 220,
+   "total_xp": 748892,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 2342,
+     "xp": 2392,
      "nivel": 22
     },
     {
@@ -1032,19 +1032,19 @@
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 2861,
+     "xp": 2931,
      "nivel": 24
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 3428,
-     "nivel": 25
+     "xp": 3541,
+     "nivel": 26
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 734055,
+     "xp": 737398,
      "nivel": 97
     },
     {
