@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T20:11:28Z",
+ "atualizado": "2026-10-18T20:26:28Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -653,9 +653,9 @@
   {
    "guid": "EED4EE05496C86CD464218A3DC4CFC72",
    "nome": "SHEP",
-   "data": "2026-10-18 20:11:28",
-   "total_nivel": 306,
-   "total_xp": 76952,
+   "data": "2026-10-18 20:26:28",
+   "total_nivel": 311,
+   "total_xp": 80050,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
@@ -666,8 +666,8 @@
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 5294,
-     "nivel": 29
+     "xp": 8377,
+     "nivel": 34
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
@@ -678,7 +678,7 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 3340,
+     "xp": 3355,
      "nivel": 25
     },
     {
