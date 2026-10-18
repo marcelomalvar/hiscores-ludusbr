@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T20:26:28Z",
+ "atualizado": "2026-10-18T20:41:28Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -653,21 +653,21 @@
   {
    "guid": "EED4EE05496C86CD464218A3DC4CFC72",
    "nome": "SHEP",
-   "data": "2026-10-18 20:26:28",
-   "total_nivel": 311,
-   "total_xp": 80050,
+   "data": "2026-10-18 20:41:28",
+   "total_nivel": 313,
+   "total_xp": 82313,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 6650,
+     "xp": 6700,
      "nivel": 32
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 8377,
-     "nivel": 34
+     "xp": 10337,
+     "nivel": 36
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
@@ -678,19 +678,19 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 3355,
+     "xp": 3441,
      "nivel": 25
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 5656,
+     "xp": 5776,
      "nivel": 30
     },
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 2130,
+     "xp": 2177,
      "nivel": 21
     },
     {
