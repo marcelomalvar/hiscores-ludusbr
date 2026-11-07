@@ -613,8 +613,42 @@
    "data": "2026-10-17 17:32:45",
    "seg": 0,
    "seg_skill": {}
+  },
+  "E29493604B9E1E80C6C8EBA0412AF9D6": {
+   "nome": "Legolas Nordeste",
+   "base": {
+    "Agility": 1270,
+    "Artisan": 2810,
+    "Attack": 0,
+    "Construction": 126,
+    "Cooking": 718,
+    "Farming": 4,
+    "Fishing": 0,
+    "Magic": 0,
+    "Mining": 6282,
+    "Ranged": 1429,
+    "Runecrafting": 951,
+    "Woodcutting": 1831
+   },
+   "xp": {
+    "Agility": 1270,
+    "Artisan": 2810,
+    "Attack": 0,
+    "Construction": 126,
+    "Cooking": 718,
+    "Farming": 4,
+    "Fishing": 0,
+    "Magic": 0,
+    "Mining": 6282,
+    "Ranged": 1429,
+    "Runecrafting": 951,
+    "Woodcutting": 1831
+   },
+   "data": "2026-11-07 11:23:52",
+   "seg": 0,
+   "seg_skill": {}
   }
  },
- "ref": "2026-10-18T23:29:53Z",
- "atualizado": "2026-11-02T03:00:47Z"
+ "ref": "2026-11-07T11:30:16Z",
+ "atualizado": "2026-11-07T11:30:24Z"
 }
