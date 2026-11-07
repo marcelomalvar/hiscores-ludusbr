@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T11:57:11Z",
+ "atualizado": "2026-11-07T12:12:31Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -1463,7 +1463,7 @@
   {
    "guid": "F099DDD7472621641F3F45ACB6B20B75",
    "nome": "tester",
-   "data": "2026-11-07 11:57:11",
+   "data": "2026-11-07 12:12:31",
    "total_nivel": 41,
    "total_xp": 3208,
    "skills": [
