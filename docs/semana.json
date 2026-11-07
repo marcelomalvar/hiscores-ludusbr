@@ -644,11 +644,45 @@
     "Runecrafting": 951,
     "Woodcutting": 1831
    },
-   "data": "2026-11-07 11:23:52",
+   "data": "2026-11-07 11:32:06",
+   "seg": 0,
+   "seg_skill": {}
+  },
+  "F099DDD7472621641F3F45ACB6B20B75": {
+   "nome": "tester",
+   "base": {
+    "Agility": 250,
+    "Artisan": 0,
+    "Attack": 0,
+    "Construction": 61,
+    "Cooking": 29,
+    "Farming": 0,
+    "Fishing": 2868,
+    "Magic": 0,
+    "Mining": 0,
+    "Ranged": 0,
+    "Runecrafting": 0,
+    "Woodcutting": 0
+   },
+   "xp": {
+    "Agility": 250,
+    "Artisan": 0,
+    "Attack": 0,
+    "Construction": 61,
+    "Cooking": 29,
+    "Farming": 0,
+    "Fishing": 2868,
+    "Magic": 0,
+    "Mining": 0,
+    "Ranged": 0,
+    "Runecrafting": 0,
+    "Woodcutting": 0
+   },
+   "data": "2026-11-07 11:42:11",
    "seg": 0,
    "seg_skill": {}
   }
  },
- "ref": "2026-11-07T11:30:16Z",
- "atualizado": "2026-11-07T11:30:24Z"
+ "ref": "2026-11-07T11:42:11Z",
+ "atualizado": "2026-11-07T11:45:24Z"
 }
