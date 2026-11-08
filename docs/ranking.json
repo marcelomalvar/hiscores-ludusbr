@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T01:59:18Z",
+ "atualizado": "2026-11-08T02:12:43Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -86,15 +86,15 @@
   {
    "guid": "97AA4FCF49572AAE63CFC3A861823B8E",
    "nome": "Malvar",
-   "data": "2026-11-08 01:59:18",
-   "total_nivel": 702,
-   "total_xp": 1779850,
+   "data": "2026-11-08 02:12:43",
+   "total_nivel": 705,
+   "total_xp": 1794920,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 97388,
-     "nivel": 61
+     "xp": 98718,
+     "nivel": 62
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -141,14 +141,14 @@
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 212362,
-     "nivel": 78
+     "xp": 216540,
+     "nivel": 79
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 810201,
-     "nivel": 97
+     "xp": 819763,
+     "nivel": 98
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
