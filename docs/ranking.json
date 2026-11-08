@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T21:00:25Z",
+ "atualizado": "2026-11-08T01:44:18Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -86,14 +86,14 @@
   {
    "guid": "97AA4FCF49572AAE63CFC3A861823B8E",
    "nome": "Malvar",
-   "data": "2026-11-07 20:21:53",
+   "data": "2026-11-08 01:44:18",
    "total_nivel": 702,
-   "total_xp": 1775359,
+   "total_xp": 1775559,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 96023,
+     "xp": 96223,
      "nivel": 61
     },
     {
