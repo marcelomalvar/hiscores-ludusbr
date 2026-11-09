@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T15:44:01Z",
+ "atualizado": "2026-11-09T15:59:01Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -1544,14 +1544,14 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-09 15:44:01",
-   "total_nivel": 71,
-   "total_xp": 3840,
+   "data": "2026-11-09 15:59:01",
+   "total_nivel": 75,
+   "total_xp": 4780,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 570,
+     "xp": 620,
      "nivel": 11
     },
     {
@@ -1563,14 +1563,14 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 601,
+     "xp": 621,
      "nivel": 11
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 1274,
-     "nivel": 17
+     "xp": 2144,
+     "nivel": 21
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
