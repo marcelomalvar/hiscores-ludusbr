@@ -681,8 +681,76 @@
    "data": "2026-10-17 17:32:45",
    "seg": 0,
    "seg_skill": {}
+  },
+  "2EB941FE083B412B9071910112838BEB": {
+   "nome": "TK",
+   "base": {
+    "Agility": 29785,
+    "Artisan": 170228,
+    "Attack": 213109,
+    "Construction": 21989,
+    "Cooking": 30894,
+    "Farming": 6069,
+    "Fishing": 617,
+    "Magic": 76418,
+    "Mining": 64926,
+    "Ranged": 6627,
+    "Runecrafting": 11764,
+    "Woodcutting": 5057
+   },
+   "xp": {
+    "Agility": 29785,
+    "Artisan": 170228,
+    "Attack": 213109,
+    "Construction": 21989,
+    "Cooking": 30894,
+    "Farming": 6069,
+    "Fishing": 617,
+    "Magic": 76418,
+    "Mining": 64926,
+    "Ranged": 6627,
+    "Runecrafting": 11764,
+    "Woodcutting": 5057
+   },
+   "data": "2026-11-09 14:49:01",
+   "seg": 0,
+   "seg_skill": {}
+  },
+  "0F75869E5DD64733B115B6962AF9E767": {
+   "nome": "TKzim",
+   "base": {
+    "Agility": 0,
+    "Artisan": 20,
+    "Attack": 0,
+    "Construction": 0,
+    "Cooking": 15,
+    "Farming": 0,
+    "Fishing": 0,
+    "Magic": 0,
+    "Mining": 0,
+    "Ranged": 0,
+    "Runecrafting": 0,
+    "Woodcutting": 0
+   },
+   "xp": {
+    "Agility": 0,
+    "Artisan": 20,
+    "Attack": 0,
+    "Construction": 0,
+    "Cooking": 15,
+    "Farming": 0,
+    "Fishing": 0,
+    "Magic": 0,
+    "Mining": 0,
+    "Ranged": 0,
+    "Runecrafting": 0,
+    "Woodcutting": 0
+   },
+   "data": "2026-11-09 14:59:01",
+   "seg": 0,
+   "seg_skill": {}
   }
  },
- "ref": "2026-11-09T13:00:24Z",
- "atualizado": "2026-11-09T13:00:30Z"
+ "ref": "2026-11-09T14:59:01Z",
+ "atualizado": "2026-11-09T15:00:33Z"
 }
