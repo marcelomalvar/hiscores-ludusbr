@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T21:00:26Z",
+ "atualizado": "2026-11-09T21:10:32Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -1139,9 +1139,9 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-09 20:58:06",
-   "total_nivel": 202,
-   "total_xp": 25432,
+   "data": "2026-11-09 21:10:32",
+   "total_nivel": 203,
+   "total_xp": 25750,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
@@ -1164,8 +1164,8 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 8108,
-     "nivel": 33
+     "xp": 8426,
+     "nivel": 34
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
