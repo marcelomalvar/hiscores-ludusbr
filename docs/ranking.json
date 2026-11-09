@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T16:14:01Z",
+ "atualizado": "2026-11-09T16:29:01Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -1544,15 +1544,15 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-09 16:14:01",
-   "total_nivel": 83,
-   "total_xp": 6175,
+   "data": "2026-11-09 16:29:01",
+   "total_nivel": 91,
+   "total_xp": 8027,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 720,
-     "nivel": 12
+     "xp": 820,
+     "nivel": 13
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -1563,19 +1563,19 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 702,
-     "nivel": 12
+     "xp": 912,
+     "nivel": 14
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 2482,
-     "nivel": 22
+     "xp": 3828,
+     "nivel": 26
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 261,
+     "xp": 308,
      "nivel": 7
     },
     {
@@ -1617,8 +1617,8 @@
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 1777,
-     "nivel": 19
+     "xp": 1926,
+     "nivel": 20
     }
    ]
   },
