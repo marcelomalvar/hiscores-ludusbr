@@ -1,48 +1,48 @@
 {
- "atualizado": "2026-11-09T22:12:53Z",
+ "atualizado": "2026-11-10T01:13:01Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
    "guid": "310C59C7425D648E42B6F783690445A3",
    "nome": "HimuraS4",
-   "data": "2026-10-18 23:16:04",
-   "total_nivel": 888,
-   "total_xp": 4731201,
+   "data": "2026-11-10 01:13:01",
+   "total_nivel": 899,
+   "total_xp": 4950740,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 106316,
-     "nivel": 63
+     "xp": 132276,
+     "nivel": 67
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 1069651,
+     "xp": 1074390,
      "nivel": 99
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 1073524,
+     "xp": 1180266,
      "nivel": 99
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 31220,
+     "xp": 31272,
      "nivel": 47
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 490030,
+     "xp": 492775,
      "nivel": 95
     },
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 28337,
+     "xp": 29085,
      "nivel": 46
     },
     {
@@ -54,32 +54,32 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 233881,
-     "nivel": 81
+     "xp": 278726,
+     "nivel": 86
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 1064095,
+     "xp": 1084532,
      "nivel": 99
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 288886,
-     "nivel": 87
+     "xp": 299424,
+     "nivel": 88
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 303414,
+     "xp": 303446,
      "nivel": 89
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 31024,
-     "nivel": 47
+     "xp": 33725,
+     "nivel": 48
     }
    ]
   },
@@ -1382,14 +1382,14 @@
   {
    "guid": "22BA8E3F47D4B637A331CAAEF2C621F0",
    "nome": "Feijão O Retorno",
-   "data": "2026-10-17 02:41:29",
+   "data": "2026-11-10 01:13:00",
    "total_nivel": 132,
-   "total_xp": 38790,
+   "total_xp": 38865,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 7169,
+     "xp": 7244,
      "nivel": 32
     },
     {

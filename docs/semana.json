@@ -19,22 +19,34 @@
     "Woodcutting": 31024
    },
    "xp": {
-    "Agility": 106316,
-    "Artisan": 1069651,
-    "Attack": 1073524,
-    "Construction": 31220,
-    "Cooking": 490030,
-    "Farming": 28337,
+    "Agility": 132276,
+    "Artisan": 1074390,
+    "Attack": 1180266,
+    "Construction": 31272,
+    "Cooking": 492775,
+    "Farming": 29085,
     "Fishing": 10823,
-    "Magic": 233881,
-    "Mining": 1064095,
-    "Ranged": 288886,
-    "Runecrafting": 303414,
-    "Woodcutting": 31024
+    "Magic": 278726,
+    "Mining": 1084532,
+    "Ranged": 299424,
+    "Runecrafting": 303446,
+    "Woodcutting": 33725
    },
-   "data": "2026-10-18 23:16:04",
-   "seg": 0,
-   "seg_skill": {}
+   "data": "2026-11-10 01:13:01",
+   "seg": 2700,
+   "seg_skill": {
+    "Agility": 2700,
+    "Artisan": 2700,
+    "Attack": 2700,
+    "Construction": 2700,
+    "Cooking": 2700,
+    "Farming": 2700,
+    "Magic": 2700,
+    "Mining": 2700,
+    "Ranged": 2700,
+    "Runecrafting": 2700,
+    "Woodcutting": 2700
+   }
   },
   "97AA4FCF49572AAE63CFC3A861823B8E": {
    "nome": "Malvar",
@@ -529,7 +541,7 @@
     "Woodcutting": 87
    },
    "xp": {
-    "Agility": 7169,
+    "Agility": 7244,
     "Artisan": 130,
     "Attack": 29002,
     "Construction": 133,
@@ -542,9 +554,11 @@
     "Runecrafting": 54,
     "Woodcutting": 87
    },
-   "data": "2026-10-17 02:41:29",
-   "seg": 0,
-   "seg_skill": {}
+   "data": "2026-11-10 01:13:00",
+   "seg": 2700,
+   "seg_skill": {
+    "Agility": 2700
+   }
   },
   "3CC9083C4E6019FE54A2DAB277F2E017": {
    "nome": "Deff do youtube",
@@ -763,6 +777,6 @@
    }
   }
  },
- "ref": "2026-11-09T22:12:53Z",
- "atualizado": "2026-11-09T22:15:22Z"
+ "ref": "2026-11-10T01:13:01Z",
+ "atualizado": "2026-11-10T01:15:24Z"
 }
