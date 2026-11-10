@@ -1,18 +1,18 @@
 {
- "atualizado": "2026-11-10T01:13:01Z",
+ "atualizado": "2026-11-10T01:28:02Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
    "guid": "310C59C7425D648E42B6F783690445A3",
    "nome": "HimuraS4",
-   "data": "2026-11-10 01:13:01",
+   "data": "2026-11-10 01:28:01",
    "total_nivel": 899,
-   "total_xp": 4950740,
+   "total_xp": 4951018,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 132276,
+     "xp": 132476,
      "nivel": 67
     },
     {
@@ -24,7 +24,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 1180266,
+     "xp": 1180344,
      "nivel": 99
     },
     {
@@ -1382,7 +1382,7 @@
   {
    "guid": "22BA8E3F47D4B637A331CAAEF2C621F0",
    "nome": "Feijão O Retorno",
-   "data": "2026-11-10 01:13:00",
+   "data": "2026-11-10 01:28:02",
    "total_nivel": 132,
    "total_xp": 38865,
    "skills": [
