@@ -1,18 +1,18 @@
 {
- "atualizado": "2026-11-11T02:58:09Z",
+ "atualizado": "2026-11-11T03:05:02Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
    "guid": "310C59C7425D648E42B6F783690445A3",
    "nome": "HimuraS4",
-   "data": "2026-11-11 02:58:09",
+   "data": "2026-11-11 03:05:02",
    "total_nivel": 899,
-   "total_xp": 4962373,
+   "total_xp": 4963958,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 133081,
+     "xp": 133581,
      "nivel": 67
     },
     {
@@ -54,7 +54,7 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 280679,
+     "xp": 281764,
      "nivel": 86
     },
     {
@@ -86,14 +86,14 @@
   {
    "guid": "97AA4FCF49572AAE63CFC3A861823B8E",
    "nome": "Malvar",
-   "data": "2026-11-11 02:58:08",
-   "total_nivel": 705,
-   "total_xp": 1802040,
+   "data": "2026-11-11 03:04:16",
+   "total_nivel": 706,
+   "total_xp": 1802495,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 99568,
+     "xp": 99668,
      "nivel": 62
     },
     {
@@ -111,8 +111,8 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 14791,
-     "nivel": 39
+     "xp": 14991,
+     "nivel": 40
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
@@ -147,13 +147,13 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 823550,
+     "xp": 823685,
      "nivel": 98
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 97881,
+     "xp": 97901,
      "nivel": 61
     },
     {
@@ -167,14 +167,14 @@
   {
    "guid": "9B81068F4B6ECE6ADDF88488429BFFB0",
    "nome": "Muambeiro",
-   "data": "2026-11-11 02:58:09",
+   "data": "2026-11-11 03:04:26",
    "total_nivel": 660,
-   "total_xp": 1677625,
+   "total_xp": 1679935,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 84795,
+     "xp": 85295,
      "nivel": 59
     },
     {
@@ -186,7 +186,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 899989,
+     "xp": 901428,
      "nivel": 98
     },
     {
@@ -228,7 +228,7 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 9481,
+     "xp": 9852,
      "nivel": 35
     },
     {
