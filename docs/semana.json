@@ -19,7 +19,7 @@
     "Woodcutting": 31024
    },
    "xp": {
-    "Agility": 133581,
+    "Agility": 133781,
     "Artisan": 1074390,
     "Attack": 1182093,
     "Construction": 31272,
@@ -32,10 +32,10 @@
     "Runecrafting": 303446,
     "Woodcutting": 33725
    },
-   "data": "2026-11-11 03:05:02",
-   "seg": 8073,
+   "data": "2026-11-12 23:00:25",
+   "seg": 9153,
    "seg_skill": {
-    "Agility": 8073,
+    "Agility": 9153,
     "Artisan": 2700,
     "Attack": 7660,
     "Construction": 2700,
@@ -765,36 +765,104 @@
     "Woodcutting": 0
    },
    "xp": {
-    "Agility": 3055,
-    "Artisan": 1335,
-    "Attack": 4073,
-    "Construction": 8870,
+    "Agility": 3225,
+    "Artisan": 1385,
+    "Attack": 5240,
+    "Construction": 8910,
     "Cooking": 5502,
     "Farming": 1363,
     "Fishing": 0,
-    "Magic": 804,
-    "Mining": 816,
-    "Ranged": 1183,
-    "Runecrafting": 651,
-    "Woodcutting": 4866
+    "Magic": 892,
+    "Mining": 890,
+    "Ranged": 1203,
+    "Runecrafting": 671,
+    "Woodcutting": 4916
    },
-   "data": "2026-11-12 22:42:25",
-   "seg": 32946,
+   "data": "2026-11-12 23:00:25",
+   "seg": 34026,
    "seg_skill": {
-    "Agility": 30400,
-    "Attack": 19579,
+    "Agility": 31480,
+    "Attack": 20659,
     "Cooking": 25600,
-    "Mining": 6900,
-    "Runecrafting": 7200,
-    "Woodcutting": 13279,
-    "Construction": 27200,
-    "Artisan": 11578,
+    "Mining": 7980,
+    "Runecrafting": 8280,
+    "Woodcutting": 14359,
+    "Construction": 28280,
+    "Artisan": 12658,
     "Farming": 19955,
-    "Ranged": 6600,
-    "Magic": 5700
+    "Ranged": 7680,
+    "Magic": 6780
    }
+  },
+  "106A66A73DF2430499A1519889586E76": {
+   "nome": "Meeih",
+   "base": {
+    "Agility": 0,
+    "Artisan": 0,
+    "Attack": 26,
+    "Construction": 0,
+    "Cooking": 0,
+    "Farming": 0,
+    "Fishing": 0,
+    "Magic": 0,
+    "Mining": 0,
+    "Ranged": 0,
+    "Runecrafting": 0,
+    "Woodcutting": 0
+   },
+   "xp": {
+    "Agility": 0,
+    "Artisan": 0,
+    "Attack": 26,
+    "Construction": 0,
+    "Cooking": 0,
+    "Farming": 0,
+    "Fishing": 0,
+    "Magic": 0,
+    "Mining": 0,
+    "Ranged": 0,
+    "Runecrafting": 0,
+    "Woodcutting": 0
+   },
+   "data": "2026-11-12 23:00:25",
+   "seg": 0,
+   "seg_skill": {}
+  },
+  "A59C82504284585C9CED19B41849368C": {
+   "nome": "SALSICHA03",
+   "base": {
+    "Agility": 25,
+    "Artisan": 0,
+    "Attack": 0,
+    "Construction": 0,
+    "Cooking": 0,
+    "Farming": 0,
+    "Fishing": 0,
+    "Magic": 0,
+    "Mining": 0,
+    "Ranged": 0,
+    "Runecrafting": 0,
+    "Woodcutting": 0
+   },
+   "xp": {
+    "Agility": 25,
+    "Artisan": 0,
+    "Attack": 0,
+    "Construction": 0,
+    "Cooking": 0,
+    "Farming": 0,
+    "Fishing": 0,
+    "Magic": 0,
+    "Mining": 0,
+    "Ranged": 0,
+    "Runecrafting": 0,
+    "Woodcutting": 0
+   },
+   "data": "2026-11-12 23:00:25",
+   "seg": 0,
+   "seg_skill": {}
   }
  },
- "ref": "2026-11-12T22:42:25Z",
- "atualizado": "2026-11-12T22:45:21Z"
+ "ref": "2026-11-12T23:00:26Z",
+ "atualizado": "2026-11-12T23:00:33Z"
 }
