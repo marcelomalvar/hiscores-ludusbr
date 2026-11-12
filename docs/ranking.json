@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T22:12:25Z",
+ "atualizado": "2026-11-12T22:42:25Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -1058,9 +1058,9 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-12 22:12:25",
+   "data": "2026-11-12 22:42:25",
    "total_nivel": 233,
-   "total_xp": 32490,
+   "total_xp": 32518,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
@@ -1095,7 +1095,7 @@
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 1335,
+     "xp": 1363,
      "nivel": 17
     },
     {
