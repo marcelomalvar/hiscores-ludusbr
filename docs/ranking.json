@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-13T19:52:15Z",
+ "atualizado": "2026-11-13T19:57:15Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -1463,21 +1463,21 @@
   {
    "guid": "A59C82504284585C9CED19B41849368C",
    "nome": "SALSICHA03",
-   "data": "2026-11-13 19:52:15",
-   "total_nivel": 125,
-   "total_xp": 7729,
+   "data": "2026-11-13 19:57:15",
+   "total_nivel": 127,
+   "total_xp": 7806,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 955,
-     "nivel": 14
+     "xp": 1005,
+     "nivel": 15
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 841,
-     "nivel": 13
+     "xp": 861,
+     "nivel": 14
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
@@ -1494,13 +1494,13 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 1256,
+     "xp": 1259,
      "nivel": 17
     },
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 294,
+     "xp": 298,
      "nivel": 7
     },
     {
@@ -1949,15 +1949,15 @@
   {
    "guid": "39AB78344D23583DCF4E9E9C2F60E45A",
    "nome": "Ragnarok",
-   "data": "2026-11-13 19:52:15",
-   "total_nivel": 37,
-   "total_xp": 1232,
+   "data": "2026-11-13 19:57:15",
+   "total_nivel": 39,
+   "total_xp": 1302,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 250,
-     "nivel": 6
+     "xp": 300,
+     "nivel": 7
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -2016,8 +2016,8 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 256,
-     "nivel": 6
+     "xp": 276,
+     "nivel": 7
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
