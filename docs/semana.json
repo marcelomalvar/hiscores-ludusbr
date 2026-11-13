@@ -868,32 +868,32 @@
     "Woodcutting": 0
    },
    "xp": {
-    "Agility": 2110,
+    "Agility": 2210,
     "Artisan": 3700,
-    "Attack": 3698,
+    "Attack": 4298,
     "Construction": 685,
-    "Cooking": 1880,
+    "Cooking": 1886,
     "Farming": 300,
     "Fishing": 0,
-    "Magic": 703,
-    "Mining": 5877,
-    "Ranged": 604,
+    "Magic": 707,
+    "Mining": 7225,
+    "Ranged": 679,
     "Runecrafting": 736,
-    "Woodcutting": 734
+    "Woodcutting": 749
    },
-   "data": "2026-11-13 22:40:50",
-   "seg": 23056,
+   "data": "2026-11-13 22:55:50",
+   "seg": 23956,
    "seg_skill": {
-    "Agility": 21856,
+    "Agility": 22756,
     "Artisan": 15941,
-    "Attack": 17956,
-    "Cooking": 19040,
-    "Mining": 17056,
+    "Attack": 18856,
+    "Cooking": 19940,
+    "Mining": 17956,
     "Runecrafting": 14356,
-    "Woodcutting": 8025,
+    "Woodcutting": 8925,
     "Farming": 6715,
-    "Magic": 8131,
-    "Ranged": 4502,
+    "Magic": 9031,
+    "Ranged": 5402,
     "Construction": 9901
    }
   },
@@ -959,34 +959,34 @@
     "Woodcutting": 0
    },
    "xp": {
-    "Agility": 1337,
-    "Artisan": 3717,
-    "Attack": 4909,
-    "Construction": 154,
-    "Cooking": 183,
+    "Agility": 1417,
+    "Artisan": 3801,
+    "Attack": 5107,
+    "Construction": 160,
+    "Cooking": 186,
     "Farming": 0,
     "Fishing": 0,
     "Magic": 0,
-    "Mining": 4352,
+    "Mining": 5199,
     "Ranged": 545,
-    "Runecrafting": 679,
-    "Woodcutting": 124
+    "Runecrafting": 739,
+    "Woodcutting": 184
    },
-   "data": "2026-11-13 22:40:50",
-   "seg": 14133,
+   "data": "2026-11-13 22:55:50",
+   "seg": 15033,
    "seg_skill": {
-    "Agility": 14133,
-    "Attack": 13715,
-    "Cooking": 7200,
-    "Mining": 11615,
-    "Runecrafting": 11315,
-    "Artisan": 7500,
-    "Construction": 5700,
+    "Agility": 15033,
+    "Attack": 14615,
+    "Cooking": 8100,
+    "Mining": 12515,
+    "Runecrafting": 12215,
+    "Artisan": 8400,
+    "Construction": 6600,
     "Ranged": 3515,
-    "Woodcutting": 2700
+    "Woodcutting": 3600
    }
   }
  },
- "ref": "2026-11-13T22:40:50Z",
- "atualizado": "2026-11-13T22:45:22Z"
+ "ref": "2026-11-13T22:55:50Z",
+ "atualizado": "2026-11-13T23:00:31Z"
 }
