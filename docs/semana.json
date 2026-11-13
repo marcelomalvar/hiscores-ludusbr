@@ -868,29 +868,29 @@
     "Woodcutting": 0
    },
    "xp": {
-    "Agility": 1775,
-    "Artisan": 2770,
-    "Attack": 2968,
+    "Agility": 1900,
+    "Artisan": 2910,
+    "Attack": 3077,
     "Construction": 685,
-    "Cooking": 1852,
+    "Cooking": 1858,
     "Farming": 300,
     "Fishing": 0,
     "Magic": 703,
-    "Mining": 3897,
+    "Mining": 3920,
     "Ranged": 604,
     "Runecrafting": 736,
-    "Woodcutting": 641
+    "Woodcutting": 650
    },
-   "data": "2026-11-13 21:55:50",
-   "seg": 20356,
+   "data": "2026-11-13 22:10:50",
+   "seg": 21256,
    "seg_skill": {
-    "Agility": 19156,
-    "Artisan": 14141,
-    "Attack": 15256,
-    "Cooking": 16340,
-    "Mining": 15256,
+    "Agility": 20056,
+    "Artisan": 15041,
+    "Attack": 16156,
+    "Cooking": 17240,
+    "Mining": 16156,
     "Runecrafting": 14356,
-    "Woodcutting": 6225,
+    "Woodcutting": 7125,
     "Farming": 6715,
     "Magic": 8131,
     "Ranged": 4502,
@@ -959,34 +959,34 @@
     "Woodcutting": 0
    },
    "xp": {
-    "Agility": 985,
-    "Artisan": 2862,
-    "Attack": 3735,
+    "Agility": 1120,
+    "Artisan": 3542,
+    "Attack": 4088,
     "Construction": 154,
-    "Cooking": 134,
+    "Cooking": 176,
     "Farming": 0,
     "Fishing": 0,
     "Magic": 0,
-    "Mining": 2561,
+    "Mining": 3058,
     "Ranged": 545,
-    "Runecrafting": 499,
-    "Woodcutting": 64
+    "Runecrafting": 533,
+    "Woodcutting": 68
    },
-   "data": "2026-11-13 21:55:50",
-   "seg": 11433,
+   "data": "2026-11-13 22:10:50",
+   "seg": 12333,
    "seg_skill": {
-    "Agility": 11433,
-    "Attack": 11015,
-    "Cooking": 4500,
-    "Mining": 8915,
-    "Runecrafting": 8615,
-    "Artisan": 5700,
+    "Agility": 12333,
+    "Attack": 11915,
+    "Cooking": 5400,
+    "Mining": 9815,
+    "Runecrafting": 9515,
+    "Artisan": 6600,
     "Construction": 5700,
     "Ranged": 3515,
-    "Woodcutting": 900
+    "Woodcutting": 1800
    }
   }
  },
- "ref": "2026-11-13T21:55:50Z",
- "atualizado": "2026-11-13T22:00:33Z"
+ "ref": "2026-11-13T22:10:50Z",
+ "atualizado": "2026-11-13T22:15:23Z"
 }
