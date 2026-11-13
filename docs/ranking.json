@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-13T17:15:16Z",
+ "atualizado": "2026-11-13T19:30:17Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -1949,14 +1949,14 @@
   {
    "guid": "39AB78344D23583DCF4E9E9C2F60E45A",
    "nome": "Ragnarok",
-   "data": "2026-11-13 15:43:21",
-   "total_nivel": 26,
-   "total_xp": 655,
+   "data": "2026-11-13 19:30:17",
+   "total_nivel": 31,
+   "total_xp": 924,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 125,
+     "xp": 150,
      "nivel": 4
     },
     {
@@ -1968,7 +1968,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 271,
+     "xp": 296,
      "nivel": 7
     },
     {
@@ -1980,8 +1980,8 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 3,
-     "nivel": 1
+     "xp": 119,
+     "nivel": 4
     },
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
@@ -2004,8 +2004,8 @@
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 29,
-     "nivel": 1
+     "xp": 92,
+     "nivel": 3
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
@@ -2016,7 +2016,7 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 161,
+     "xp": 201,
      "nivel": 5
     },
     {
