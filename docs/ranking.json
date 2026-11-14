@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T23:25:40Z",
+ "atualizado": "2026-11-14T23:40:40Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -1058,14 +1058,14 @@
   {
    "guid": "39AB78344D23583DCF4E9E9C2F60E45A",
    "nome": "Ragnarok",
-   "data": "2026-11-14 23:25:40",
-   "total_nivel": 268,
-   "total_xp": 66305,
+   "data": "2026-11-14 23:40:40",
+   "total_nivel": 271,
+   "total_xp": 68917,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 3767,
+     "xp": 3842,
      "nivel": 26
     },
     {
@@ -1077,8 +1077,8 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 21831,
-     "nivel": 43
+     "xp": 23346,
+     "nivel": 44
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
@@ -1089,7 +1089,7 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 349,
+     "xp": 361,
      "nivel": 8
     },
     {
@@ -1107,14 +1107,14 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 8801,
-     "nivel": 34
+     "xp": 9047,
+     "nivel": 35
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 17545,
-     "nivel": 41
+     "xp": 18309,
+     "nivel": 42
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
