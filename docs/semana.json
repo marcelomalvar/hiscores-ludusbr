@@ -777,30 +777,30 @@
     "Woodcutting": 0
    },
    "xp": {
-    "Agility": 6084,
-    "Artisan": 8196,
-    "Attack": 18354,
+    "Agility": 6199,
+    "Artisan": 8316,
+    "Attack": 19186,
     "Construction": 9520,
-    "Cooking": 11327,
+    "Cooking": 12090,
     "Farming": 5215,
     "Fishing": 0,
     "Magic": 3033,
-    "Mining": 14246,
+    "Mining": 14256,
     "Ranged": 1634,
     "Runecrafting": 2299,
     "Woodcutting": 6325
    },
-   "data": "2026-11-14 02:58:37",
-   "seg": 60997,
+   "data": "2026-11-14 03:13:37",
+   "seg": 61897,
    "seg_skill": {
-    "Agility": 58151,
-    "Attack": 40853,
-    "Cooking": 39781,
-    "Mining": 23527,
+    "Agility": 59051,
+    "Attack": 41753,
+    "Cooking": 40681,
+    "Mining": 24427,
     "Runecrafting": 13091,
     "Woodcutting": 18560,
     "Construction": 37005,
-    "Artisan": 25078,
+    "Artisan": 25978,
     "Farming": 31700,
     "Ranged": 9553,
     "Magic": 16170
@@ -823,31 +823,31 @@
     "Woodcutting": 0
    },
    "xp": {
-    "Agility": 1508,
+    "Agility": 1536,
     "Artisan": 189,
     "Attack": 1711,
     "Construction": 31,
-    "Cooking": 6343,
-    "Farming": 544,
+    "Cooking": 6487,
+    "Farming": 546,
     "Fishing": 0,
-    "Magic": 3316,
+    "Magic": 3365,
     "Mining": 854,
     "Ranged": 375,
-    "Runecrafting": 343,
+    "Runecrafting": 351,
     "Woodcutting": 79
    },
-   "data": "2026-11-14 02:58:37",
-   "seg": 19865,
+   "data": "2026-11-14 03:13:37",
+   "seg": 20765,
    "seg_skill": {
-    "Agility": 19175,
-    "Cooking": 11731,
+    "Agility": 20075,
+    "Cooking": 12631,
     "Artisan": 3602,
     "Attack": 8418,
     "Construction": 1800,
-    "Farming": 4816,
+    "Farming": 5716,
     "Woodcutting": 900,
-    "Runecrafting": 5959,
-    "Magic": 7288,
+    "Runecrafting": 6859,
+    "Magic": 8188,
     "Mining": 3792,
     "Ranged": 1201
    }
@@ -990,6 +990,6 @@
    }
   }
  },
- "ref": "2026-11-14T02:58:37Z",
- "atualizado": "2026-11-14T03:00:32Z"
+ "ref": "2026-11-14T03:13:37Z",
+ "atualizado": "2026-11-14T03:15:21Z"
 }
