@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T22:40:39Z",
+ "atualizado": "2026-11-14T22:55:40Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -1139,27 +1139,27 @@
   {
    "guid": "39AB78344D23583DCF4E9E9C2F60E45A",
    "nome": "Ragnarok",
-   "data": "2026-11-14 22:40:39",
-   "total_nivel": 254,
-   "total_xp": 58221,
+   "data": "2026-11-14 22:55:40",
+   "total_nivel": 260,
+   "total_xp": 61518,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 3612,
+     "xp": 3667,
      "nivel": 26
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 5331,
-     "nivel": 29
+     "xp": 5391,
+     "nivel": 30
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 19967,
-     "nivel": 42
+     "xp": 20863,
+     "nivel": 43
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
@@ -1170,7 +1170,7 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 313,
+     "xp": 319,
      "nivel": 7
     },
     {
@@ -1188,8 +1188,8 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 6211,
-     "nivel": 31
+     "xp": 8438,
+     "nivel": 34
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
@@ -1200,8 +1200,8 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 920,
-     "nivel": 14
+     "xp": 970,
+     "nivel": 15
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
@@ -1212,7 +1212,7 @@
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 2100,
+     "xp": 2103,
      "nivel": 21
     }
    ]
