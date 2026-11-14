@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T14:59:08Z",
+ "atualizado": "2026-11-14T15:14:09Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -815,14 +815,14 @@
   {
    "guid": "6DB74FA546071DA417AB488DB9AE216D",
    "nome": "G0lira",
-   "data": "2026-11-14 14:59:08",
-   "total_nivel": 336,
-   "total_xp": 135577,
+   "data": "2026-11-14 15:14:09",
+   "total_nivel": 337,
+   "total_xp": 135780,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 5380,
+     "xp": 5405,
      "nivel": 30
     },
     {
@@ -840,7 +840,7 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 3259,
+     "xp": 3321,
      "nivel": 25
     },
     {
@@ -882,14 +882,14 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 1325,
+     "xp": 1345,
      "nivel": 17
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 2743,
-     "nivel": 23
+     "xp": 2839,
+     "nivel": 24
     }
    ]
   },
