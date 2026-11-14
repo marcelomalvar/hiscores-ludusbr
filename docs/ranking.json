@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T03:29:52Z",
+ "atualizado": "2026-11-14T03:39:52Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -734,26 +734,26 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-14 03:29:52",
-   "total_nivel": 345,
-   "total_xp": 88788,
+   "data": "2026-11-14 03:39:52",
+   "total_nivel": 347,
+   "total_xp": 89558,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 6254,
+     "xp": 6289,
      "nivel": 31
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 8516,
+     "xp": 8526,
      "nivel": 34
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 19186,
+     "xp": 19281,
      "nivel": 42
     },
     {
@@ -771,8 +771,8 @@
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 5215,
-     "nivel": 29
+     "xp": 5565,
+     "nivel": 30
     },
     {
      "id": "vwY5IkQJJDwb2PKEfoc8MQ",
@@ -783,8 +783,8 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 3483,
-     "nivel": 25
+     "xp": 3750,
+     "nivel": 26
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
@@ -801,7 +801,7 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 2299,
+     "xp": 2312,
      "nivel": 22
     },
     {
@@ -1463,14 +1463,14 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-14 03:24:52",
-   "total_nivel": 145,
-   "total_xp": 15568,
+   "data": "2026-11-14 03:39:52",
+   "total_nivel": 147,
+   "total_xp": 16346,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 1561,
+     "xp": 1586,
      "nivel": 18
     },
     {
@@ -1512,8 +1512,8 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 3380,
-     "nivel": 25
+     "xp": 4133,
+     "nivel": 27
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
