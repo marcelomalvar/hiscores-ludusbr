@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T00:35:23Z",
+ "atualizado": "2026-11-14T00:40:23Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -815,14 +815,14 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-14 00:35:23",
+   "data": "2026-11-14 00:40:23",
    "total_nivel": 317,
-   "total_xp": 64640,
+   "total_xp": 65030,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 5021,
+     "xp": 5046,
      "nivel": 29
     },
     {
@@ -840,7 +840,7 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 9244,
+     "xp": 9421,
      "nivel": 35
     },
     {
@@ -888,7 +888,7 @@
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 5477,
+     "xp": 5665,
      "nivel": 30
     }
    ]
@@ -1139,14 +1139,14 @@
   {
    "guid": "A59C82504284585C9CED19B41849368C",
    "nome": "SALSICHA03",
-   "data": "2026-11-14 00:35:23",
-   "total_nivel": 228,
-   "total_xp": 33837,
+   "data": "2026-11-14 00:40:23",
+   "total_nivel": 229,
+   "total_xp": 34038,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 2835,
+     "xp": 2885,
      "nivel": 24
     },
     {
@@ -1158,8 +1158,8 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 6517,
-     "nivel": 31
+     "xp": 6615,
+     "nivel": 32
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
@@ -1170,7 +1170,7 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 2571,
+     "xp": 2624,
      "nivel": 23
     },
     {
@@ -1301,14 +1301,14 @@
   {
    "guid": "39AB78344D23583DCF4E9E9C2F60E45A",
    "nome": "Ragnarok",
-   "data": "2026-11-14 00:35:23",
+   "data": "2026-11-14 00:40:23",
    "total_nivel": 183,
-   "total_xp": 25657,
+   "total_xp": 25918,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 2057,
+     "xp": 2082,
      "nivel": 21
     },
     {
@@ -1320,7 +1320,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 7728,
+     "xp": 7924,
      "nivel": 33
     },
     {
@@ -1368,7 +1368,7 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 1195,
+     "xp": 1235,
      "nivel": 16
     },
     {
