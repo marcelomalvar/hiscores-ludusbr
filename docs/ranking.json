@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T13:59:07Z",
+ "atualizado": "2026-11-14T14:04:07Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -815,14 +815,14 @@
   {
    "guid": "6DB74FA546071DA417AB488DB9AE216D",
    "nome": "G0lira",
-   "data": "2026-11-14 13:59:07",
+   "data": "2026-11-14 14:04:07",
    "total_nivel": 327,
-   "total_xp": 133116,
+   "total_xp": 133141,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 5205,
+     "xp": 5230,
      "nivel": 29
     },
     {
