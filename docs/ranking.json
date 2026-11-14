@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T14:14:07Z",
+ "atualizado": "2026-11-14T14:29:08Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -815,14 +815,14 @@
   {
    "guid": "6DB74FA546071DA417AB488DB9AE216D",
    "nome": "G0lira",
-   "data": "2026-11-14 14:14:07",
-   "total_nivel": 329,
-   "total_xp": 133511,
+   "data": "2026-11-14 14:29:07",
+   "total_nivel": 333,
+   "total_xp": 134449,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 5255,
+     "xp": 5305,
      "nivel": 29
     },
     {
@@ -840,8 +840,8 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 1678,
-     "nivel": 19
+     "xp": 2566,
+     "nivel": 23
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
