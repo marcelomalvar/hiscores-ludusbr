@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-15T13:00:28Z",
+ "atualizado": "2026-11-15T13:10:35Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -977,9 +977,9 @@
   {
    "guid": "A59C82504284585C9CED19B41849368C",
    "nome": "SALSICHA03",
-   "data": "2026-11-15 03:56:57",
-   "total_nivel": 294,
-   "total_xp": 70534,
+   "data": "2026-11-15 13:10:35",
+   "total_nivel": 298,
+   "total_xp": 71156,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
@@ -1014,8 +1014,8 @@
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 876,
-     "nivel": 14
+     "xp": 1498,
+     "nivel": 18
     },
     {
      "id": "vwY5IkQJJDwb2PKEfoc8MQ",
