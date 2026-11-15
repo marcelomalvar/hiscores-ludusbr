@@ -1,18 +1,18 @@
 {
- "atualizado": "2026-11-15T17:45:00Z",
+ "atualizado": "2026-11-15T17:55:59Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
    "guid": "310C59C7425D648E42B6F783690445A3",
    "nome": "HimuraS4",
-   "data": "2026-11-15 17:45:00",
+   "data": "2026-11-15 17:55:59",
    "total_nivel": 901,
-   "total_xp": 4969127,
+   "total_xp": 4972188,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 135401,
+     "xp": 135501,
      "nivel": 68
     },
     {
@@ -42,7 +42,7 @@
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 30276,
+     "xp": 33237,
      "nivel": 47
     },
     {
@@ -896,14 +896,14 @@
   {
    "guid": "A59C82504284585C9CED19B41849368C",
    "nome": "SALSICHA03",
-   "data": "2026-11-15 17:24:53",
+   "data": "2026-11-15 17:55:58",
    "total_nivel": 337,
-   "total_xp": 113098,
+   "total_xp": 113134,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 19376,
+     "xp": 19401,
      "nivel": 42
     },
     {
@@ -915,7 +915,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 30333,
+     "xp": 30344,
      "nivel": 47
     },
     {
@@ -1220,21 +1220,21 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-15 17:45:00",
-   "total_nivel": 257,
-   "total_xp": 59572,
+   "data": "2026-11-15 17:55:59",
+   "total_nivel": 262,
+   "total_xp": 59896,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 15796,
+     "xp": 15849,
      "nivel": 40
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 912,
-     "nivel": 14
+     "xp": 983,
+     "nivel": 15
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
@@ -1263,8 +1263,8 @@
     {
      "id": "vwY5IkQJJDwb2PKEfoc8MQ",
      "nome": "Fishing",
-     "xp": 88,
-     "nivel": 3
+     "xp": 156,
+     "nivel": 5
     },
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
@@ -1293,8 +1293,8 @@
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 115,
-     "nivel": 4
+     "xp": 247,
+     "nivel": 6
     }
    ]
   },
