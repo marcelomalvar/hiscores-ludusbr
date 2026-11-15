@@ -1,18 +1,18 @@
 {
- "atualizado": "2026-11-15T16:32:37Z",
+ "atualizado": "2026-11-15T16:42:38Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
    "guid": "310C59C7425D648E42B6F783690445A3",
    "nome": "HimuraS4",
-   "data": "2026-11-15 16:32:37",
+   "data": "2026-11-15 16:42:38",
    "total_nivel": 899,
-   "total_xp": 4965528,
+   "total_xp": 4965638,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 134281,
+     "xp": 134391,
      "nivel": 67
     },
     {
@@ -896,14 +896,14 @@
   {
    "guid": "A59C82504284585C9CED19B41849368C",
    "nome": "SALSICHA03",
-   "data": "2026-11-15 16:32:36",
-   "total_nivel": 317,
-   "total_xp": 94979,
+   "data": "2026-11-15 16:42:38",
+   "total_nivel": 325,
+   "total_xp": 97090,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 6358,
+     "xp": 6418,
      "nivel": 31
     },
     {
@@ -915,7 +915,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 27939,
+     "xp": 28345,
      "nivel": 46
     },
     {
@@ -945,25 +945,25 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 13303,
-     "nivel": 38
+     "xp": 13585,
+     "nivel": 39
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 15088,
+     "xp": 15144,
      "nivel": 40
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 1083,
-     "nivel": 15
+     "xp": 2350,
+     "nivel": 22
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 2674,
+     "xp": 2714,
      "nivel": 23
     },
     {
@@ -1058,15 +1058,15 @@
   {
    "guid": "39AB78344D23583DCF4E9E9C2F60E45A",
    "nome": "Ragnarok",
-   "data": "2026-11-15 16:32:37",
-   "total_nivel": 304,
-   "total_xp": 104933,
+   "data": "2026-11-15 16:42:38",
+   "total_nivel": 306,
+   "total_xp": 105778,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 4807,
-     "nivel": 28
+     "xp": 4857,
+     "nivel": 29
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -1077,19 +1077,19 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 38427,
+     "xp": 38659,
      "nivel": 49
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 369,
+     "xp": 371,
      "nivel": 8
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 642,
+     "xp": 692,
      "nivel": 12
     },
     {
@@ -1107,13 +1107,13 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 16337,
-     "nivel": 40
+     "xp": 16635,
+     "nivel": 41
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 27581,
+     "xp": 27734,
      "nivel": 46
     },
     {
@@ -1125,7 +1125,7 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 2433,
+     "xp": 2493,
      "nivel": 22
     },
     {
@@ -1301,33 +1301,33 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-15 16:32:37",
-   "total_nivel": 222,
-   "total_xp": 42433,
+   "data": "2026-11-15 16:42:38",
+   "total_nivel": 233,
+   "total_xp": 44268,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 2468,
-     "nivel": 22
+     "xp": 2543,
+     "nivel": 23
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 752,
+     "xp": 802,
      "nivel": 13
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 4593,
-     "nivel": 28
+     "xp": 4975,
+     "nivel": 29
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 625,
-     "nivel": 11
+     "xp": 1860,
+     "nivel": 20
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
@@ -1350,7 +1350,7 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 19626,
+     "xp": 19719,
      "nivel": 42
     },
     {
