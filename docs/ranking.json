@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-15T02:19:16Z",
+ "atualizado": "2026-11-15T02:29:16Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -734,7 +734,7 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-15 02:19:16",
+   "data": "2026-11-15 02:29:16",
    "total_nivel": 375,
    "total_xp": 116839,
    "skills": [
@@ -1139,14 +1139,14 @@
   {
    "guid": "A59C82504284585C9CED19B41849368C",
    "nome": "SALSICHA03",
-   "data": "2026-11-15 02:19:15",
+   "data": "2026-11-15 02:29:16",
    "total_nivel": 286,
-   "total_xp": 64860,
+   "total_xp": 64885,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 4946,
+     "xp": 4971,
      "nivel": 29
     },
     {
@@ -1382,21 +1382,21 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-15 02:19:16",
-   "total_nivel": 186,
-   "total_xp": 25432,
+   "data": "2026-11-15 02:29:16",
+   "total_nivel": 187,
+   "total_xp": 25517,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 2084,
+     "xp": 2109,
      "nivel": 21
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 631,
-     "nivel": 11
+     "xp": 691,
+     "nivel": 12
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
