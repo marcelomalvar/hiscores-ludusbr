@@ -389,7 +389,7 @@
     "Woodcutting": 701
    },
    "xp": {
-    "Agility": 5455,
+    "Agility": 5505,
     "Artisan": 6387,
     "Attack": 16901,
     "Construction": 3337,
@@ -402,10 +402,10 @@
     "Runecrafting": 1345,
     "Woodcutting": 2839
    },
-   "data": "2026-11-15 00:25:42",
-   "seg": 19159,
+   "data": "2026-11-15 00:32:20",
+   "seg": 19557,
    "seg_skill": {
-    "Agility": 19159,
+    "Agility": 19557,
     "Artisan": 9587,
     "Attack": 5828,
     "Cooking": 4292,
@@ -777,11 +777,11 @@
     "Woodcutting": 0
    },
    "xp": {
-    "Agility": 6569,
+    "Agility": 6784,
     "Artisan": 9146,
-    "Attack": 22332,
+    "Attack": 24784,
     "Construction": 9544,
-    "Cooking": 12092,
+    "Cooking": 12098,
     "Farming": 5579,
     "Fishing": 0,
     "Magic": 3800,
@@ -790,12 +790,12 @@
     "Runecrafting": 2380,
     "Woodcutting": 6325
    },
-   "data": "2026-11-15 00:25:42",
-   "seg": 66174,
+   "data": "2026-11-15 00:42:21",
+   "seg": 67173,
    "seg_skill": {
-    "Agility": 63328,
-    "Attack": 44154,
-    "Cooking": 42483,
+    "Agility": 64327,
+    "Attack": 45153,
+    "Cooking": 43482,
     "Mining": 26303,
     "Runecrafting": 15493,
     "Woodcutting": 18560,
@@ -823,31 +823,31 @@
     "Woodcutting": 0
    },
    "xp": {
-    "Agility": 1770,
+    "Agility": 1825,
     "Artisan": 189,
     "Attack": 1711,
     "Construction": 35,
     "Cooking": 6487,
-    "Farming": 1091,
+    "Farming": 1465,
     "Fishing": 0,
-    "Magic": 5060,
+    "Magic": 6557,
     "Mining": 956,
     "Ranged": 375,
     "Runecrafting": 393,
     "Woodcutting": 79
    },
-   "data": "2026-11-15 00:25:42",
-   "seg": 25042,
+   "data": "2026-11-15 00:42:21",
+   "seg": 26041,
    "seg_skill": {
-    "Agility": 24352,
+    "Agility": 25351,
     "Cooking": 12631,
     "Artisan": 3602,
     "Attack": 8418,
     "Construction": 2475,
-    "Farming": 6616,
+    "Farming": 7615,
     "Woodcutting": 900,
     "Runecrafting": 7760,
-    "Magic": 11564,
+    "Magic": 12563,
     "Mining": 4693,
     "Ranged": 1201
    }
@@ -869,31 +869,31 @@
     "Woodcutting": 0
    },
    "xp": {
-    "Agility": 4319,
+    "Agility": 4397,
     "Artisan": 12534,
-    "Attack": 11465,
+    "Attack": 11561,
     "Construction": 794,
-    "Cooking": 3886,
-    "Farming": 499,
+    "Cooking": 3898,
+    "Farming": 502,
     "Fishing": 0,
-    "Magic": 5911,
-    "Mining": 10188,
+    "Magic": 7153,
+    "Mining": 10248,
     "Ranged": 1083,
-    "Runecrafting": 1912,
+    "Runecrafting": 1924,
     "Woodcutting": 981
    },
-   "data": "2026-11-15 00:25:42",
-   "seg": 48314,
+   "data": "2026-11-15 00:42:20",
+   "seg": 49312,
    "seg_skill": {
-    "Agility": 47114,
+    "Agility": 48112,
     "Artisan": 28789,
-    "Attack": 35524,
-    "Cooking": 41116,
-    "Mining": 27823,
-    "Runecrafting": 26548,
+    "Attack": 36522,
+    "Cooking": 42114,
+    "Mining": 28821,
+    "Runecrafting": 27546,
     "Woodcutting": 11928,
-    "Farming": 11215,
-    "Magic": 22158,
+    "Farming": 12213,
+    "Magic": 23156,
     "Ranged": 6817,
     "Construction": 13503
    }
@@ -960,9 +960,9 @@
     "Woodcutting": 0
    },
    "xp": {
-    "Agility": 4037,
-    "Artisan": 7084,
-    "Attack": 26148,
+    "Agility": 4227,
+    "Artisan": 7274,
+    "Attack": 28618,
     "Construction": 319,
     "Cooking": 361,
     "Farming": 1734,
@@ -970,18 +970,18 @@
     "Magic": 9196,
     "Mining": 22745,
     "Ranged": 1020,
-    "Runecrafting": 2355,
+    "Runecrafting": 2363,
     "Woodcutting": 2182
    },
-   "data": "2026-11-15 00:25:42",
-   "seg": 46002,
+   "data": "2026-11-15 00:42:21",
+   "seg": 47001,
    "seg_skill": {
-    "Agility": 45893,
-    "Attack": 40701,
+    "Agility": 46892,
+    "Attack": 41700,
     "Cooking": 14836,
     "Mining": 33509,
-    "Runecrafting": 31253,
-    "Artisan": 18305,
+    "Runecrafting": 32252,
+    "Artisan": 19304,
     "Construction": 15275,
     "Ranged": 6217,
     "Woodcutting": 11676,
@@ -990,6 +990,6 @@
    }
   }
  },
- "ref": "2026-11-15T00:25:42Z",
- "atualizado": "2026-11-15T00:30:36Z"
+ "ref": "2026-11-15T00:42:21Z",
+ "atualizado": "2026-11-15T00:45:25Z"
 }
