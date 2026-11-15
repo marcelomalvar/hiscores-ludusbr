@@ -1,18 +1,18 @@
 {
- "atualizado": "2026-11-15T18:10:59Z",
+ "atualizado": "2026-11-15T18:26:23Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
    "guid": "310C59C7425D648E42B6F783690445A3",
    "nome": "HimuraS4",
-   "data": "2026-11-15 18:10:59",
+   "data": "2026-11-15 18:26:23",
    "total_nivel": 902,
-   "total_xp": 4972868,
+   "total_xp": 4973068,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 135601,
+     "xp": 135801,
      "nivel": 68
     },
     {
@@ -1220,14 +1220,14 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-15 18:10:59",
+   "data": "2026-11-15 18:16:22",
    "total_nivel": 269,
-   "total_xp": 60529,
+   "total_xp": 60554,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 15849,
+     "xp": 15874,
      "nivel": 40
     },
     {
