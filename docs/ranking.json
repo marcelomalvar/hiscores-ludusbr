@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T23:14:25Z",
+ "atualizado": "2026-11-16T23:29:12Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,14 +491,14 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-16 23:14:25",
+   "data": "2026-11-16 23:29:12",
    "total_nivel": 460,
-   "total_xp": 264386,
+   "total_xp": 266322,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 11564,
+     "xp": 11614,
      "nivel": 37
     },
     {
@@ -510,7 +510,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 82361,
+     "xp": 84007,
      "nivel": 59
     },
     {
@@ -522,13 +522,13 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 15420,
+     "xp": 15450,
      "nivel": 40
     },
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 9226,
+     "xp": 9436,
      "nivel": 35
     },
     {
@@ -1058,21 +1058,21 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-16 23:14:25",
-   "total_nivel": 340,
-   "total_xp": 116186,
+   "data": "2026-11-16 23:29:12",
+   "total_nivel": 344,
+   "total_xp": 122641,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 17879,
+     "xp": 17932,
      "nivel": 41
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 2253,
-     "nivel": 21
+     "xp": 2553,
+     "nivel": 23
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
@@ -1089,8 +1089,8 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 26100,
-     "nivel": 45
+     "xp": 32202,
+     "nivel": 47
     },
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
