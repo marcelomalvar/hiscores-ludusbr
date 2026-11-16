@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T00:11:09Z",
+ "atualizado": "2026-11-16T00:26:34Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -653,45 +653,45 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-16 00:11:09",
-   "total_nivel": 397,
-   "total_xp": 149870,
+   "data": "2026-11-16 00:26:34",
+   "total_nivel": 399,
+   "total_xp": 153910,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 8438,
+     "xp": 8584,
      "nivel": 34
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 9581,
+     "xp": 9658,
      "nivel": 35
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 44557,
-     "nivel": 50
+     "xp": 47126,
+     "nivel": 51
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 9552,
+     "xp": 9557,
      "nivel": 35
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 12605,
+     "xp": 12608,
      "nivel": 38
     },
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 6829,
-     "nivel": 32
+     "xp": 8034,
+     "nivel": 33
     },
     {
      "id": "vwY5IkQJJDwb2PKEfoc8MQ",
@@ -702,7 +702,7 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 8175,
+     "xp": 8210,
      "nivel": 34
     },
     {
@@ -1058,14 +1058,14 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-16 00:11:09",
+   "data": "2026-11-16 00:26:34",
    "total_nivel": 326,
-   "total_xp": 96930,
+   "total_xp": 97773,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 16596,
+     "xp": 16646,
      "nivel": 41
     },
     {
@@ -1083,7 +1083,7 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 2032,
+     "xp": 2076,
      "nivel": 21
     },
     {
@@ -1107,7 +1107,7 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 28114,
+     "xp": 28863,
      "nivel": 46
     },
     {
