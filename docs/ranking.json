@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T01:26:55Z",
+ "atualizado": "2026-11-16T01:42:12Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -653,15 +653,15 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-16 01:26:55",
-   "total_nivel": 402,
-   "total_xp": 158892,
+   "data": "2026-11-16 01:42:11",
+   "total_nivel": 405,
+   "total_xp": 161585,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 8976,
-     "nivel": 34
+     "xp": 9106,
+     "nivel": 35
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -702,8 +702,8 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 10098,
-     "nivel": 36
+     "xp": 12497,
+     "nivel": 38
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
@@ -726,7 +726,7 @@
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 6333,
+     "xp": 6497,
      "nivel": 31
     }
    ]
@@ -1058,14 +1058,14 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-16 01:26:55",
-   "total_nivel": 329,
-   "total_xp": 101712,
+   "data": "2026-11-16 01:42:12",
+   "total_nivel": 330,
+   "total_xp": 103316,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 16949,
+     "xp": 17090,
      "nivel": 41
     },
     {
@@ -1077,7 +1077,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 10745,
+     "xp": 10922,
      "nivel": 36
     },
     {
@@ -1107,14 +1107,14 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 31067,
+     "xp": 31709,
      "nivel": 47
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 5295,
-     "nivel": 29
+     "xp": 5939,
+     "nivel": 30
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
