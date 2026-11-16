@@ -53,7 +53,7 @@
     "Woodcutting": 73432
    },
    "xp": {
-    "Agility": 99668,
+    "Agility": 99768,
     "Artisan": 119435,
     "Attack": 1659,
     "Construction": 14991,
@@ -62,13 +62,16 @@
     "Fishing": 56828,
     "Magic": 18112,
     "Mining": 219023,
-    "Ranged": 823685,
+    "Ranged": 823886,
     "Runecrafting": 97901,
     "Woodcutting": 73432
    },
-   "data": "2026-11-16 20:10:52",
-   "seg": 0,
-   "seg_skill": {}
+   "data": "2026-11-16 20:21:57",
+   "seg": 665,
+   "seg_skill": {
+    "Agility": 665,
+    "Ranged": 665
+   }
   },
   "9B81068F4B6ECE6ADDF88488429BFFB0": {
    "nome": "Muambeiro",
@@ -270,33 +273,33 @@
     "Woodcutting": 6501
    },
    "xp": {
-    "Agility": 10971,
+    "Agility": 10996,
     "Artisan": 12872,
-    "Attack": 72056,
+    "Attack": 72097,
     "Construction": 9752,
     "Cooking": 15420,
     "Farming": 8680,
     "Fishing": 496,
-    "Magic": 15841,
-    "Mining": 21655,
+    "Magic": 16618,
+    "Mining": 23578,
     "Ranged": 3098,
     "Runecrafting": 40987,
     "Woodcutting": 6501
    },
-   "data": "2026-11-16 18:11:23",
-   "seg": 15011,
+   "data": "2026-11-16 20:28:23",
+   "seg": 16062,
    "seg_skill": {
-    "Agility": 11561,
+    "Agility": 12612,
     "Construction": 6029,
     "Cooking": 5175,
     "Artisan": 10571,
-    "Attack": 8300,
+    "Attack": 9351,
     "Ranged": 1987,
     "Runecrafting": 3231,
     "Farming": 2713,
     "Fishing": 4505,
-    "Magic": 5410,
-    "Mining": 3605
+    "Magic": 6461,
+    "Mining": 4656
    }
   },
   "11D1D3D14E80DA194007B2B6E5003AFA": {
@@ -921,6 +924,6 @@
    "seg_skill": {}
   }
  },
- "ref": "2026-11-16T20:10:52Z",
- "atualizado": "2026-11-16T20:15:21Z"
+ "ref": "2026-11-16T20:28:23Z",
+ "atualizado": "2026-11-16T20:30:28Z"
 }
