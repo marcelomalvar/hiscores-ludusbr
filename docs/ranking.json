@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T23:29:12Z",
+ "atualizado": "2026-11-16T23:44:15Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,44 +491,44 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-16 23:29:12",
-   "total_nivel": 460,
-   "total_xp": 266322,
+   "data": "2026-11-16 23:44:15",
+   "total_nivel": 468,
+   "total_xp": 281337,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 11614,
+     "xp": 11664,
      "nivel": 37
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 13392,
-     "nivel": 38
+     "xp": 28076,
+     "nivel": 46
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 84007,
+     "xp": 84041,
      "nivel": 59
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 9772,
+     "xp": 9826,
      "nivel": 35
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 15450,
+     "xp": 15455,
      "nivel": 40
     },
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 9436,
+     "xp": 9624,
      "nivel": 35
     },
     {
@@ -1058,26 +1058,26 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-16 23:29:12",
-   "total_nivel": 344,
-   "total_xp": 122641,
+   "data": "2026-11-16 23:44:15",
+   "total_nivel": 345,
+   "total_xp": 123728,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 17932,
+     "xp": 17960,
      "nivel": 41
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 2553,
-     "nivel": 23
+     "xp": 2923,
+     "nivel": 24
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 11419,
+     "xp": 12040,
      "nivel": 37
     },
     {
@@ -1107,7 +1107,7 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 34621,
+     "xp": 34689,
      "nivel": 48
     },
     {

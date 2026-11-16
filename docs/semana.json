@@ -274,12 +274,12 @@
     "Woodcutting": 6501
    },
    "xp": {
-    "Agility": 11614,
-    "Artisan": 13392,
-    "Attack": 84007,
-    "Construction": 9772,
-    "Cooking": 15450,
-    "Farming": 9436,
+    "Agility": 11664,
+    "Artisan": 28076,
+    "Attack": 84041,
+    "Construction": 9826,
+    "Cooking": 15455,
+    "Farming": 9624,
     "Fishing": 732,
     "Magic": 23494,
     "Mining": 32397,
@@ -287,17 +287,17 @@
     "Runecrafting": 54474,
     "Woodcutting": 6800
    },
-   "data": "2026-11-16 23:29:12",
-   "seg": 26189,
+   "data": "2026-11-16 23:44:15",
+   "seg": 27092,
    "seg_skill": {
-    "Agility": 22439,
-    "Construction": 6929,
-    "Cooking": 6062,
-    "Artisan": 13227,
-    "Attack": 15639,
+    "Agility": 23342,
+    "Construction": 7832,
+    "Cooking": 6965,
+    "Artisan": 14130,
+    "Attack": 16542,
     "Ranged": 4202,
     "Runecrafting": 5887,
-    "Farming": 6281,
+    "Farming": 7184,
     "Fishing": 7206,
     "Magic": 13200,
     "Mining": 10295,
@@ -491,30 +491,30 @@
     "Woodcutting": 247
    },
    "xp": {
-    "Agility": 17932,
-    "Artisan": 2553,
-    "Attack": 11419,
+    "Agility": 17960,
+    "Artisan": 2923,
+    "Attack": 12040,
     "Construction": 2241,
     "Cooking": 32202,
     "Farming": 3862,
     "Fishing": 485,
-    "Magic": 34621,
+    "Magic": 34689,
     "Mining": 6515,
     "Ranged": 1552,
     "Runecrafting": 8998,
     "Woodcutting": 261
    },
-   "data": "2026-11-16 23:29:12",
-   "seg": 9087,
+   "data": "2026-11-16 23:44:15",
+   "seg": 9990,
    "seg_skill": {
-    "Agility": 7277,
-    "Artisan": 3427,
+    "Agility": 8180,
+    "Artisan": 4330,
     "Cooking": 4370,
-    "Magic": 2429,
+    "Magic": 3332,
     "Mining": 1880,
     "Construction": 2762,
     "Woodcutting": 632,
-    "Attack": 2879
+    "Attack": 3782
    }
   },
   "EED4EE05496C86CD464218A3DC4CFC72": {
@@ -964,6 +964,6 @@
    }
   }
  },
- "ref": "2026-11-16T23:29:12Z",
- "atualizado": "2026-11-16T23:30:27Z"
+ "ref": "2026-11-16T23:44:15Z",
+ "atualizado": "2026-11-16T23:45:22Z"
 }
