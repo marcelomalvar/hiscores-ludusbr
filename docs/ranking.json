@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T03:30:23Z",
+ "atualizado": "2026-11-16T03:40:55Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -572,21 +572,21 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-16 03:30:23",
-   "total_nivel": 410,
-   "total_xp": 169891,
+   "data": "2026-11-16 03:40:55",
+   "total_nivel": 411,
+   "total_xp": 170271,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 10046,
+     "xp": 10096,
      "nivel": 36
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 9858,
-     "nivel": 35
+     "xp": 10168,
+     "nivel": 36
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
@@ -597,7 +597,7 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 9650,
+     "xp": 9670,
      "nivel": 35
     },
     {
@@ -1058,14 +1058,14 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-16 03:30:23",
-   "total_nivel": 336,
-   "total_xp": 108288,
+   "data": "2026-11-16 03:40:55",
+   "total_nivel": 337,
+   "total_xp": 108540,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 17606,
+     "xp": 17664,
      "nivel": 41
     },
     {
@@ -1083,7 +1083,7 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 2120,
+     "xp": 2208,
      "nivel": 21
     },
     {
@@ -1107,7 +1107,7 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 34529,
+     "xp": 34621,
      "nivel": 48
     },
     {
@@ -1131,8 +1131,8 @@
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 247,
-     "nivel": 6
+     "xp": 261,
+     "nivel": 7
     }
    ]
   },
