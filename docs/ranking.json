@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T17:51:14Z",
+ "atualizado": "2026-11-16T17:56:15Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,14 +491,14 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-16 17:51:14",
+   "data": "2026-11-16 17:56:15",
    "total_nivel": 438,
-   "total_xp": 217642,
+   "total_xp": 217667,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 10871,
+     "xp": 10896,
      "nivel": 36
     },
     {
