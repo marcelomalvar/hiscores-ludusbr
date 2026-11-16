@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T17:15:13Z",
+ "atualizado": "2026-11-16T17:26:12Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,14 +491,14 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-16 17:15:13",
-   "total_nivel": 432,
-   "total_xp": 202944,
+   "data": "2026-11-16 17:26:12",
+   "total_nivel": 435,
+   "total_xp": 211639,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 10771,
+     "xp": 10796,
      "nivel": 36
     },
     {
@@ -558,8 +558,8 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 27121,
-     "nivel": 45
+     "xp": 35791,
+     "nivel": 48
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
