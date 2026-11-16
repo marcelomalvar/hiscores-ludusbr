@@ -257,11 +257,11 @@
     "Woodcutting": 6501
    },
    "xp": {
-    "Agility": 9946,
+    "Agility": 9971,
     "Artisan": 9858,
     "Attack": 54587,
-    "Construction": 9557,
-    "Cooking": 12624,
+    "Construction": 9619,
+    "Cooking": 13359,
     "Farming": 8066,
     "Fishing": 0,
     "Magic": 13274,
@@ -270,9 +270,13 @@
     "Runecrafting": 22644,
     "Woodcutting": 6501
    },
-   "data": "2026-11-16 03:00:26",
-   "seg": 0,
-   "seg_skill": {}
+   "data": "2026-11-16 03:11:33",
+   "seg": 667,
+   "seg_skill": {
+    "Agility": 667,
+    "Construction": 667,
+    "Cooking": 667
+   }
   },
   "11D1D3D14E80DA194007B2B6E5003AFA": {
    "nome": "HimuraS",
@@ -461,22 +465,27 @@
     "Woodcutting": 247
    },
    "xp": {
-    "Agility": 17525,
-    "Artisan": 1913,
+    "Agility": 17579,
+    "Artisan": 2143,
     "Attack": 11297,
     "Construction": 2120,
-    "Cooking": 18854,
+    "Cooking": 19134,
     "Farming": 3862,
     "Fishing": 485,
-    "Magic": 33036,
+    "Magic": 33455,
     "Mining": 5939,
     "Ranged": 1552,
     "Runecrafting": 8998,
     "Woodcutting": 247
    },
-   "data": "2026-11-16 03:00:26",
-   "seg": 0,
-   "seg_skill": {}
+   "data": "2026-11-16 03:11:33",
+   "seg": 667,
+   "seg_skill": {
+    "Agility": 667,
+    "Artisan": 667,
+    "Cooking": 667,
+    "Magic": 667
+   }
   },
   "EED4EE05496C86CD464218A3DC4CFC72": {
    "nome": "SHEP",
@@ -887,6 +896,6 @@
    "seg_skill": {}
   }
  },
- "ref": "2026-11-16T03:00:26Z",
- "atualizado": "2026-11-16T03:00:33Z"
+ "ref": "2026-11-16T03:11:33Z",
+ "atualizado": "2026-11-16T03:15:26Z"
 }
