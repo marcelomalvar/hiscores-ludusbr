@@ -273,33 +273,34 @@
     "Woodcutting": 6501
    },
    "xp": {
-    "Agility": 10996,
+    "Agility": 11046,
     "Artisan": 12872,
-    "Attack": 72097,
+    "Attack": 73676,
     "Construction": 9752,
     "Cooking": 15420,
-    "Farming": 8680,
-    "Fishing": 496,
-    "Magic": 16618,
-    "Mining": 23578,
+    "Farming": 8880,
+    "Fishing": 696,
+    "Magic": 18257,
+    "Mining": 26758,
     "Ranged": 3098,
     "Runecrafting": 40987,
-    "Woodcutting": 6501
+    "Woodcutting": 6508
    },
-   "data": "2026-11-16 20:28:23",
-   "seg": 16062,
+   "data": "2026-11-16 20:43:23",
+   "seg": 16962,
    "seg_skill": {
-    "Agility": 12612,
+    "Agility": 13512,
     "Construction": 6029,
     "Cooking": 5175,
     "Artisan": 10571,
-    "Attack": 9351,
+    "Attack": 10251,
     "Ranged": 1987,
     "Runecrafting": 3231,
-    "Farming": 2713,
-    "Fishing": 4505,
-    "Magic": 6461,
-    "Mining": 4656
+    "Farming": 3613,
+    "Fishing": 5405,
+    "Magic": 7361,
+    "Mining": 5556,
+    "Woodcutting": 900
    }
   },
   "11D1D3D14E80DA194007B2B6E5003AFA": {
@@ -922,8 +923,42 @@
    "data": "2026-10-17 17:32:45",
    "seg": 0,
    "seg_skill": {}
+  },
+  "531543634D6426772ACBFC801AD61AAF": {
+   "nome": "Pescador_Parrudo",
+   "base": {
+    "Agility": 0,
+    "Artisan": 0,
+    "Attack": 0,
+    "Construction": 0,
+    "Cooking": 0,
+    "Farming": 0,
+    "Fishing": 0,
+    "Magic": 0,
+    "Mining": 0,
+    "Ranged": 0,
+    "Runecrafting": 0,
+    "Woodcutting": 0
+   },
+   "xp": {
+    "Agility": 0,
+    "Artisan": 0,
+    "Attack": 0,
+    "Construction": 0,
+    "Cooking": 0,
+    "Farming": 0,
+    "Fishing": 0,
+    "Magic": 0,
+    "Mining": 0,
+    "Ranged": 0,
+    "Runecrafting": 0,
+    "Woodcutting": 0
+   },
+   "data": "2026-11-16 20:43:23",
+   "seg": 0,
+   "seg_skill": {}
   }
  },
- "ref": "2026-11-16T20:28:23Z",
- "atualizado": "2026-11-16T20:30:28Z"
+ "ref": "2026-11-16T20:43:23Z",
+ "atualizado": "2026-11-16T20:45:24Z"
 }
