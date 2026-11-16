@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T04:11:27Z",
+ "atualizado": "2026-11-16T04:30:10Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -572,14 +572,14 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-16 04:11:27",
-   "total_nivel": 412,
-   "total_xp": 177010,
+   "data": "2026-11-16 04:20:18",
+   "total_nivel": 413,
+   "total_xp": 179257,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 10191,
+     "xp": 10216,
      "nivel": 36
     },
     {
@@ -639,8 +639,8 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 22644,
-     "nivel": 44
+     "xp": 24866,
+     "nivel": 45
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
@@ -1058,26 +1058,26 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-16 04:11:27",
+   "data": "2026-11-16 04:30:10",
    "total_nivel": 337,
-   "total_xp": 108869,
+   "total_xp": 109065,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 17720,
+     "xp": 17801,
      "nivel": 41
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 2203,
+     "xp": 2253,
      "nivel": 21
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 11297,
+     "xp": 11362,
      "nivel": 37
     },
     {
