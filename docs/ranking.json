@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T20:43:23Z",
+ "atualizado": "2026-11-16T21:00:25Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,9 +491,9 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-16 20:43:23",
-   "total_nivel": 445,
-   "total_xp": 227950,
+   "data": "2026-11-16 20:48:23",
+   "total_nivel": 446,
+   "total_xp": 229100,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
@@ -510,7 +510,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 73676,
+     "xp": 74608,
      "nivel": 57
     },
     {
@@ -540,7 +540,7 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 18257,
+     "xp": 18414,
      "nivel": 42
     },
     {
@@ -552,8 +552,8 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 3098,
-     "nivel": 24
+     "xp": 3159,
+     "nivel": 25
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
@@ -2028,34 +2028,34 @@
    ]
   },
   {
-   "guid": "E8F963FCC23C41AEB8B79CBB1A88E14D",
-   "nome": "zRedfield",
-   "data": "2026-10-17 17:32:45",
-   "total_nivel": 23,
-   "total_xp": 553,
+   "guid": "531543634D6426772ACBFC801AD61AAF",
+   "nome": "Pescador_Parrudo",
+   "data": "2026-11-16 20:48:23",
+   "total_nivel": 25,
+   "total_xp": 716,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 300,
-     "nivel": 7
-    },
-    {
-     "id": "Wf3i7Ha-B06DH719j1vtBw",
-     "nome": "Artisan",
      "xp": 0,
      "nivel": 1
     },
     {
+     "id": "Wf3i7Ha-B06DH719j1vtBw",
+     "nome": "Artisan",
+     "xp": 570,
+     "nivel": 11
+    },
+    {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 253,
-     "nivel": 6
+     "xp": 0,
+     "nivel": 1
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 0,
+     "xp": 6,
      "nivel": 1
     },
     {
@@ -2073,8 +2073,8 @@
     {
      "id": "vwY5IkQJJDwb2PKEfoc8MQ",
      "nome": "Fishing",
-     "xp": 0,
-     "nivel": 1
+     "xp": 140,
+     "nivel": 4
     },
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
@@ -2109,17 +2109,17 @@
    ]
   },
   {
-   "guid": "531543634D6426772ACBFC801AD61AAF",
-   "nome": "Pescador_Parrudo",
-   "data": "2026-11-16 20:43:23",
-   "total_nivel": 12,
-   "total_xp": 0,
+   "guid": "E8F963FCC23C41AEB8B79CBB1A88E14D",
+   "nome": "zRedfield",
+   "data": "2026-10-17 17:32:45",
+   "total_nivel": 23,
+   "total_xp": 553,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 0,
-     "nivel": 1
+     "xp": 300,
+     "nivel": 7
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
@@ -2130,8 +2130,8 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 0,
-     "nivel": 1
+     "xp": 253,
+     "nivel": 6
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
