@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T21:30:15Z",
+ "atualizado": "2026-11-16T21:42:28Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,14 +491,14 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-16 21:30:15",
-   "total_nivel": 449,
-   "total_xp": 233348,
+   "data": "2026-11-16 21:42:28",
+   "total_nivel": 452,
+   "total_xp": 236256,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 11146,
+     "xp": 11256,
      "nivel": 37
     },
     {
@@ -510,7 +510,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 74930,
+     "xp": 76295,
      "nivel": 57
     },
     {
@@ -528,8 +528,8 @@
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 8880,
-     "nivel": 34
+     "xp": 9210,
+     "nivel": 35
     },
     {
      "id": "vwY5IkQJJDwb2PKEfoc8MQ",
@@ -552,8 +552,8 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 3651,
-     "nivel": 26
+     "xp": 4754,
+     "nivel": 28
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
