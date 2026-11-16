@@ -173,7 +173,7 @@
    "seg_skill": {}
   },
   "24DF97794DE25B81D61ECFA2F71D85B1": {
-   "nome": ".DEFF.",
+   "nome": "Deff Botanicus",
    "base": {
     "Agility": 21400,
     "Artisan": 28417,
@@ -189,22 +189,35 @@
     "Woodcutting": 20549
    },
    "xp": {
-    "Agility": 21400,
-    "Artisan": 28417,
-    "Attack": 19093,
-    "Construction": 45720,
-    "Cooking": 14878,
-    "Farming": 11508,
-    "Fishing": 100,
-    "Magic": 1159,
-    "Mining": 53732,
-    "Ranged": 53377,
-    "Runecrafting": 13319,
-    "Woodcutting": 20549
+    "Agility": 37825,
+    "Artisan": 49317,
+    "Attack": 25428,
+    "Construction": 58647,
+    "Cooking": 15707,
+    "Farming": 24241,
+    "Fishing": 631,
+    "Magic": 3059,
+    "Mining": 75572,
+    "Ranged": 139514,
+    "Runecrafting": 13859,
+    "Woodcutting": 22905
    },
-   "data": "2026-10-16 05:40:09",
-   "seg": 0,
-   "seg_skill": {}
+   "data": "2026-11-16 03:58:57",
+   "seg": 1082,
+   "seg_skill": {
+    "Agility": 1082,
+    "Artisan": 1082,
+    "Attack": 1082,
+    "Construction": 1082,
+    "Cooking": 1082,
+    "Farming": 1082,
+    "Fishing": 1082,
+    "Magic": 1082,
+    "Mining": 1082,
+    "Ranged": 1082,
+    "Runecrafting": 1082,
+    "Woodcutting": 1082
+   }
   },
   "BB0E09D999F44969B3938FAB96CAB239": {
    "nome": "Chef Tetinha",
@@ -257,26 +270,28 @@
     "Woodcutting": 6501
    },
    "xp": {
-    "Agility": 10096,
-    "Artisan": 10168,
-    "Attack": 54587,
+    "Agility": 10191,
+    "Artisan": 10368,
+    "Attack": 60703,
     "Construction": 9670,
     "Cooking": 13359,
     "Farming": 8066,
     "Fishing": 0,
     "Magic": 13274,
     "Mining": 18915,
-    "Ranged": 2991,
+    "Ranged": 3019,
     "Runecrafting": 22644,
     "Woodcutting": 6501
    },
-   "data": "2026-11-16 03:40:55",
-   "seg": 2429,
+   "data": "2026-11-16 03:58:57",
+   "seg": 3511,
    "seg_skill": {
-    "Agility": 2429,
+    "Agility": 3511,
     "Construction": 2429,
     "Cooking": 667,
-    "Artisan": 632
+    "Artisan": 1714,
+    "Attack": 1082,
+    "Ranged": 1082
    }
   },
   "11D1D3D14E80DA194007B2B6E5003AFA": {
@@ -466,10 +481,10 @@
     "Woodcutting": 247
    },
    "xp": {
-    "Agility": 17664,
+    "Agility": 17720,
     "Artisan": 2143,
     "Attack": 11297,
-    "Construction": 2208,
+    "Construction": 2221,
     "Cooking": 19134,
     "Farming": 3862,
     "Fishing": 485,
@@ -479,15 +494,15 @@
     "Runecrafting": 8998,
     "Woodcutting": 261
    },
-   "data": "2026-11-16 03:40:55",
-   "seg": 2429,
+   "data": "2026-11-16 03:58:57",
+   "seg": 3511,
    "seg_skill": {
-    "Agility": 2429,
+    "Agility": 3511,
     "Artisan": 667,
     "Cooking": 667,
     "Magic": 2429,
     "Mining": 1130,
-    "Construction": 632,
+    "Construction": 1714,
     "Woodcutting": 632
    }
   },
@@ -900,6 +915,6 @@
    "seg_skill": {}
   }
  },
- "ref": "2026-11-16T03:40:55Z",
- "atualizado": "2026-11-16T03:45:22Z"
+ "ref": "2026-11-16T03:58:57Z",
+ "atualizado": "2026-11-16T04:00:33Z"
 }
