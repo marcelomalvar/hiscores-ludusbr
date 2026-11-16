@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-15T23:56:55Z",
+ "atualizado": "2026-11-16T00:11:09Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -653,14 +653,14 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-15 23:56:55",
-   "total_nivel": 392,
-   "total_xp": 146368,
+   "data": "2026-11-16 00:11:09",
+   "total_nivel": 397,
+   "total_xp": 149870,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 8354,
+     "xp": 8438,
      "nivel": 34
     },
     {
@@ -702,14 +702,14 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 5848,
-     "nivel": 30
+     "xp": 8175,
+     "nivel": 34
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 17824,
-     "nivel": 41
+     "xp": 18915,
+     "nivel": 42
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
@@ -977,14 +977,14 @@
   {
    "guid": "6DB74FA546071DA417AB488DB9AE216D",
    "nome": "G0lira",
-   "data": "2026-11-15 23:56:55",
+   "data": "2026-11-16 00:06:03",
    "total_nivel": 351,
-   "total_xp": 151265,
+   "total_xp": 151920,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 6425,
+     "xp": 6475,
      "nivel": 31
     },
     {
@@ -996,7 +996,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 25011,
+     "xp": 25616,
      "nivel": 45
     },
     {
@@ -1058,14 +1058,14 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-15 23:56:55",
-   "total_nivel": 325,
-   "total_xp": 95250,
+   "data": "2026-11-16 00:11:09",
+   "total_nivel": 326,
+   "total_xp": 96930,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 16543,
+     "xp": 16596,
      "nivel": 41
     },
     {
@@ -1107,13 +1107,13 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 27573,
+     "xp": 28114,
      "nivel": 46
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 4980,
+     "xp": 5295,
      "nivel": 29
     },
     {
@@ -1125,8 +1125,8 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 8227,
-     "nivel": 34
+     "xp": 8998,
+     "nivel": 35
     },
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
