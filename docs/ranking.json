@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T21:57:28Z",
+ "atualizado": "2026-11-16T22:12:28Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,14 +491,14 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-16 21:57:28",
-   "total_nivel": 454,
-   "total_xp": 239692,
+   "data": "2026-11-16 22:12:28",
+   "total_nivel": 455,
+   "total_xp": 244103,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 11306,
+     "xp": 11361,
      "nivel": 37
     },
     {
@@ -510,7 +510,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 76913,
+     "xp": 77820,
      "nivel": 58
     },
     {
@@ -534,20 +534,20 @@
     {
      "id": "vwY5IkQJJDwb2PKEfoc8MQ",
      "nome": "Fishing",
-     "xp": 696,
+     "xp": 714,
      "nivel": 12
     },
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 22353,
+     "xp": 23202,
      "nivel": 44
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 26963,
-     "nivel": 45
+     "xp": 29545,
+     "nivel": 46
     },
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
