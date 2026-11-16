@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T21:00:25Z",
+ "atualizado": "2026-11-16T21:10:33Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,14 +491,14 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-16 20:48:23",
+   "data": "2026-11-16 21:10:33",
    "total_nivel": 446,
-   "total_xp": 229100,
+   "total_xp": 230426,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 11046,
+     "xp": 11096,
      "nivel": 37
     },
     {
@@ -510,7 +510,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 74608,
+     "xp": 74930,
      "nivel": 57
     },
     {
@@ -540,7 +540,7 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 18414,
+     "xp": 19273,
      "nivel": 42
     },
     {
@@ -564,7 +564,7 @@
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 6508,
+     "xp": 6603,
      "nivel": 31
     }
    ]
