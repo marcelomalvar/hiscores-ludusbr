@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T21:00:29Z",
+ "atualizado": "2026-11-17T23:12:46Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,14 +491,14 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-17 04:47:17",
-   "total_nivel": 506,
-   "total_xp": 389287,
+   "data": "2026-11-17 23:12:46",
+   "total_nivel": 507,
+   "total_xp": 390333,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 12643,
+     "xp": 12670,
      "nivel": 38
     },
     {
@@ -510,7 +510,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 103915,
+     "xp": 104621,
      "nivel": 63
     },
     {
@@ -534,8 +534,8 @@
     {
      "id": "vwY5IkQJJDwb2PKEfoc8MQ",
      "nome": "Fishing",
-     "xp": 1626,
-     "nivel": 19
+     "xp": 1912,
+     "nivel": 20
     },
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
@@ -546,7 +546,7 @@
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 36119,
+     "xp": 36146,
      "nivel": 48
     },
     {
