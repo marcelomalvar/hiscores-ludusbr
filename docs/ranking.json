@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T01:41:54Z",
+ "atualizado": "2026-11-17T01:52:04Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,9 +491,9 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-17 01:41:54",
+   "data": "2026-11-17 01:52:04",
    "total_nivel": 487,
-   "total_xp": 345040,
+   "total_xp": 345076,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
@@ -504,7 +504,7 @@
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 71985,
+     "xp": 72001,
      "nivel": 57
     },
     {
@@ -516,7 +516,7 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 9826,
+     "xp": 9846,
      "nivel": 35
     },
     {
