@@ -274,33 +274,33 @@
     "Woodcutting": 6501
    },
    "xp": {
-    "Agility": 11851,
-    "Artisan": 70565,
-    "Attack": 84041,
+    "Agility": 11886,
+    "Artisan": 70625,
+    "Attack": 84395,
     "Construction": 9826,
     "Cooking": 15455,
-    "Farming": 11161,
+    "Farming": 11178,
     "Fishing": 732,
-    "Magic": 24336,
-    "Mining": 32657,
+    "Magic": 24872,
+    "Mining": 32765,
     "Ranged": 4754,
     "Runecrafting": 58691,
     "Woodcutting": 6800
    },
-   "data": "2026-11-17 00:29:41",
-   "seg": 29818,
+   "data": "2026-11-17 00:44:56",
+   "seg": 30733,
    "seg_skill": {
-    "Agility": 26068,
+    "Agility": 26983,
     "Construction": 7832,
     "Cooking": 6965,
-    "Artisan": 16856,
-    "Attack": 16542,
+    "Artisan": 17771,
+    "Attack": 17457,
     "Ranged": 4202,
     "Runecrafting": 6774,
-    "Farming": 8978,
+    "Farming": 9893,
     "Fishing": 7206,
-    "Magic": 14107,
-    "Mining": 11202,
+    "Magic": 15022,
+    "Mining": 12117,
     "Woodcutting": 2690
    }
   },
@@ -491,30 +491,31 @@
     "Woodcutting": 247
    },
    "xp": {
-    "Agility": 18041,
+    "Agility": 18124,
     "Artisan": 2923,
     "Attack": 12110,
-    "Construction": 2241,
+    "Construction": 2441,
     "Cooking": 32202,
-    "Farming": 3862,
+    "Farming": 4062,
     "Fishing": 485,
-    "Magic": 37373,
+    "Magic": 37412,
     "Mining": 6526,
     "Ranged": 1552,
     "Runecrafting": 8998,
     "Woodcutting": 265
    },
-   "data": "2026-11-17 00:29:41",
-   "seg": 12716,
+   "data": "2026-11-17 00:44:56",
+   "seg": 13631,
    "seg_skill": {
-    "Agility": 9974,
+    "Agility": 10889,
     "Artisan": 4330,
     "Cooking": 4370,
-    "Magic": 6058,
+    "Magic": 6973,
     "Mining": 2787,
-    "Construction": 2762,
+    "Construction": 3677,
     "Woodcutting": 2426,
-    "Attack": 4689
+    "Attack": 4689,
+    "Farming": 915
    }
   },
   "EED4EE05496C86CD464218A3DC4CFC72": {
@@ -964,6 +965,6 @@
    }
   }
  },
- "ref": "2026-11-17T00:29:41Z",
- "atualizado": "2026-11-17T00:30:27Z"
+ "ref": "2026-11-17T00:44:56Z",
+ "atualizado": "2026-11-17T00:45:23Z"
 }
