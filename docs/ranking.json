@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T13:44:16Z",
+ "atualizado": "2026-11-17T13:51:04Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -1949,9 +1949,9 @@
   {
    "guid": "531543634D6426772ACBFC801AD61AAF",
    "nome": "Pescador_Parrudo",
-   "data": "2026-11-17 13:44:16",
+   "data": "2026-11-17 13:51:04",
    "total_nivel": 98,
-   "total_xp": 20976,
+   "total_xp": 21231,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
@@ -1992,7 +1992,7 @@
     {
      "id": "vwY5IkQJJDwb2PKEfoc8MQ",
      "nome": "Fishing",
-     "xp": 5035,
+     "xp": 5290,
      "nivel": 29
     },
     {
