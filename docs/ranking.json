@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T23:44:15Z",
+ "atualizado": "2026-11-16T23:59:22Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,21 +491,21 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-16 23:44:15",
-   "total_nivel": 468,
-   "total_xp": 281337,
+   "data": "2026-11-16 23:59:22",
+   "total_nivel": 472,
+   "total_xp": 295863,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 11664,
+     "xp": 11748,
      "nivel": 37
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 28076,
-     "nivel": 46
+     "xp": 41396,
+     "nivel": 50
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
@@ -528,7 +528,7 @@
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 9624,
+     "xp": 9644,
      "nivel": 35
     },
     {
@@ -540,13 +540,13 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 23494,
+     "xp": 24336,
      "nivel": 44
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 32397,
+     "xp": 32657,
      "nivel": 47
     },
     {
@@ -1058,14 +1058,14 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-16 23:44:15",
+   "data": "2026-11-16 23:59:22",
    "total_nivel": 345,
-   "total_xp": 123728,
+   "total_xp": 125458,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 17960,
+     "xp": 17988,
      "nivel": 41
     },
     {
@@ -1077,7 +1077,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 12040,
+     "xp": 12110,
      "nivel": 37
     },
     {
@@ -1107,13 +1107,13 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 34689,
+     "xp": 36308,
      "nivel": 48
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 6515,
+     "xp": 6526,
      "nivel": 31
     },
     {
@@ -1131,7 +1131,7 @@
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 261,
+     "xp": 263,
      "nivel": 7
     }
    ]
