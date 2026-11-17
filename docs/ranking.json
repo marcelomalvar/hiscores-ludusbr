@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T03:00:15Z",
+ "atualizado": "2026-11-17T03:10:28Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,14 +491,14 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-17 03:00:15",
-   "total_nivel": 495,
-   "total_xp": 378099,
+   "data": "2026-11-17 03:10:28",
+   "total_nivel": 498,
+   "total_xp": 378478,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 12318,
+     "xp": 12343,
      "nivel": 38
     },
     {
@@ -510,7 +510,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 100233,
+     "xp": 100239,
      "nivel": 62
     },
     {
@@ -534,8 +534,8 @@
     {
      "id": "vwY5IkQJJDwb2PKEfoc8MQ",
      "nome": "Fishing",
-     "xp": 732,
-     "nivel": 12
+     "xp": 894,
+     "nivel": 14
     },
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
@@ -552,8 +552,8 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 4754,
-     "nivel": 28
+     "xp": 4940,
+     "nivel": 29
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
