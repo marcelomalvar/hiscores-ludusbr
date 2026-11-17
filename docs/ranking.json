@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T01:57:11Z",
+ "atualizado": "2026-11-17T02:14:18Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,14 +491,14 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-17 01:57:11",
+   "data": "2026-11-17 02:14:18",
    "total_nivel": 487,
-   "total_xp": 345209,
+   "total_xp": 346300,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 12096,
+     "xp": 12123,
      "nivel": 37
     },
     {
@@ -516,7 +516,7 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 9846,
+     "xp": 9850,
      "nivel": 35
     },
     {
@@ -528,7 +528,7 @@
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 12284,
+     "xp": 12293,
      "nivel": 38
     },
     {
@@ -540,7 +540,7 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 27435,
+     "xp": 27485,
      "nivel": 46
     },
     {
@@ -558,7 +558,7 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 58816,
+     "xp": 59817,
      "nivel": 54
     },
     {
