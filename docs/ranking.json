@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T10:40:43Z",
+ "atualizado": "2026-11-17T10:52:24Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -1949,9 +1949,9 @@
   {
    "guid": "531543634D6426772ACBFC801AD61AAF",
    "nome": "Pescador_Parrudo",
-   "data": "2026-11-17 10:40:43",
-   "total_nivel": 95,
-   "total_xp": 17459,
+   "data": "2026-11-17 10:52:24",
+   "total_nivel": 97,
+   "total_xp": 20418,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
@@ -1962,8 +1962,8 @@
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 11937,
-     "nivel": 37
+     "xp": 14896,
+     "nivel": 39
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
