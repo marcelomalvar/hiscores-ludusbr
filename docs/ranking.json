@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T13:27:03Z",
+ "atualizado": "2026-11-17T13:44:16Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -86,9 +86,9 @@
   {
    "guid": "97AA4FCF49572AAE63CFC3A861823B8E",
    "nome": "Malvar",
-   "data": "2026-11-17 00:16:13",
+   "data": "2026-11-17 13:34:16",
    "total_nivel": 706,
-   "total_xp": 1802904,
+   "total_xp": 1802912,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
@@ -99,7 +99,7 @@
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 119543,
+     "xp": 119551,
      "nivel": 65
     },
     {
@@ -1949,14 +1949,14 @@
   {
    "guid": "531543634D6426772ACBFC801AD61AAF",
    "nome": "Pescador_Parrudo",
-   "data": "2026-11-17 13:26:30",
-   "total_nivel": 97,
-   "total_xp": 20418,
+   "data": "2026-11-17 13:44:16",
+   "total_nivel": 98,
+   "total_xp": 20976,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 340,
+     "xp": 368,
      "nivel": 8
     },
     {
@@ -1974,7 +1974,7 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 124,
+     "xp": 139,
      "nivel": 4
     },
     {
@@ -1986,14 +1986,14 @@
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 37,
+     "xp": 59,
      "nivel": 2
     },
     {
      "id": "vwY5IkQJJDwb2PKEfoc8MQ",
      "nome": "Fishing",
-     "xp": 4544,
-     "nivel": 28
+     "xp": 5035,
+     "nivel": 29
     },
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
@@ -2022,7 +2022,7 @@
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 2,
+     "xp": 4,
      "nivel": 1
     }
    ]
