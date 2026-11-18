@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T01:57:59Z",
+ "atualizado": "2026-11-18T02:15:10Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,14 +491,14 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-18 01:57:59",
+   "data": "2026-11-18 02:15:10",
    "total_nivel": 519,
-   "total_xp": 414272,
+   "total_xp": 414974,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 13804,
+     "xp": 13858,
      "nivel": 39
     },
     {
@@ -516,7 +516,7 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 11047,
+     "xp": 11375,
      "nivel": 37
     },
     {
@@ -528,7 +528,7 @@
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 12293,
+     "xp": 12613,
      "nivel": 38
     },
     {
@@ -815,14 +815,14 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-18 01:57:59",
-   "total_nivel": 356,
-   "total_xp": 147467,
+   "data": "2026-11-18 02:15:10",
+   "total_nivel": 359,
+   "total_xp": 148692,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 18694,
+     "xp": 18769,
      "nivel": 42
     },
     {
@@ -834,8 +834,8 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 12178,
-     "nivel": 37
+     "xp": 12553,
+     "nivel": 38
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
@@ -846,7 +846,7 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 43868,
+     "xp": 43874,
      "nivel": 50
     },
     {
@@ -864,7 +864,7 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 44944,
+     "xp": 45338,
      "nivel": 51
     },
     {
@@ -876,8 +876,8 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 1552,
-     "nivel": 18
+     "xp": 1927,
+     "nivel": 20
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
