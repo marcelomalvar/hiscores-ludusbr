@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T00:11:05Z",
+ "atualizado": "2026-11-18T00:26:10Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,14 +491,14 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-18 00:11:05",
-   "total_nivel": 511,
-   "total_xp": 395284,
+   "data": "2026-11-18 00:26:10",
+   "total_nivel": 512,
+   "total_xp": 397417,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 12898,
+     "xp": 13006,
      "nivel": 38
     },
     {
@@ -510,14 +510,14 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 107515,
+     "xp": 108585,
      "nivel": 63
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 10237,
-     "nivel": 36
+     "xp": 11047,
+     "nivel": 37
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
@@ -540,13 +540,13 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 33973,
+     "xp": 34024,
      "nivel": 48
     },
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 36244,
+     "xp": 36318,
      "nivel": 48
     },
     {
@@ -558,7 +558,7 @@
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
      "nome": "Runecrafting",
-     "xp": 77154,
+     "xp": 77174,
      "nivel": 58
     },
     {
@@ -896,9 +896,9 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-18 00:11:05",
-   "total_nivel": 352,
-   "total_xp": 135548,
+   "data": "2026-11-18 00:26:10",
+   "total_nivel": 353,
+   "total_xp": 139357,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
@@ -909,7 +909,7 @@
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 2929,
+     "xp": 2951,
      "nivel": 24
     },
     {
@@ -927,8 +927,8 @@
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 40081,
-     "nivel": 49
+     "xp": 43868,
+     "nivel": 50
     },
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
