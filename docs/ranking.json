@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T23:43:20Z",
+ "atualizado": "2026-11-17T23:58:37Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,38 +491,38 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-17 23:43:20",
+   "data": "2026-11-17 23:58:37",
    "total_nivel": 511,
-   "total_xp": 394514,
+   "total_xp": 395132,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 12763,
+     "xp": 12844,
      "nivel": 38
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 73803,
+     "xp": 74009,
      "nivel": 57
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 107425,
+     "xp": 107515,
      "nivel": 63
     },
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 10123,
+     "xp": 10139,
      "nivel": 36
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 15676,
+     "xp": 15802,
      "nivel": 40
     },
     {
@@ -546,7 +546,7 @@
     {
      "id": "jqX0Gh6QI0GFFPCDFK_CJQ",
      "nome": "Mining",
-     "xp": 36146,
+     "xp": 36244,
      "nivel": 48
     },
     {
@@ -564,7 +564,7 @@
     {
      "id": "4zYUGF5u_0KbMLkWJmmBbQ",
      "nome": "Woodcutting",
-     "xp": 6871,
+     "xp": 6872,
      "nivel": 32
     }
    ]
@@ -1058,14 +1058,14 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-17 23:43:20",
-   "total_nivel": 349,
-   "total_xp": 127506,
+   "data": "2026-11-17 23:58:37",
+   "total_nivel": 351,
+   "total_xp": 128960,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 18149,
+     "xp": 18174,
      "nivel": 41
     },
     {
@@ -1083,14 +1083,14 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 2822,
-     "nivel": 23
+     "xp": 2904,
+     "nivel": 24
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 32202,
-     "nivel": 47
+     "xp": 33549,
+     "nivel": 48
     },
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
