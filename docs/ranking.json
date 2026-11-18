@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T01:12:01Z",
+ "atualizado": "2026-11-18T01:27:11Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -491,14 +491,14 @@
   {
    "guid": "0F75869E5DD64733B115B6962AF9E767",
    "nome": "TKzim",
-   "data": "2026-11-18 01:12:00",
-   "total_nivel": 515,
-   "total_xp": 407339,
+   "data": "2026-11-18 01:27:11",
+   "total_nivel": 516,
+   "total_xp": 410392,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 13297,
+     "xp": 13486,
      "nivel": 38
     },
     {
@@ -510,7 +510,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 111541,
+     "xp": 113799,
      "nivel": 64
     },
     {
@@ -540,7 +540,7 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 37317,
+     "xp": 37633,
      "nivel": 49
     },
     {
@@ -552,8 +552,8 @@
     {
      "id": "heq7u88Q2UuLXFqLGTVwQw",
      "nome": "Ranged",
-     "xp": 5904,
-     "nivel": 30
+     "xp": 6194,
+     "nivel": 31
     },
     {
      "id": "NOqC-z-2ckqi0El22qMFlw",
@@ -896,14 +896,14 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-18 01:12:01",
+   "data": "2026-11-18 01:27:11",
    "total_nivel": 355,
-   "total_xp": 143811,
+   "total_xp": 145769,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 18359,
+     "xp": 18469,
      "nivel": 42
     },
     {
@@ -915,7 +915,7 @@
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
      "nome": "Attack",
-     "xp": 12110,
+     "xp": 12178,
      "nivel": 37
     },
     {
@@ -945,7 +945,7 @@
     {
      "id": "0hreSMRVXUihq9qjDO2CFA",
      "nome": "Magic",
-     "xp": 41731,
+     "xp": 43511,
      "nivel": 50
     },
     {
