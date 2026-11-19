@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T00:41:15Z",
+ "atualizado": "2026-11-19T00:56:20Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -734,21 +734,21 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-19 00:41:15",
-   "total_nivel": 387,
-   "total_xp": 164041,
+   "data": "2026-11-19 00:56:20",
+   "total_nivel": 394,
+   "total_xp": 168169,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 19520,
+     "xp": 19570,
      "nivel": 42
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 3923,
-     "nivel": 27
+     "xp": 7687,
+     "nivel": 33
     },
     {
      "id": "4pefO9k1lUqfA6mvHNi1SA",
@@ -759,13 +759,13 @@
     {
      "id": "waK-8EyQFQ2xEjCGYmuTRQ",
      "nome": "Construction",
-     "xp": 3005,
-     "nivel": 24
+     "xp": 3249,
+     "nivel": 25
     },
     {
      "id": "Tn7t6DQyX0-Q0cM5K7B90A",
      "nome": "Cooking",
-     "xp": 47427,
+     "xp": 47497,
      "nivel": 51
     },
     {
