@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T02:12:41Z",
+ "atualizado": "2026-11-20T02:27:42Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -734,14 +734,14 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-20 02:12:41",
+   "data": "2026-11-20 02:27:42",
    "total_nivel": 396,
-   "total_xp": 175738,
+   "total_xp": 175763,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 20017,
+     "xp": 20042,
      "nivel": 42
     },
     {
