@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T02:59:24Z",
+ "atualizado": "2026-11-20T03:10:46Z",
  "mundo": "E55D094E4569A1CA0FE7259AD341F48B",
  "jogadores": [
   {
@@ -734,20 +734,20 @@
   {
    "guid": "106A66A73DF2430499A1519889586E76",
    "nome": "Meeih",
-   "data": "2026-11-20 02:59:24",
+   "data": "2026-11-20 03:10:46",
    "total_nivel": 405,
-   "total_xp": 183062,
+   "total_xp": 183611,
    "skills": [
     {
      "id": "pJggvotwOkuoc98igUn7xA",
      "nome": "Agility",
-     "xp": 20321,
+     "xp": 20371,
      "nivel": 43
     },
     {
      "id": "Wf3i7Ha-B06DH719j1vtBw",
      "nome": "Artisan",
-     "xp": 7691,
+     "xp": 7696,
      "nivel": 33
     },
     {
@@ -771,7 +771,7 @@
     {
      "id": "PyUi-0LU_riFY46AnnFiWg",
      "nome": "Farming",
-     "xp": 6719,
+     "xp": 7213,
      "nivel": 32
     },
     {
